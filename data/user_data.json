@@ -1,0 +1,28 @@
+{
+    "language": "english",
+    "gender": "male",
+    "favorite_categories": [
+        "Politics",
+        "Technology",
+        "Entertainment",
+        "Crime",
+        "Business",
+        "Sports",
+        "World News",
+        "Paralympics 2024",
+        "Top News",
+        "Finance"
+    ],
+    "favorite_tags": [
+        "government",
+        "home and interior design",
+        "accidents",
+        "crime",
+        "national security",
+        "elections",
+        "space",
+        "corporate news",
+        "immigration and migrant issues",
+        "law and justice"
+    ]
+}

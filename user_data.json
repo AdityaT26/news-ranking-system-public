@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "gender": "male",
+    "favorite_categories": [
+        [
+            "Politics",
+            35
+        ],
+        [
+            "Technology",
+            33
+        ],
+        [
+            "Entertainment",
+            19
+        ],
+        [
+            "Crime",
+            13
+        ],
+        [
+            "Business",
+            9
+        ],
+        [
+            "Sports",
+            6
+        ],
+        [
+            "World News",
+            5
+        ],
+        [
+            "Paralympics 2024",
+            4
+        ],
+        [
+            "Top News",
+            4
+        ],
+        [
+            "Finance",
+            2
+        ]
+    ],
+    "favorite_tags": [
+        [
+            "government",
+            30
+        ],
+        [
+            "technology",
+            38
+        ],
+        [
+            "artificial intelligence",
+            30
+        ],
+        [
+            "home and interior design",
+            24
+        ],
+        [
+            "accidents",
+            16
+        ],
+        [
+            "crime",
+            15
+        ],
+        [
+            "national security",
+            11
+        ],
+        [
+            "elections",
+            6
+        ],
+        [
+            "space",
+            4
+        ],
+        [
+            "corporate news",
+            4
+        ],
+        [
+            "immigration and migrant issues",
+            3
+        ],
+        [
+            "law and justice",
+            3
+        ]
+    ]
+}

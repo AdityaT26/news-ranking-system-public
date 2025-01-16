@@ -1,0 +1,427 @@
+[
+    {
+        "_id": "670691150cc3aba459e60035",
+        "slug": "accidents",
+        "name": "accidents"
+    },
+    {
+        "_id": "670691170cc3aba459e60038",
+        "slug": "cricket",
+        "name": "cricket"
+    },
+    {
+        "_id": "670691170cc3aba459e6003a",
+        "slug": "awards and recognitions",
+        "name": "awards and recognitions"
+    },
+    {
+        "_id": "670691190cc3aba459e6003c",
+        "slug": "human rights",
+        "name": "human rights"
+    },
+    {
+        "_id": "670691190cc3aba459e6003e",
+        "slug": "crime",
+        "name": "crime"
+    },
+    {
+        "_id": "6706911a0cc3aba459e60040",
+        "slug": "politics",
+        "name": "politics"
+    },
+    {
+        "_id": "6706911b0cc3aba459e60043",
+        "slug": "education",
+        "name": "education"
+    },
+    {
+        "_id": "6706911c0cc3aba459e60046",
+        "slug": "natural disasters",
+        "name": "natural disasters"
+    },
+    {
+        "_id": "670691200cc3aba459e6004d",
+        "slug": "economy",
+        "name": "economy"
+    },
+    {
+        "_id": "670691220cc3aba459e60051",
+        "slug": "climate and weather",
+        "name": "climate and weather"
+    },
+    {
+        "_id": "670691250cc3aba459e60055",
+        "slug": "elections",
+        "name": "elections"
+    },
+    {
+        "_id": "670691260cc3aba459e60058",
+        "slug": "celebrity",
+        "name": "celebrity"
+    },
+    {
+        "_id": "670691270cc3aba459e6005b",
+        "slug": "movies",
+        "name": "movies"
+    },
+    {
+        "_id": "670691280cc3aba459e6005f",
+        "slug": "supply chain and logistics",
+        "name": "supply chain and logistics"
+    },
+    {
+        "_id": "670691290cc3aba459e60061",
+        "slug": "financial markets",
+        "name": "financial markets"
+    },
+    {
+        "_id": "6706912a0cc3aba459e60063",
+        "slug": "religious events and festivals",
+        "name": "religious events and festivals"
+    },
+    {
+        "_id": "6706912b0cc3aba459e60065",
+        "slug": "government",
+        "name": "government"
+    },
+    {
+        "_id": "670691350cc3aba459e60077",
+        "slug": "pharma and healthcare",
+        "name": "pharma and healthcare"
+    },
+    {
+        "_id": "670691370cc3aba459e6007b",
+        "slug": "sports",
+        "name": "sports"
+    },
+    {
+        "_id": "670691440cc3aba459e60085",
+        "slug": "energy",
+        "name": "energy"
+    },
+    {
+        "_id": "670691490cc3aba459e6008a",
+        "slug": "conflicts & war",
+        "name": "conflicts & war"
+    },
+    {
+        "_id": "670691530cc3aba459e60095",
+        "slug": "telecom",
+        "name": "telecom"
+    },
+    {
+        "_id": "670691550cc3aba459e60098",
+        "slug": "diseases",
+        "name": "diseases"
+    },
+    {
+        "_id": "670691570cc3aba459e6009b",
+        "slug": "automotive",
+        "name": "automotive"
+    },
+    {
+        "_id": "6706915e0cc3aba459e600a3",
+        "slug": "research",
+        "name": "research"
+    },
+    {
+        "_id": "670691650cc3aba459e600ac",
+        "slug": "mental health",
+        "name": "mental health"
+    },
+    {
+        "_id": "670691660cc3aba459e600ae",
+        "slug": "wildlife",
+        "name": "wildlife"
+    },
+    {
+        "_id": "670691680cc3aba459e600b0",
+        "slug": "corporate news",
+        "name": "corporate news"
+    },
+    {
+        "_id": "6706916a0cc3aba459e600b3",
+        "slug": "social media and internet",
+        "name": "social media and internet"
+    },
+    {
+        "_id": "6706916c0cc3aba459e600b6",
+        "slug": "ocean conservation",
+        "name": "ocean conservation"
+    },
+    {
+        "_id": "6706916f0cc3aba459e600ba",
+        "slug": "startups & entrepreneurship",
+        "name": "startups & entrepreneurship"
+    },
+    {
+        "_id": "670691720cc3aba459e600be",
+        "slug": "eco-friendly",
+        "name": "eco-friendly"
+    },
+    {
+        "_id": "6706917c0cc3aba459e600c9",
+        "slug": "pollution",
+        "name": "pollution"
+    },
+    {
+        "_id": "670691890cc3aba459e600d3",
+        "slug": "banking and finance",
+        "name": "banking and finance"
+    },
+    {
+        "_id": "670691980cc3aba459e600ee",
+        "slug": "soccer",
+        "name": "soccer"
+    },
+    {
+        "_id": "6706919b0cc3aba459e600f5",
+        "slug": "entertainment",
+        "name": "entertainment"
+    },
+    {
+        "_id": "6706919d0cc3aba459e600f8",
+        "slug": "fmcg",
+        "name": "fmcg"
+    },
+    {
+        "_id": "6706919d0cc3aba459e600f9",
+        "slug": "tourism",
+        "name": "tourism"
+    },
+    {
+        "_id": "670691a00cc3aba459e600fe",
+        "slug": "television",
+        "name": "television"
+    },
+    {
+        "_id": "670691a10cc3aba459e60101",
+        "slug": "food",
+        "name": "food"
+    },
+    {
+        "_id": "670691a40cc3aba459e60106",
+        "slug": "technology",
+        "name": "technology"
+    },
+    {
+        "_id": "670691c20cc3aba459e60127",
+        "slug": "health and fitness",
+        "name": "health and fitness"
+    },
+    {
+        "_id": "670691c70cc3aba459e6012e",
+        "slug": "national security",
+        "name": "national security"
+    },
+    {
+        "_id": "670691da0cc3aba459e60141",
+        "slug": "insurance",
+        "name": "insurance"
+    },
+    {
+        "_id": "670691e40cc3aba459e6014c",
+        "slug": "real estate",
+        "name": "real estate"
+    },
+    {
+        "_id": "670691f10cc3aba459e6015b",
+        "slug": "cybercrime and cybersecurity",
+        "name": "cybercrime and cybersecurity"
+    },
+    {
+        "_id": "670691f70cc3aba459e60167",
+        "slug": "fashion and lifestyle",
+        "name": "fashion and lifestyle"
+    },
+    {
+        "_id": "670692140cc3aba459e60190",
+        "slug": "artificial intelligence",
+        "name": "artificial intelligence"
+    },
+    {
+        "_id": "670692170cc3aba459e60194",
+        "slug": "wrestling",
+        "name": "wrestling"
+    },
+    {
+        "_id": "6706923f0cc3aba459e601b1",
+        "slug": "gaming",
+        "name": "gaming"
+    },
+    {
+        "_id": "670692430cc3aba459e601b6",
+        "slug": "international trade",
+        "name": "international trade"
+    },
+    {
+        "_id": "670692560cc3aba459e601c6",
+        "slug": "e-commerce",
+        "name": "e-commerce"
+    },
+    {
+        "_id": "6706926a0cc3aba459e601d7",
+        "slug": "home and interior design",
+        "name": "home and interior design"
+    },
+    {
+        "_id": "670692740cc3aba459e601e2",
+        "slug": "cryptocurrencies",
+        "name": "cryptocurrencies"
+    },
+    {
+        "_id": "670692920cc3aba459e601fc",
+        "slug": "american football",
+        "name": "american football"
+    },
+    {
+        "_id": "670692940cc3aba459e601fe",
+        "slug": "baseball",
+        "name": "baseball"
+    },
+    {
+        "_id": "670692ba0cc3aba459e60216",
+        "slug": "basketball",
+        "name": "basketball"
+    },
+    {
+        "_id": "670692c70cc3aba459e60223",
+        "slug": "law and justice",
+        "name": "law and justice"
+    },
+    {
+        "_id": "670692ec0cc3aba459e6023d",
+        "slug": "golf",
+        "name": "golf"
+    },
+    {
+        "_id": "670697690cc3aba459e602d3",
+        "slug": "religion",
+        "name": "religion"
+    },
+    {
+        "_id": "670697690cc3aba459e602d4",
+        "slug": "religion",
+        "name": "religion"
+    },
+    {
+        "_id": "6706976b0cc3aba459e602db",
+        "slug": "recycling",
+        "name": "recycling"
+    },
+    {
+        "_id": "6706976b0cc3aba459e602dc",
+        "slug": "recycling",
+        "name": "recycling"
+    },
+    {
+        "_id": "670697e10cc3aba459e6032a",
+        "slug": "metal & mining",
+        "name": "metal & mining"
+    },
+    {
+        "_id": "6706995b0cc3aba459e603b8",
+        "slug": "nonprofit organizations",
+        "name": "nonprofit organizations"
+    },
+    {
+        "_id": "67069a89166f2fea97f47ae3",
+        "slug": "corporate social responsibility",
+        "name": "corporate social responsibility"
+    },
+    {
+        "_id": "67069a92166f2fea97f47af0",
+        "slug": "science and innovations",
+        "name": "science and innovations"
+    },
+    {
+        "_id": "67069a97166f2fea97f47af4",
+        "slug": "agriculture and farming",
+        "name": "agriculture and farming"
+    },
+    {
+        "_id": "67069cdee8554f705686ab98",
+        "slug": "space",
+        "name": "space"
+    },
+    {
+        "_id": "67069f6ee8554f705686abcf",
+        "slug": "mixed martial arts",
+        "name": "mixed martial arts"
+    },
+    {
+        "_id": "67069f70e8554f705686abd1",
+        "slug": "tennis",
+        "name": "tennis"
+    },
+    {
+        "_id": "6706a030e8554f705686ac0f",
+        "slug": "motorsports",
+        "name": "motorsports"
+    },
+    {
+        "_id": "6706a113e8554f705686ac97",
+        "slug": "renewable energy",
+        "name": "renewable energy"
+    },
+    {
+        "_id": "6706a3d9e8554f705686ad2c",
+        "slug": "aviation",
+        "name": "aviation"
+    },
+    {
+        "_id": "6706a3e9e8554f705686ad4f",
+        "slug": "terrorism",
+        "name": "terrorism"
+    },
+    {
+        "_id": "6706ab6de8554f705686ae72",
+        "slug": "lgbtq",
+        "name": "lgbtq"
+    },
+    {
+        "_id": "6706b459e8554f705686af7b",
+        "slug": "boxing",
+        "name": "boxing"
+    },
+    {
+        "_id": "6706c4bce8554f705686b161",
+        "slug": "field hockey",
+        "name": "field hockey"
+    },
+    {
+        "_id": "670fb72e12a419823531f57b",
+        "slug": "volleyball",
+        "name": "volleyball"
+    },
+    {
+        "_id": "670fc5cfa7733d360c8d0da1",
+        "slug": "textile",
+        "name": "textile"
+    },
+    {
+        "_id": "670fcbd3b1f7ffcb7e00e043",
+        "slug": "immigration and migrant issues",
+        "name": "immigration and migrant issues"
+    },
+    {
+        "_id": "671188ed054b914898c47aaa",
+        "slug": "rugby",
+        "name": "rugby"
+    },
+    {
+        "_id": "67125c4e054b914898c49f70",
+        "slug": "chemicals",
+        "name": "chemicals"
+    },
+    {
+        "_id": "67301aca054b914898c789b3",
+        "slug": "work-life balance",
+        "name": "work-life balance"
+    },
+    {
+        "_id": "675f066c674334392b6f51f2",
+        "slug": "philanthropy",
+        "name": "philanthropy"
+    }
+]

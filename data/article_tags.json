@@ -1,0 +1,220 @@
+[
+    {
+        "_id": "65eed5682132b2a8ff4a79b7",
+        "name": "Technology",
+        "slug": "technology",
+        "createdAt": "2024-03-11T09:56:56.911000",
+        "updatedAt": "2024-03-18T19:24:05.677000",
+        "__v": 0
+    },
+    {
+        "_id": "65eed56e2132b2a8ff4a79c3",
+        "name": "Sports",
+        "slug": "sports",
+        "createdAt": "2024-03-11T09:57:02.086000",
+        "updatedAt": "2024-03-18T19:24:14.186000",
+        "__v": 0
+    },
+    {
+        "_id": "65eed5762132b2a8ff4a79d5",
+        "name": "Politics",
+        "slug": "politics",
+        "createdAt": "2024-03-11T09:57:10.712000",
+        "updatedAt": "2024-03-18T19:24:20.221000",
+        "__v": 0
+    },
+    {
+        "_id": "65eed57b2132b2a8ff4a79df",
+        "name": "Fashion & Lifestyle",
+        "slug": "fashion-&-lifestyle",
+        "createdAt": "2024-03-11T09:57:15.154000",
+        "updatedAt": "2024-03-18T19:24:26.399000",
+        "__v": 0
+    },
+    {
+        "_id": "65eed5872132b2a8ff4a79f6",
+        "name": "Elections",
+        "slug": "elections",
+        "createdAt": "2024-03-11T09:57:27.654000",
+        "updatedAt": "2024-03-18T19:24:31.683000",
+        "__v": 0
+    },
+    {
+        "_id": "65eed58c2132b2a8ff4a7a00",
+        "name": "Television",
+        "slug": "television",
+        "createdAt": "2024-03-11T09:57:32.151000",
+        "updatedAt": "2024-03-18T19:24:44.298000",
+        "__v": 0
+    },
+    {
+        "_id": "65eed5902132b2a8ff4a7a08",
+        "name": "Movies",
+        "slug": "movies",
+        "createdAt": "2024-03-11T09:57:36.455000",
+        "updatedAt": "2024-03-18T19:24:50.146000",
+        "__v": 0
+    },
+    {
+        "_id": "65eed5952132b2a8ff4a7a12",
+        "name": "Awards and recognitions",
+        "slug": "awards-and-recognitions",
+        "createdAt": "2024-03-11T09:57:41.154000",
+        "updatedAt": "2024-03-18T19:24:58.503000",
+        "__v": 0
+    },
+    {
+        "_id": "65eed5992132b2a8ff4a7a1c",
+        "name": "Celebrity",
+        "slug": "celebrity",
+        "createdAt": "2024-03-11T09:57:45.026000",
+        "updatedAt": "2024-03-18T19:25:04.529000",
+        "__v": 0
+    },
+    {
+        "_id": "65eed59c2132b2a8ff4a7a26",
+        "name": "Entertainment",
+        "slug": "entertainment",
+        "createdAt": "2024-03-11T09:57:48.925000",
+        "updatedAt": "2024-03-18T19:25:19.124000",
+        "__v": 0
+    },
+    {
+        "_id": "65eed5a42132b2a8ff4a7a34",
+        "name": "Health & Fitness",
+        "slug": "health-&-fitness",
+        "createdAt": "2024-03-11T09:57:56.257000",
+        "updatedAt": "2024-03-18T19:22:14.148000",
+        "__v": 0
+    },
+    {
+        "_id": "65eed5a82132b2a8ff4a7a43",
+        "name": "Pharma and Healthcare",
+        "slug": "pharma-and-healthcare",
+        "createdAt": "2024-03-11T09:58:00.354000",
+        "updatedAt": "2024-03-18T19:25:37.752000",
+        "__v": 0
+    },
+    {
+        "_id": "65eed5b02132b2a8ff4a7a51",
+        "name": "Corporate News",
+        "slug": "corporate-news",
+        "createdAt": "2024-03-11T09:58:08.850000",
+        "updatedAt": "2024-03-18T19:25:47.205000",
+        "__v": 0
+    },
+    {
+        "_id": "65eed5b42132b2a8ff4a7a59",
+        "name": "Artificial Intelligence",
+        "slug": "artificial-intelligence",
+        "createdAt": "2024-03-11T09:58:12.777000",
+        "updatedAt": "2024-03-18T19:26:00.755000",
+        "__v": 0
+    },
+    {
+        "_id": "65eed5bc2132b2a8ff4a7a67",
+        "name": "Government",
+        "slug": "government",
+        "createdAt": "2024-03-11T09:58:20.046000",
+        "updatedAt": "2024-03-18T19:26:07.833000",
+        "__v": 0
+    },
+    {
+        "_id": "65eed5c02132b2a8ff4a7a6f",
+        "name": "Accidents",
+        "slug": "accidents",
+        "createdAt": "2024-03-11T09:58:24.313000",
+        "updatedAt": "2024-03-18T19:26:14.071000",
+        "__v": 0
+    },
+    {
+        "_id": "65eed5c72132b2a8ff4a7a7f",
+        "name": "Renewable Energy",
+        "slug": "renewable-energy",
+        "createdAt": "2024-03-11T09:58:31.726000",
+        "updatedAt": "2024-03-18T19:26:24.203000",
+        "__v": 0
+    },
+    {
+        "_id": "65eed5cb2132b2a8ff4a7a87",
+        "name": "Education",
+        "slug": "education",
+        "createdAt": "2024-03-11T09:58:35.712000",
+        "updatedAt": "2024-03-18T19:26:31.179000",
+        "__v": 0
+    },
+    {
+        "_id": "65eed5d62132b2a8ff4a7a9d",
+        "name": "Cricket",
+        "slug": "cricket",
+        "createdAt": "2024-03-11T09:58:46.289000",
+        "updatedAt": "2024-03-18T19:26:50.270000",
+        "__v": 0
+    },
+    {
+        "_id": "65eed5e55982056fd1bca979",
+        "name": "Economy",
+        "slug": "economy",
+        "createdAt": "2024-03-11T09:59:01.695000",
+        "updatedAt": "2024-03-18T19:27:00.359000",
+        "__v": 0
+    },
+    {
+        "_id": "65fd3e4388239afe02c30047",
+        "name": "corporate news",
+        "slug": "corporate news",
+        "createdAt": "2024-03-22T08:16:03.512000",
+        "updatedAt": "2024-03-22T08:16:03.512000",
+        "__v": 0
+    },
+    {
+        "_id": "65fd3e5388239afe02c3005f",
+        "name": "IPL2024",
+        "slug": "ipl2024",
+        "createdAt": "2024-03-22T08:16:19.993000",
+        "updatedAt": "2024-03-28T21:42:12.469000",
+        "__v": 0
+    },
+    {
+        "_id": "65fd3e5888239afe02c30069",
+        "name": "Religion",
+        "slug": "religion",
+        "createdAt": "2024-03-22T08:16:24.829000",
+        "updatedAt": "2024-03-28T21:42:21.502000",
+        "__v": 0
+    },
+    {
+        "_id": "65fd3e6a88239afe02c30091",
+        "name": "Automotive",
+        "slug": "automotive",
+        "createdAt": "2024-03-22T08:16:42.128000",
+        "updatedAt": "2024-03-28T21:42:48.449000",
+        "__v": 0
+    },
+    {
+        "_id": "65fd3e7688239afe02c300a9",
+        "name": "e-Commerce",
+        "slug": "e-commerce",
+        "createdAt": "2024-03-22T08:16:54.874000",
+        "updatedAt": "2024-03-28T21:43:02.846000",
+        "__v": 0
+    },
+    {
+        "_id": "65fd3e7f88239afe02c300b9",
+        "name": "Tennis",
+        "slug": "tennis",
+        "createdAt": "2024-03-22T08:17:03.099000",
+        "updatedAt": "2024-03-28T21:42:55.579000",
+        "__v": 0
+    },
+    {
+        "_id": "6693a7a0b05e878536dda3fc",
+        "slug": "Politics",
+        "name": "Politics"
+    },
+    {
+        "_id": "6693a7a1b05e878536dda3fd",
+        "slug": "Flight",
+        "name": "Flight"
+    }
+]

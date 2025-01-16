@@ -1,0 +1,467 @@
+[
+    {
+        "_id": "65eed5682132b2a8ff4a79b4",
+        "name": "Politics",
+        "slug": "politics",
+        "createdAt": "2024-03-11T09:56:56.419000",
+        "updatedAt": "2024-07-23T17:52:20.486000",
+        "__v": 0,
+        "status": "active"
+    },
+    {
+        "_id": "65eed56d2132b2a8ff4a79c0",
+        "name": "Business",
+        "slug": "business",
+        "createdAt": "2024-03-11T09:57:01.192000",
+        "updatedAt": "2024-08-29T21:34:47.353000",
+        "__v": 0,
+        "status": "active"
+    },
+    {
+        "_id": "65eed57f2132b2a8ff4a79e6",
+        "name": "Infrastructure",
+        "slug": "infrastructure",
+        "createdAt": "2024-03-11T09:57:19.041000",
+        "updatedAt": "2024-08-29T20:56:03.541000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "65f85734a080bdc947d1544f",
+        "name": "Top News",
+        "slug": "top-news",
+        "sources": [],
+        "createdAt": "2024-03-18T15:01:08.183000",
+        "updatedAt": "2024-07-23T17:17:01.677000",
+        "__v": 0,
+        "status": "active"
+    },
+    {
+        "_id": "65f85759a080bdc947d15456",
+        "name": "Entertainment",
+        "slug": "entertainment",
+        "sources": [],
+        "createdAt": "2024-03-18T15:01:45.914000",
+        "updatedAt": "2024-07-23T17:52:27.071000",
+        "__v": 0,
+        "status": "active"
+    },
+    {
+        "_id": "65f857e9a080bdc947d15474",
+        "name": "Technology",
+        "slug": "technology",
+        "sources": [],
+        "createdAt": "2024-03-18T15:04:09.227000",
+        "updatedAt": "2024-08-29T20:56:43.610000",
+        "__v": 0,
+        "status": "active"
+    },
+    {
+        "_id": "65f857f4a080bdc947d1547d",
+        "name": "Health & Wellness",
+        "slug": "health",
+        "sources": [],
+        "createdAt": "2024-03-18T15:04:20.628000",
+        "updatedAt": "2024-08-29T21:00:58.555000",
+        "__v": 0,
+        "status": "active"
+    },
+    {
+        "_id": "65f85825a080bdc947d1549b",
+        "name": "Education",
+        "slug": "education",
+        "sources": [],
+        "createdAt": "2024-03-18T15:05:09.993000",
+        "updatedAt": "2024-08-29T21:04:47.960000",
+        "__v": 0,
+        "status": "active"
+    },
+    {
+        "_id": "65f85834a080bdc947d154a7",
+        "name": "Arts & Literature",
+        "slug": "arts-&-literature",
+        "sources": [],
+        "createdAt": "2024-03-18T15:05:24.082000",
+        "updatedAt": "2024-08-29T20:58:48.099000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "65f85848a080bdc947d154b4",
+        "name": "India 2030",
+        "slug": "india-2030",
+        "sources": [],
+        "createdAt": "2024-03-18T15:05:44.672000",
+        "updatedAt": "2024-08-29T21:07:45.165000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "65f8586fa080bdc947d154c2",
+        "name": "Food and Drink",
+        "slug": "Food & Drink",
+        "sources": [],
+        "createdAt": "2024-03-18T15:06:23.751000",
+        "updatedAt": "2024-07-23T17:21:05.337000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "65f8587ba080bdc947d154d1",
+        "name": "Fashion and Beauty",
+        "slug": "Fashion & Beauty",
+        "sources": [],
+        "createdAt": "2024-03-18T15:06:35.919000",
+        "updatedAt": "2024-07-23T17:21:09.089000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "65f858a9a080bdc947d154e1",
+        "name": "Crime",
+        "slug": "crime",
+        "sources": [],
+        "createdAt": "2024-03-18T15:07:21.654000",
+        "updatedAt": "2024-07-23T17:52:48.286000",
+        "__v": 0,
+        "status": "active"
+    },
+    {
+        "_id": "65f858b7a080bdc947d154f2",
+        "name": "World News",
+        "slug": "world-news",
+        "sources": [],
+        "createdAt": "2024-03-18T15:07:35.306000",
+        "updatedAt": "2024-07-23T17:52:52.129000",
+        "__v": 0,
+        "status": "active"
+    },
+    {
+        "_id": "65fd3e4388239afe02c30043",
+        "name": "US Election",
+        "slug": "us-election",
+        "sources": [],
+        "createdAt": "2024-03-22T08:16:03.161000",
+        "updatedAt": "2024-11-23T07:46:03.980000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "65fd3e5c88239afe02c30072",
+        "name": "Travel & Tourism",
+        "slug": "travel-&-tourism",
+        "sources": [],
+        "createdAt": "2024-03-22T08:16:28.675000",
+        "updatedAt": "2024-08-30T14:34:21.424000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "65fd3e7688239afe02c300a6",
+        "name": "Culture and Lifestyle",
+        "slug": "lifestyle",
+        "sources": [],
+        "createdAt": "2024-03-22T08:16:54.535000",
+        "updatedAt": "2024-08-29T21:58:12.705000",
+        "__v": 0,
+        "status": "active"
+    },
+    {
+        "_id": "65fd3e7e88239afe02c300b6",
+        "name": "Cricket",
+        "slug": "cricket",
+        "sources": [],
+        "createdAt": "2024-03-22T08:17:02.398000",
+        "updatedAt": "2024-08-29T21:39:25.787000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "65fdc17685379c451d76f41e",
+        "name": "Transforming India",
+        "slug": "transforming-india",
+        "createdAt": "2024-03-22T17:35:50.073000",
+        "updatedAt": "2024-03-22T17:35:50.073000",
+        "__v": 0,
+        "status": "active"
+    },
+    {
+        "_id": "6605e4a36d8daba2e2aa2988",
+        "name": "Economy",
+        "slug": "economy",
+        "createdAt": "2024-03-28T21:44:03.418000",
+        "updatedAt": "2024-08-29T21:40:41.245000",
+        "__v": 0,
+        "status": "active"
+    },
+    {
+        "_id": "6605e4b46d8daba2e2aa29a0",
+        "name": "IPL 2024",
+        "slug": "ipl-2024",
+        "createdAt": "2024-03-28T21:44:20.648000",
+        "updatedAt": "2024-07-23T17:50:34.862000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "6605e5ad6d8daba2e2aa29b9",
+        "name": "Real Estate & Housing",
+        "slug": "real-estate-&-housing",
+        "createdAt": "2024-03-28T21:48:29.699000",
+        "updatedAt": "2024-09-30T16:23:09.952000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "6605e5d66d8daba2e2aa29d3",
+        "name": "Breaking News",
+        "slug": "breaking-news",
+        "createdAt": "2024-03-28T21:49:10.173000",
+        "updatedAt": "2024-07-23T17:48:09.745000",
+        "__v": 0,
+        "status": "active"
+    },
+    {
+        "_id": "6605e5fc6d8daba2e2aa29ee",
+        "name": "Trending News",
+        "slug": "trending-news",
+        "createdAt": "2024-03-28T21:49:48.118000",
+        "updatedAt": "2024-07-23T17:48:00.999000",
+        "__v": 0,
+        "status": "active"
+    },
+    {
+        "_id": "660713ea6722976243405c9c",
+        "name": "Culture & Lifestyle",
+        "slug": "culture",
+        "createdAt": "2024-03-29T19:18:02.911000",
+        "updatedAt": "2024-08-29T21:08:38.162000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "6607145c6722976243405d29",
+        "name": "Agriculture",
+        "slug": "agriculture",
+        "createdAt": "2024-03-29T19:19:56.102000",
+        "updatedAt": "2024-08-23T21:54:32.367000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "660714a76722976243405d81",
+        "name": "Energy & Resources",
+        "slug": "energy-&-resources",
+        "createdAt": "2024-03-29T19:21:11.735000",
+        "updatedAt": "2024-08-29T21:42:03.980000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "660714bb6722976243405da0",
+        "name": "Human Rights",
+        "slug": "human-rights",
+        "createdAt": "2024-03-29T19:21:31.969000",
+        "updatedAt": "2024-08-29T21:42:27.030000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "660714cd6722976243405dc0",
+        "name": "Religion",
+        "slug": "religion",
+        "createdAt": "2024-03-29T19:21:49.433000",
+        "updatedAt": "2024-08-29T21:13:29.639000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "660714fc6722976243405de1",
+        "name": "Space and Astronomy",
+        "slug": "space-and-astronomy",
+        "createdAt": "2024-03-29T19:22:36.815000",
+        "updatedAt": "2024-08-29T21:46:03.185000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "660715086722976243405e03",
+        "name": "History and Archaeology",
+        "slug": "history-and-archaeology",
+        "createdAt": "2024-03-29T19:22:48.983000",
+        "updatedAt": "2024-07-23T17:21:35.087000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "660715146722976243405e26",
+        "name": "Natural Disasters",
+        "slug": "natural-disasters",
+        "createdAt": "2024-03-29T19:23:00.018000",
+        "updatedAt": "2024-08-29T21:45:18.382000",
+        "__v": 0,
+        "status": "active"
+    },
+    {
+        "_id": "660715266722976243405e4a",
+        "name": "Defence and Military",
+        "slug": "defence-and-military",
+        "createdAt": "2024-03-29T19:23:18.403000",
+        "updatedAt": "2024-08-29T21:43:48.970000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "6607153a6722976243405e6f",
+        "name": "International Affairs",
+        "slug": "international-affairs",
+        "createdAt": "2024-03-29T19:23:38.189000",
+        "updatedAt": "2024-08-29T21:44:00.208000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "66080bc5bc1d63a13e5304c5",
+        "name": "Environment",
+        "slug": "environment",
+        "createdAt": "2024-03-30T12:55:33.297000",
+        "updatedAt": "2024-08-29T21:27:35.349000",
+        "__v": 0,
+        "status": "active"
+    },
+    {
+        "_id": "66080bf0bc1d63a13e530512",
+        "name": "Social Issues",
+        "slug": "social-issues",
+        "createdAt": "2024-03-30T12:56:16.503000",
+        "updatedAt": "2024-08-29T21:45:41.281000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "66080c09bc1d63a13e530561",
+        "name": "Climate Change",
+        "slug": "climate-change",
+        "createdAt": "2024-03-30T12:56:41.748000",
+        "updatedAt": "2024-07-23T17:50:02.980000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "66080e23bc1d63a13e5307c2",
+        "name": "Astrology",
+        "slug": "astrology",
+        "createdAt": "2024-03-30T13:05:39.579000",
+        "updatedAt": "2024-08-29T21:46:40.158000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "660874e0f9b627fa534662ee",
+        "name": "Legal Affairs",
+        "slug": "legal",
+        "createdAt": "2024-03-30T20:24:00.411000",
+        "updatedAt": "2024-08-29T21:04:30.384000",
+        "__v": 0,
+        "status": "active"
+    },
+    {
+        "_id": "660959157a0eda8228bca1c8",
+        "name": "Automotive",
+        "slug": "automotive",
+        "createdAt": "2024-03-31T12:37:41.141000",
+        "updatedAt": "2024-08-29T21:46:50.282000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "6612bcdbc8f582fb2f2508b1",
+        "name": "Finance",
+        "slug": "finance",
+        "createdAt": "2024-04-07T15:33:47.256000",
+        "updatedAt": "2024-08-29T21:33:33.316000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "66449558bf47e4959c5731cc",
+        "name": "Local News",
+        "slug": "local-news",
+        "createdAt": "2024-05-15T10:58:32.466000",
+        "updatedAt": "2024-07-23T17:56:07.215000",
+        "__v": 0,
+        "status": "active"
+    },
+    {
+        "_id": "669fe48db436da52055c3fa9",
+        "name": "Science ",
+        "slug": "science",
+        "createdAt": "2024-07-23T17:12:45.495000",
+        "updatedAt": "2024-08-29T21:30:38.937000",
+        "__v": 0,
+        "status": "active"
+    },
+    {
+        "_id": "669fe4beb436da52055c410c",
+        "name": "Paralympics 2024",
+        "slug": "para-olympic",
+        "createdAt": "2024-07-23T17:13:34.599000",
+        "updatedAt": "2024-09-10T11:11:10.087000",
+        "__v": 0,
+        "status": "inactive"
+    },
+    {
+        "_id": "66a8dc425e0f040928e00a62",
+        "name": "Sports",
+        "slug": "sports",
+        "status": "active",
+        "createdAt": "2024-07-30T12:27:46.483000",
+        "updatedAt": "2024-07-30T12:27:46.483000",
+        "__v": 0
+    },
+    {
+        "_id": "66a8dc795e0f040928e00b82",
+        "name": "Israel-Hamas war",
+        "slug": "israel-hamas-war",
+        "status": "active",
+        "createdAt": "2024-07-30T12:28:41.703000",
+        "updatedAt": "2024-08-29T21:28:11.595000",
+        "__v": 0
+    },
+    {
+        "_id": "66a8dca15e0f040928e00bb5",
+        "name": "Russia-Ukraine war",
+        "slug": "russia-ukraine-war",
+        "status": "active",
+        "createdAt": "2024-07-30T12:29:21.648000",
+        "updatedAt": "2024-07-30T12:29:21.648000",
+        "__v": 0
+    },
+    {
+        "_id": "66aa02fc534439b7b8c11590",
+        "name": "National",
+        "slug": "national",
+        "status": "active",
+        "createdAt": "2024-07-31T09:25:16.769000",
+        "updatedAt": "2024-09-10T10:58:41.578000",
+        "__v": 0
+    },
+    {
+        "_id": "66e08daaa0410dc5434e3f78",
+        "name": "State Elections 2024",
+        "slug": "election-2024",
+        "status": "active",
+        "createdAt": "2024-09-10T18:19:22.910000",
+        "updatedAt": "2024-10-16T09:42:51.410000",
+        "__v": 0
+    },
+    {
+        "_id": "675871005e9ecfd78a44532c",
+        "name": "Start-up News",
+        "slug": "startup",
+        "status": "active",
+        "createdAt": "2024-12-10T16:49:04.466000",
+        "updatedAt": "2024-12-10T16:49:04.466000",
+        "__v": 0
+    }
+]

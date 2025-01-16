@@ -1,0 +1,2130 @@
+[
+    {
+        "_id": "65eb3f15b0b2533bb7a709dc",
+        "source_id": "keralakaumudi",
+        "source_url": "https://keralakaumudi.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/keralakaumudi.jpg",
+        "source_priority": 79921
+    },
+    {
+        "_id": "65eb3f17b0b2533bb7a709e2",
+        "source_id": "news18",
+        "source_url": "https://www.news18.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/news18.png",
+        "source_priority": 6644
+    },
+    {
+        "_id": "65eb3f1ab0b2533bb7a709e8",
+        "source_id": "news24online",
+        "source_url": "https://news24online.com",
+        "source_icon": null,
+        "source_priority": 549589
+    },
+    {
+        "_id": "65eb3f1cb0b2533bb7a709ed",
+        "source_id": "orissadiary",
+        "source_url": "https://orissadiary.com",
+        "source_icon": null,
+        "source_priority": 2836164
+    },
+    {
+        "_id": "65eb3f1eb0b2533bb7a709f0",
+        "source_id": "news9live",
+        "source_url": "https://www.news9live.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/news9live.png",
+        "source_priority": 193096
+    },
+    {
+        "_id": "65eb3f1fb0b2533bb7a709f4",
+        "source_id": "bitcoinworld",
+        "source_url": "https://bitcoinworld.co.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/bitcoinworld.jpg",
+        "source_priority": 2739438
+    },
+    {
+        "_id": "65eb3f22b0b2533bb7a709f9",
+        "source_id": "indiatoday",
+        "source_url": "https://www.indiatoday.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/indiatoday.png",
+        "source_priority": 2885
+    },
+    {
+        "_id": "65eb3f24b0b2533bb7a709fe",
+        "source_id": "newsr",
+        "source_url": "https://www.newsr.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/newsr.png",
+        "source_priority": 29095901
+    },
+    {
+        "_id": "65eb3f26b0b2533bb7a70a02",
+        "source_id": "hindustantimes",
+        "source_url": "http://www.hindustantimes.com",
+        "source_icon": null,
+        "source_priority": 933
+    },
+    {
+        "_id": "65eb3f27b0b2533bb7a70a04",
+        "source_id": "toi",
+        "source_url": "https://timesofindia.indiatimes.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+        "source_priority": 391
+    },
+    {
+        "_id": "65eb3f28b0b2533bb7a70a07",
+        "source_id": "bollywoodlife",
+        "source_url": "https://www.bollywoodlife.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/bollywoodlife.png",
+        "source_priority": 13281
+    },
+    {
+        "_id": "65eb3f29b0b2533bb7a70a0a",
+        "source_id": "economictimes_indiatimes",
+        "source_url": "https://economictimes.indiatimes.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+        "source_priority": 376
+    },
+    {
+        "_id": "65eb3f2ab0b2533bb7a70a0d",
+        "source_id": "telanganatoday",
+        "source_url": "https://telanganatoday.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/telanganatoday.png",
+        "source_priority": 63887
+    },
+    {
+        "_id": "65eb3f2bb0b2533bb7a70a10",
+        "source_id": "techtree",
+        "source_url": "https://www.techtree.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/techtree.png",
+        "source_priority": 440758
+    },
+    {
+        "_id": "65eb3f2fb0b2533bb7a70a17",
+        "source_id": "sportstar",
+        "source_url": "https://sportstar.thehindu.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/sportstar.png",
+        "source_priority": 2972
+    },
+    {
+        "_id": "65eb3f36b0b2533bb7a70a21",
+        "source_id": "kalingatv",
+        "source_url": "https://kalingatv.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/kalingatv.jpg",
+        "source_priority": 474757
+    },
+    {
+        "_id": "65eb3f38b0b2533bb7a70a24",
+        "source_id": "livemint",
+        "source_url": "https://www.livemint.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/livemint.png",
+        "source_priority": 7134
+    },
+    {
+        "_id": "65eb3f39b0b2533bb7a70a26",
+        "source_id": "thehindu",
+        "source_url": "https://www.thehindu.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+        "source_priority": 2972
+    },
+    {
+        "_id": "65eb3f3ab0b2533bb7a70a28",
+        "source_id": "deccanchronicle",
+        "source_url": "https://www.deccanchronicle.com",
+        "source_icon": null,
+        "source_priority": 14130
+    },
+    {
+        "_id": "65eb3f3bb0b2533bb7a70a2b",
+        "source_id": "dailyexcelsior",
+        "source_url": "https://www.dailyexcelsior.com",
+        "source_icon": null,
+        "source_priority": 693953
+    },
+    {
+        "_id": "65eb3f3fb0b2533bb7a70a32",
+        "source_id": "geeky_gadgets",
+        "source_url": "https://www.geeky-gadgets.com",
+        "source_icon": null,
+        "source_priority": 19907
+    },
+    {
+        "_id": "65eb3f43b0b2533bb7a70a3a",
+        "source_id": "businesslend",
+        "source_url": "https://www.businesslend.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/businesslend.png",
+        "source_priority": 716394
+    },
+    {
+        "_id": "65eb3f49b0b2533bb7a70a46",
+        "source_id": "zeenews",
+        "source_url": "http://zeenews.india.com",
+        "source_icon": null,
+        "source_priority": 5319
+    },
+    {
+        "_id": "65eb6e4c0561777eaca006e8",
+        "source_id": "hindinews18",
+        "source_url": "https://hindi.news18.com",
+        "source_icon": null,
+        "source_priority": 6509
+    },
+    {
+        "_id": "65ebc2b207c446ebded6e476",
+        "source_id": "khaskhabar",
+        "source_url": "https://www.khaskhabar.com",
+        "source_icon": null,
+        "source_priority": 5174519
+    },
+    {
+        "_id": "65ebc2bc07c446ebded6e47b",
+        "source_id": "currentcrime",
+        "source_url": "http://www.currentcrime.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/currentcrime.jpg",
+        "source_priority": 15753694
+    },
+    {
+        "_id": "65ebc2c207c446ebded6e47e",
+        "source_id": "tv9bharatvarsh",
+        "source_url": "https://www.tv9hsindi.com",
+        "source_icon": null,
+        "source_priority": 40538658
+    },
+    {
+        "_id": "65ebc2d307c446ebded6e482",
+        "source_id": "ndtv_in",
+        "source_url": "https://www.ndtv.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/ndtv_in.png",
+        "source_priority": 129751
+    },
+    {
+        "_id": "65ec1707a28d480165e0bf9e",
+        "source_id": "munsifdaily",
+        "source_url": "https://munsifdaily.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/munsifdaily.jpg",
+        "source_priority": 1196600
+    },
+    {
+        "_id": "65ec170aa28d480165e0bfa0",
+        "source_id": "bollywoodhungama",
+        "source_url": "https://www.bollywoodhungama.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/bollywoodhungama.png",
+        "source_priority": 12106
+    },
+    {
+        "_id": "65ec1719a28d480165e0bfa7",
+        "source_id": "thequint",
+        "source_url": "https://www.thequint.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/thequint.png",
+        "source_priority": 9980
+    },
+    {
+        "_id": "65ec171ca28d480165e0bfa9",
+        "source_id": "newindianexpress",
+        "source_url": "https://www.newindianexpress.com/nation",
+        "source_icon": null,
+        "source_priority": 15406
+    },
+    {
+        "_id": "65ec1727a28d480165e0bfaf",
+        "source_id": "theindianawaaz",
+        "source_url": "https://theindianawaaz.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/theindianawaaz.png",
+        "source_priority": 10677326
+    },
+    {
+        "_id": "65ec1738a28d480165e0bfb7",
+        "source_id": "newsroompost",
+        "source_url": "https://newsroompost.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/newsroompost.jpg",
+        "source_priority": 57039
+    },
+    {
+        "_id": "65ec173ba28d480165e0bfb9",
+        "source_id": "greaterkashmir",
+        "source_url": "https://www.greaterkashmir.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/greaterkashmir.jpg",
+        "source_priority": 146524
+    },
+    {
+        "_id": "65ec6b77291246a9c89bd93d",
+        "source_id": "thenorthlines",
+        "source_url": "https://www.thenorthlines.com",
+        "source_icon": null,
+        "source_priority": 2728360
+    },
+    {
+        "_id": "65ec6b90291246a9c89bd947",
+        "source_id": "thesportsrush",
+        "source_url": "https://thesportsrush.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/thesportsrush.jpg",
+        "source_priority": 4166
+    },
+    {
+        "_id": "65ec6b93291246a9c89bd949",
+        "source_id": "newsbytesapp",
+        "source_url": "https://www.newsbytesapp.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
+        "source_priority": 309848
+    },
+    {
+        "_id": "65ec6b9b291246a9c89bd94d",
+        "source_id": "mid_day",
+        "source_url": "https://www.mid-day.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/mid_day.png",
+        "source_priority": 4893
+    },
+    {
+        "_id": "65ecbfd62f427b3a53868244",
+        "source_id": "9to5google",
+        "source_url": "https://9to5google.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/9to5google.png",
+        "source_priority": 8354
+    },
+    {
+        "_id": "65ecbfdc2f427b3a53868248",
+        "source_id": "knowledia",
+        "source_url": "http://news.knowledia.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/knowledia.png",
+        "source_priority": 167779
+    },
+    {
+        "_id": "65ecbfea2f427b3a5386824f",
+        "source_id": "kashmirreader",
+        "source_url": "https://kashmirreader.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/kashmirreader.jpg",
+        "source_priority": 1088812
+    },
+    {
+        "_id": "65ecbff32f427b3a53868253",
+        "source_id": "news4social",
+        "source_url": "https://en.news4social.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/news4social.png",
+        "source_priority": 10742357
+    },
+    {
+        "_id": "65ed142b88853447fd9c02e5",
+        "source_id": "latestly",
+        "source_url": "https://www.latestly.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+        "source_priority": 5523
+    },
+    {
+        "_id": "65ed145988853447fd9c0300",
+        "source_id": "thehansindia",
+        "source_url": "http://www.thehansindia.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/thehansindia.png",
+        "source_priority": 58957
+    },
+    {
+        "_id": "65ed689ba06aee512834479b",
+        "source_id": "pragativadi",
+        "source_url": "https://pragativadi.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/pragativadi.jpg",
+        "source_priority": 440576
+    },
+    {
+        "_id": "65ed689fa06aee512834479f",
+        "source_id": "ibtimes",
+        "source_url": "https://www.ibtimes.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/ibtimes.png",
+        "source_priority": 458722
+    },
+    {
+        "_id": "65ed68a2a06aee51283447a1",
+        "source_id": "business-standard",
+        "source_url": "https://www.business-standard.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/business-standard.png",
+        "source_priority": 9158
+    },
+    {
+        "_id": "65ed68a4a06aee51283447a3",
+        "source_id": "freepressjournal",
+        "source_url": "https://www.freepressjournal.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
+        "source_priority": 83130
+    },
+    {
+        "_id": "65ed68b3a06aee51283447ab",
+        "source_id": "michigansportszone",
+        "source_url": "https://www.michigansportszone.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/michigansportszone.png",
+        "source_priority": 150658
+    },
+    {
+        "_id": "65ed90b6ca5de456e7462ffd",
+        "source_id": "sambadenglish",
+        "source_url": "https://sambadenglish.com",
+        "source_icon": null,
+        "source_priority": 332200
+    },
+    {
+        "_id": "65ed90cbca5de456e7463004",
+        "source_id": "assamtribune",
+        "source_url": "https://assamtribune.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/assamtribune.jpg",
+        "source_priority": 736287
+    },
+    {
+        "_id": "65ed93622ed3b711016cda26",
+        "source_id": "firstpost",
+        "source_url": "https://www.firstpost.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/firstpost.png",
+        "source_priority": 5906
+    },
+    {
+        "_id": "65eda59a1352462c1b5a79a8",
+        "source_id": "sachkahoon",
+        "source_url": "https://www.sachkahoon.com",
+        "source_icon": null,
+        "source_priority": 10821162
+    },
+    {
+        "_id": "65edaf092c103883e1bd2e33",
+        "source_id": "orissapost",
+        "source_url": "https://www.orissapost.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/orissapost.png",
+        "source_priority": 252515
+    },
+    {
+        "_id": "65ee033742b3e88cb688af9d",
+        "source_id": "thehillstimes",
+        "source_url": "https://thehillstimes.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/thehillstimes.png",
+        "source_priority": 4168182
+    },
+    {
+        "_id": "65ee033e42b3e88cb688afa1",
+        "source_id": "indiatvnews",
+        "source_url": "https://www.indiatvnews.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/indiatvnews.png",
+        "source_priority": 10055
+    },
+    {
+        "_id": "65ee57a320cffacd83c2a992",
+        "source_id": "mathrubhumi",
+        "source_url": "https://english.mathrubhumi.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/mathrubhumi.png",
+        "source_priority": 29098
+    },
+    {
+        "_id": "65ee57aa20cffacd83c2a996",
+        "source_id": "dnaindia",
+        "source_url": "https://www.dnaindia.com",
+        "source_icon": null,
+        "source_priority": 18388
+    },
+    {
+        "_id": "65ee57bd20cffacd83c2a9a1",
+        "source_id": "in_mashable",
+        "source_url": "https://in.mashable.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/in_mashable.png",
+        "source_priority": 335
+    },
+    {
+        "_id": "65eeac1616b1a11f72d7c99a",
+        "source_id": "goodreturns",
+        "source_url": "https://www.goodreturns.in",
+        "source_icon": null,
+        "source_priority": 18770
+    },
+    {
+        "_id": "65eeac1b16b1a11f72d7c99d",
+        "source_id": "expresscomputer",
+        "source_url": "https://www.expresscomputer.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/expresscomputer.png",
+        "source_priority": 820148
+    },
+    {
+        "_id": "65eeac2816b1a11f72d7c9a5",
+        "source_id": "telecom_economictimes",
+        "source_url": "https://telecom.economictimes.indiatimes.com",
+        "source_icon": null,
+        "source_priority": 241
+    },
+    {
+        "_id": "65ef00d1029cc942b2cfdaf2",
+        "source_id": "bwhotelier_businessworld",
+        "source_url": "https://bwhotelier.businessworld.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/bwhotelier_businessworld.jpg",
+        "source_priority": 277046
+    },
+    {
+        "_id": "65ef00ea04904aa19386513a",
+        "source_id": "techexplorist",
+        "source_url": "https://www.techexplorist.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/techexplorist.png",
+        "source_priority": 172905
+    },
+    {
+        "_id": "65ef012ee9330093cecb5691",
+        "source_id": "carandbike",
+        "source_url": "https://www.carandbike.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/carandbike.png",
+        "source_priority": 46367
+    },
+    {
+        "_id": "65ef01c5e0897d649d3341ba",
+        "source_id": "sputniknews",
+        "source_url": "https://fr.sputniknews.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/sputniknews.png",
+        "source_priority": 27000
+    },
+    {
+        "_id": "65ef01d2e0897d649d3341bf",
+        "source_id": "opindia",
+        "source_url": "https://www.opindia.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/opindia.png",
+        "source_priority": 37271
+    },
+    {
+        "_id": "65ef0e68cbddf00fd548114b",
+        "source_id": "espn",
+        "source_url": "https://www.espn.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/espn.png",
+        "source_priority": 18
+    },
+    {
+        "_id": "65ef0e6bcbddf00fd548114d",
+        "source_id": "france24",
+        "source_url": "https://www.france24.com/en",
+        "source_icon": null,
+        "source_priority": 2873
+    },
+    {
+        "_id": "65ef0e6dcbddf00fd548114f",
+        "source_id": "kashmirobserver",
+        "source_url": "https://kashmirobserver.net",
+        "source_icon": "https://i.bytvi.com/domain_icons/kashmirobserver.jpg",
+        "source_priority": 596003
+    },
+    {
+        "_id": "65ef0e8ccbddf00fd548115e",
+        "source_id": "startupnews",
+        "source_url": "https://startupnews.fyi",
+        "source_icon": "https://i.bytvi.com/domain_icons/startupnews.png",
+        "source_priority": 2632039
+    },
+    {
+        "_id": "65ef1c7c02d9cfca12e173a2",
+        "source_id": "apnlive",
+        "source_url": "https://www.apnlive.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/apnlive.png",
+        "source_priority": 975691
+    },
+    {
+        "_id": "65ef2a8780f74770cec6e041",
+        "source_id": "inc42",
+        "source_url": "https://inc42.com",
+        "source_icon": null,
+        "source_priority": 140464
+    },
+    {
+        "_id": "65ef2a9180f74770cec6e046",
+        "source_id": "thehindubusinessline",
+        "source_url": "https://www.thehindubusinessline.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/thehindubusinessline.png",
+        "source_priority": 40538125
+    },
+    {
+        "_id": "65ef2a9580f74770cec6e049",
+        "source_id": "sentinel",
+        "source_url": "https://www.sentinelassam.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/sentinel.jpg",
+        "source_priority": 177615
+    },
+    {
+        "_id": "65ef46cda4551410bbb4688a",
+        "source_id": "abplive",
+        "source_url": "http://abplive.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
+        "source_priority": 10959
+    },
+    {
+        "_id": "65ef46d7a4551410bbb46890",
+        "source_id": "informalnewz",
+        "source_url": "https://www.informalnewz.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/informalnewz.png",
+        "source_priority": 763433
+    },
+    {
+        "_id": "65ef54e16676b399604855a8",
+        "source_id": "economist",
+        "source_url": "https://www.economist.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/economist.png",
+        "source_priority": 2794
+    },
+    {
+        "_id": "65ef62dd6fc5300de5c7e9d2",
+        "source_id": "9to5mac",
+        "source_url": "https://9to5mac.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/9to5mac.png",
+        "source_priority": 2672
+    },
+    {
+        "_id": "65ef62e56fc5300de5c7e9d7",
+        "source_id": "ndtv",
+        "source_url": "http://www.ndtv.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
+        "source_priority": 1204
+    },
+    {
+        "_id": "65ef70f6cc73768df10c6571",
+        "source_id": "headlinesoftoday",
+        "source_url": "https://www.headlinesoftoday.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/headlinesoftoday.png",
+        "source_priority": 165425
+    },
+    {
+        "_id": "65ef70fecc73768df10c6576",
+        "source_id": "appleinsider",
+        "source_url": "https://appleinsider.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/appleinsider.png",
+        "source_priority": 3027
+    },
+    {
+        "_id": "65ef710dcc73768df10c657f",
+        "source_id": "cryptotimes",
+        "source_url": "https://www.cryptotimes.io",
+        "source_icon": "https://i.bytvi.com/domain_icons/cryptotimes.png",
+        "source_priority": 243439
+    },
+    {
+        "_id": "65ef9b2bdff6de72d6a93ad1",
+        "source_id": "gsmarena",
+        "source_url": "https://www.gsmarena.com",
+        "source_icon": null,
+        "source_priority": 1423
+    },
+    {
+        "_id": "65efb7495d3435a2c72e65a2",
+        "source_id": "bloombergquint",
+        "source_url": "https://www.bloombergquint.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/bloombergquint.png",
+        "source_priority": 9222807
+    },
+    {
+        "_id": "65efb74c5d3435a2c72e65a5",
+        "source_id": "in_ign",
+        "source_url": "https://in.ign.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/in_ign.png",
+        "source_priority": 149
+    },
+    {
+        "_id": "65efd365917d537844f60b08",
+        "source_id": "cricketcountry",
+        "source_url": "https://www.cricketcountry.com",
+        "source_icon": null,
+        "source_priority": 104348
+    },
+    {
+        "_id": "65efe1774470a10211aa6de9",
+        "source_id": "taxscan",
+        "source_url": "https://www.taxscan.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/taxscan.png",
+        "source_priority": 4352762
+    },
+    {
+        "_id": "65efef72848bb98c6ac13ed4",
+        "source_id": "the_tob",
+        "source_url": "https://www.thetimesofbengal.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/the_tob.jpg",
+        "source_priority": 23459906
+    },
+    {
+        "_id": "65efef93848bb98c6ac13ee5",
+        "source_id": "tellychakkar",
+        "source_url": "https://www.tellychakkar.com",
+        "source_icon": null,
+        "source_priority": 24814
+    },
+    {
+        "_id": "65effd8884a07656149a6738",
+        "source_id": "gadgets360",
+        "source_url": "https://www.gadgets360.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/gadgets360.png",
+        "source_priority": 5369
+    },
+    {
+        "_id": "65effda484a07656149a6745",
+        "source_id": "rollingstoneindia",
+        "source_url": "https://rollingstoneindia.com",
+        "source_icon": null,
+        "source_priority": 55438
+    },
+    {
+        "_id": "65f019ba03c35e77b00b6a66",
+        "source_id": "businesstoday",
+        "source_url": "https://www.businesstoday.in",
+        "source_icon": null,
+        "source_priority": 9735
+    },
+    {
+        "_id": "65f027ca3dd5022aa7003c4d",
+        "source_id": "newstodaynet",
+        "source_url": "https://newstodaynet.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/newstodaynet.png",
+        "source_priority": 2356686
+    },
+    {
+        "_id": "65f027dd3dd5022aa7003c58",
+        "source_id": "mirroruk",
+        "source_url": "https://www.mirror.co.uk",
+        "source_icon": null,
+        "source_priority": 910
+    },
+    {
+        "_id": "65f043d0e6b78a209b538cb4",
+        "source_id": "motor1",
+        "source_url": "https://www.motor1.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/motor1.png",
+        "source_priority": 2452
+    },
+    {
+        "_id": "65f043d2e6b78a209b538cb6",
+        "source_id": "hindustantimes_tech",
+        "source_url": "https://tech.hindustantimes.com",
+        "source_icon": null,
+        "source_priority": 897
+    },
+    {
+        "_id": "65f043eee6b78a209b538cc4",
+        "source_id": "nationalheraldindia",
+        "source_url": "https://www.nationalheraldindia.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/nationalheraldindia.png",
+        "source_priority": 206739
+    },
+    {
+        "_id": "65f0a644ce98d7587dc0b0b0",
+        "source_id": "amarujala",
+        "source_url": "https://www.amarujala.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+        "source_priority": 55215
+    },
+    {
+        "_id": "65f0a64bce98d7587dc0b0b4",
+        "source_id": "arstechnica",
+        "source_url": "https://arstechnica.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/arstechnica.png",
+        "source_priority": 3886
+    },
+    {
+        "_id": "65f0c261dc2836f43e7385e3",
+        "source_id": "oilprice",
+        "source_url": "https://oilprice.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/oilprice.png",
+        "source_priority": 1511
+    },
+    {
+        "_id": "65f132df061d980aafd14876",
+        "source_id": "odishabytes",
+        "source_url": "https://odishabytes.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/odishabytes.jpg",
+        "source_priority": 512881
+    },
+    {
+        "_id": "65f18762e53225fb18cdd09a",
+        "source_id": "bankersadda",
+        "source_url": "https://www.bankersadda.com",
+        "source_icon": null,
+        "source_priority": 658802
+    },
+    {
+        "_id": "65f1b18f6434614ca2912448",
+        "source_id": "krishijagran",
+        "source_url": "https://krishijagran.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/krishijagran.png",
+        "source_priority": 134978
+    },
+    {
+        "_id": "65f1b19c6434614ca291244f",
+        "source_id": "starofmysore",
+        "source_url": "https://starofmysore.com",
+        "source_icon": null,
+        "source_priority": 409045
+    },
+    {
+        "_id": "65f1bf9ab5a16c4d2303e1ed",
+        "source_id": "newznew",
+        "source_url": "https://www.newznew.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/newznew.png",
+        "source_priority": 10695898
+    },
+    {
+        "_id": "65f1dbade5c0df1dd604e2db",
+        "source_id": "trueachievements",
+        "source_url": "https://www.trueachievements.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/trueachievements.png",
+        "source_priority": 4437
+    },
+    {
+        "_id": "65f221f0f5dd0fe423c9e8a3",
+        "source_id": "smarttechtoday",
+        "source_url": "https://www.smarttechtoday.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/smarttechtoday.jpg",
+        "source_priority": 40538676
+    },
+    {
+        "_id": "65f268451dce1a4d1331c042",
+        "source_id": "indiatodayne",
+        "source_url": "https://www.indiatodayne.in",
+        "source_icon": null,
+        "source_priority": 86474
+    },
+    {
+        "_id": "65f2684c1dce1a4d1331c047",
+        "source_id": "nextbigwhat",
+        "source_url": "https://nextbigwhat.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/nextbigwhat.png",
+        "source_priority": 1777341
+    },
+    {
+        "_id": "65f27674321e6362972a376a",
+        "source_id": "thehealthsite",
+        "source_url": "https://www.thehealthsite.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/thehealthsite.png",
+        "source_priority": 13386
+    },
+    {
+        "_id": "65f33b47d6f6ad520f4c1efb",
+        "source_id": "computerworld_in",
+        "source_url": "https://www.computerworld.com/in",
+        "source_icon": "https://i.bytvi.com/domain_icons/computerworld_in.png",
+        "source_priority": 7521
+    },
+    {
+        "_id": "65f33b4fd6f6ad520f4c1eff",
+        "source_id": "kashmirtimes",
+        "source_url": "https://kashmirtimes.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/kashmirtimes.png",
+        "source_priority": 1544773
+    },
+    {
+        "_id": "65f3736839cef798f3de5da8",
+        "source_id": "chromeunboxed",
+        "source_url": "https://chromeunboxed.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/chromeunboxed.jpg",
+        "source_priority": 32064
+    },
+    {
+        "_id": "65f3c7eeaddff25ac03caece",
+        "source_id": "espncricinfo",
+        "source_url": "https://www.espncricinfo.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/espncricinfo.png",
+        "source_priority": 1162
+    },
+    {
+        "_id": "65f3f22ae8e2d04f2910cb9b",
+        "source_id": "krooknews",
+        "source_url": "https://krooknews.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/krooknews.png",
+        "source_priority": 27104826
+    },
+    {
+        "_id": "65f3f24de8e2d04f2910cbad",
+        "source_id": "yovizag",
+        "source_url": "https://www.yovizag.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/yovizag.png",
+        "source_priority": 512494
+    },
+    {
+        "_id": "65f3f264e8e2d04f2910cbba",
+        "source_id": "chandigarhmetro",
+        "source_url": "https://chandigarhmetro.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/chandigarhmetro.png",
+        "source_priority": 1103570
+    },
+    {
+        "_id": "65f3f290e8e2d04f2910cbd1",
+        "source_id": "sify",
+        "source_url": "https://www.sify.com",
+        "source_icon": null,
+        "source_priority": 665761
+    },
+    {
+        "_id": "65f3f3f0e8e2d04f2910cc83",
+        "source_id": "gudstory",
+        "source_url": "https://www.gudstory.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/gudstory.png",
+        "source_priority": 15650
+    },
+    {
+        "_id": "65f40033b8cbb10c7bdc0d5c",
+        "source_id": "bilkulonline",
+        "source_url": "http://www.bilkulonline.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/bilkulonline.jpg",
+        "source_priority": 13829371
+    },
+    {
+        "_id": "65f400ddb8cbb10c7bdc0db2",
+        "source_id": "mashable",
+        "source_url": "https://sea.mashable.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/mashable.png",
+        "source_priority": 363
+    },
+    {
+        "_id": "65f40104b8cbb10c7bdc0dc6",
+        "source_id": "socialsamosa",
+        "source_url": "https://www.socialsamosa.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/socialsamosa.png",
+        "source_priority": 461895
+    },
+    {
+        "_id": "65f401b7b8cbb10c7bdc0e21",
+        "source_id": "scroll",
+        "source_url": "https://scroll.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/scroll.png",
+        "source_priority": 26952
+    },
+    {
+        "_id": "65f401deb8cbb10c7bdc0e35",
+        "source_id": "knnindia",
+        "source_url": "https://knnindia.co.in/home",
+        "source_icon": null,
+        "source_priority": 6653678
+    },
+    {
+        "_id": "65f40217b8cbb10c7bdc0e51",
+        "source_id": "theguardian",
+        "source_url": "https://www.theguardian.com",
+        "source_icon": null,
+        "source_priority": 106
+    },
+    {
+        "_id": "65f41c8aedb2464e9f685b14",
+        "source_id": "indiaobservers",
+        "source_url": "https://indiaobservers.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/indiaobservers.png",
+        "source_priority": 2255790
+    },
+    {
+        "_id": "65f438b44b09272608cfb967",
+        "source_id": "himtimes",
+        "source_url": "https://himtimes.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/himtimes.png",
+        "source_priority": 12814701
+    },
+    {
+        "_id": "65f438b74b09272608cfb969",
+        "source_id": "vogue",
+        "source_url": "https://www.vogue.com",
+        "source_icon": null,
+        "source_priority": 4162
+    },
+    {
+        "_id": "65f43a564b09272608cfba3d",
+        "source_id": "startupreporter",
+        "source_url": "https://startupreporter.in",
+        "source_icon": null,
+        "source_priority": 10112290
+    },
+    {
+        "_id": "65f44693be4e0cececcbbb58",
+        "source_id": "rt",
+        "source_url": "https://www.rt.com/rss",
+        "source_icon": null,
+        "source_priority": 3123
+    },
+    {
+        "_id": "65f44698be4e0cececcbbb5c",
+        "source_id": "neindia",
+        "source_url": "https://neindia.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/neindia.png",
+        "source_priority": 27861193
+    },
+    {
+        "_id": "65f4546e4203443d228b463d",
+        "source_id": "covaipost",
+        "source_url": "http://www.covaipost.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/covaipost.png",
+        "source_priority": 4098663
+    },
+    {
+        "_id": "65f455374203443d228b46a0",
+        "source_id": "techgenyz",
+        "source_url": "https://www.techgenyz.com",
+        "source_icon": null,
+        "source_priority": 662630
+    },
+    {
+        "_id": "65f456284203443d228b4715",
+        "source_id": "kolkatatoday",
+        "source_url": "https://kolkatatoday.com",
+        "source_icon": null,
+        "source_priority": 14101289
+    },
+    {
+        "_id": "65f4632f3380f75531f68ad5",
+        "source_id": "gamespot",
+        "source_url": "https://www.gamespot.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/gamespot.png",
+        "source_priority": 476
+    },
+    {
+        "_id": "65f47195a926885bed83fe40",
+        "source_id": "adda247",
+        "source_url": "https://www.adda247.com",
+        "source_icon": null,
+        "source_priority": 10830
+    },
+    {
+        "_id": "65f48eb8910282153e255f09",
+        "source_id": "dailymailuk",
+        "source_url": "https://www.dailymail.co.uk/home/index.html",
+        "source_icon": "https://i.bytvi.com/domain_icons/dailymailuk.png",
+        "source_priority": 135
+    },
+    {
+        "_id": "65f49b73e5aaa7f6121b3e80",
+        "source_id": "onlykashmir",
+        "source_url": "https://www.onlykashmir.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/onlykashmir.png",
+        "source_priority": 16144183
+    },
+    {
+        "_id": "65f4a93329482c8fb4058a5a",
+        "source_id": "independentuk",
+        "source_url": "https://www.independent.co.uk",
+        "source_icon": "https://i.bytvi.com/domain_icons/independentuk.png",
+        "source_priority": 290
+    },
+    {
+        "_id": "65f4d3737b48354285aeb295",
+        "source_id": "asiatimes",
+        "source_url": "https://asiatimes.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/asiatimes.png",
+        "source_priority": 67073
+    },
+    {
+        "_id": "65f4fd3c938011849e9bedf0",
+        "source_id": "thenewshimachal",
+        "source_url": "https://thenewshimachal.com",
+        "source_icon": null,
+        "source_priority": 10261048
+    },
+    {
+        "_id": "65f4fd6f938011849e9bee0d",
+        "source_id": "finshots",
+        "source_url": "https://finshots.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/finshots.png",
+        "source_priority": 1259965
+    },
+    {
+        "_id": "65f5278dc0dedd1cef030a62",
+        "source_id": "liveakhbar",
+        "source_url": "https://www.liveakhbar.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/liveakhbar.png",
+        "source_priority": 43435
+    },
+    {
+        "_id": "65f52838c0dedd1cef030ac3",
+        "source_id": "hillpost",
+        "source_url": "https://hillpost.in",
+        "source_icon": null,
+        "source_priority": 6848872
+    },
+    {
+        "_id": "65f5437f63cfaef89e7cc24f",
+        "source_id": "bimaloan",
+        "source_url": "https://bimaloan.net",
+        "source_icon": "https://i.bytvi.com/domain_icons/bimaloan.jpg",
+        "source_priority": 12677989
+    },
+    {
+        "_id": "65f5438f63cfaef89e7cc259",
+        "source_id": "inventiva",
+        "source_url": "https://www.inventiva.co.in",
+        "source_icon": null,
+        "source_priority": 703697
+    },
+    {
+        "_id": "65f56dda81ce4c5c0e3c9fad",
+        "source_id": "bd24live",
+        "source_url": "http://bd24live.com",
+        "source_icon": null,
+        "source_priority": 6477269
+    },
+    {
+        "_id": "65f57d291e3f2363f4effe02",
+        "source_id": "frontline_thehindu",
+        "source_url": "https://frontline.thehindu.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/frontline_thehindu.png",
+        "source_priority": 1539
+    },
+    {
+        "_id": "65f5ed983fb64d1de6fca952",
+        "source_id": "news4masses",
+        "source_url": "https://news4masses.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/news4masses.png",
+        "source_priority": 894524
+    },
+    {
+        "_id": "65f5fb3099ed72b3a47f21af",
+        "source_id": "newsblare",
+        "source_url": "https://newsblare.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/newsblare.png",
+        "source_priority": 1026586
+    },
+    {
+        "_id": "65f64f690e99d32ae33b7bfc",
+        "source_id": "thewire",
+        "source_url": "https://thewire.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/thewire.png",
+        "source_priority": 35552
+    },
+    {
+        "_id": "65f7683161dd269ff070a5ad",
+        "source_id": "teslarati",
+        "source_url": "https://www.teslarati.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/teslarati.png",
+        "source_priority": 19755
+    },
+    {
+        "_id": "65f7923e7fbbdcbc43626c5a",
+        "source_id": "moneycontrol",
+        "source_url": "https://www.moneycontrol.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/moneycontrol.png",
+        "source_priority": 4662
+    },
+    {
+        "_id": "65f7a107cab769e58c5d1b4a",
+        "source_id": "easternherald",
+        "source_url": "https://www.easternherald.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/easternherald.png",
+        "source_priority": 1647045
+    },
+    {
+        "_id": "65f7bc9696a21126d63460da",
+        "source_id": "dharitri",
+        "source_url": "https://www.dharitri.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/dharitri.png",
+        "source_priority": 2783586
+    },
+    {
+        "_id": "65f82e7f11abf421090f228e",
+        "source_id": "thebetterindia",
+        "source_url": "http://www.thebetterindia.com/.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/thebetterindia.jpg",
+        "source_priority": 232006
+    },
+    {
+        "_id": "65f92a89e0b14df33b46c232",
+        "source_id": "punjab_news18",
+        "source_url": "https://punjab.news18.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/punjab_news18.jpg",
+        "source_priority": 5991
+    },
+    {
+        "_id": "65f946da2df80b8dfc7f366a",
+        "source_id": "thejanmat",
+        "source_url": "https://thejanmat.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/thejanmat.png",
+        "source_priority": 40538592
+    },
+    {
+        "_id": "65f9aa185d8db5ffb749e8a5",
+        "source_id": "cnbc",
+        "source_url": "http://cnbc.com",
+        "source_icon": null,
+        "source_priority": 82
+    },
+    {
+        "_id": "65fa8aac2b0d7b55b70b8d6e",
+        "source_id": "vishvasnews",
+        "source_url": "https://www.vishvasnews.com",
+        "source_icon": null,
+        "source_priority": 836859
+    },
+    {
+        "_id": "65fa993ca6d2ffc9ee94fdca",
+        "source_id": "seekingalpha",
+        "source_url": "https://seekingalpha.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/seekingalpha.png",
+        "source_priority": 986
+    },
+    {
+        "_id": "65fbcd44da6502ebb3fec170",
+        "source_id": "abcrnews",
+        "source_url": "https://www.abcrnews.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/abcrnews.png",
+        "source_priority": 10155349
+    },
+    {
+        "_id": "65fcbc26b0c4203d594b8dfa",
+        "source_id": "bbc",
+        "source_url": "http://www.bbc.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/bbc.jpg",
+        "source_priority": 103
+    },
+    {
+        "_id": "65fcf52500739b9ef0085a65",
+        "source_id": "doorhorizon",
+        "source_url": "https://doonhorizon.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/doorhorizon.png",
+        "source_priority": 38835428
+    },
+    {
+        "_id": "65fd3ebac9d5562703f1b191",
+        "source_id": "thequint_hindi",
+        "source_url": "https://hindi.thequint.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/thequint_hindi.png",
+        "source_priority": 9980
+    },
+    {
+        "_id": "65fd3ebec9d5562703f1b193",
+        "source_id": "newswing",
+        "source_url": "https://newswing.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/newswing.jpg",
+        "source_priority": 13493885
+    },
+    {
+        "_id": "65fd3ec2c9d5562703f1b195",
+        "source_id": "loktej",
+        "source_url": "https://www.loktej.com",
+        "source_icon": null,
+        "source_priority": 6330551
+    },
+    {
+        "_id": "65fd3ec8c9d5562703f1b198",
+        "source_id": "paliwalwani",
+        "source_url": "https://www.paliwalwani.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/paliwalwani.png",
+        "source_priority": 15760072
+    },
+    {
+        "_id": "65fd3ed7c9d5562703f1b19d",
+        "source_id": "prabhasakshi",
+        "source_url": "https://www.prabhasakshi.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/prabhasakshi.png",
+        "source_priority": 4167978
+    },
+    {
+        "_id": "65fd3f12c9d5562703f1b1b0",
+        "source_id": "newsindialive",
+        "source_url": "https://newsindialive.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/newsindialive.jpg",
+        "source_priority": 12366108
+    },
+    {
+        "_id": "65fd3f20c9d5562703f1b1b5",
+        "source_id": "financialexpress",
+        "source_url": "https://www.financialexpress.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/financialexpress.jpg",
+        "source_priority": 26531
+    },
+    {
+        "_id": "65fd3f55c9d5562703f1b1c6",
+        "source_id": "dainiknavajyoti",
+        "source_url": "https://dainiknavajyoti.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/dainiknavajyoti.jpg",
+        "source_priority": 13677594
+    },
+    {
+        "_id": "65fd3f96c9d5562703f1b1d9",
+        "source_id": "abcnews_media",
+        "source_url": "https://abcnews.media",
+        "source_icon": null,
+        "source_priority": 15119155
+    },
+    {
+        "_id": "65fd3fa4c9d5562703f1b1de",
+        "source_id": "rokthoklekhaninews",
+        "source_url": "https://www.rokthoklekhaninews.com",
+        "source_icon": null,
+        "source_priority": 40538634
+    },
+    {
+        "_id": "65fd48a0af9193198178f904",
+        "source_id": "prabhatkhabar",
+        "source_url": "https://www.prabhatkhabar.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
+        "source_priority": 343253
+    },
+    {
+        "_id": "65fd48aaaf9193198178f909",
+        "source_id": "hindikhabhar",
+        "source_url": "https://hindikhabar.com",
+        "source_icon": null,
+        "source_priority": 40538598
+    },
+    {
+        "_id": "65fd48adaf9193198178f90b",
+        "source_id": "sinceindependence",
+        "source_url": "https://hindi.sinceindependence.com",
+        "source_icon": null,
+        "source_priority": 980838
+    },
+    {
+        "_id": "65fd48bcaf9193198178f912",
+        "source_id": "dailyhindinews",
+        "source_url": "http://www.dailyhindinews.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/dailyhindinews.jpg",
+        "source_priority": 14149588
+    },
+    {
+        "_id": "65fd48ceaf9193198178f91a",
+        "source_id": "kolkatahindinews",
+        "source_url": "https://kolkatahindinews.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/kolkatahindinews.jpg",
+        "source_priority": 37100788
+    },
+    {
+        "_id": "65fd48daaf9193198178f920",
+        "source_id": "dakshinbharat",
+        "source_url": "https://www.dakshinbharat.com",
+        "source_icon": null,
+        "source_priority": 17218213
+    },
+    {
+        "_id": "65fd4903af9193198178f931",
+        "source_id": "navbharattimes",
+        "source_url": "https://navbharattimes.indiatimes.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/navbharattimes.png",
+        "source_priority": 392
+    },
+    {
+        "_id": "65fd4905af9193198178f933",
+        "source_id": "indiatv",
+        "source_url": "https://www.indiatv.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/indiatv.png",
+        "source_priority": 216441
+    },
+    {
+        "_id": "65fd4928af9193198178f941",
+        "source_id": "bhaskar_hindi",
+        "source_url": "https://www.bhaskar.com",
+        "source_icon": null,
+        "source_priority": 34179
+    },
+    {
+        "_id": "65fd4930af9193198178f945",
+        "source_id": "nayaindia",
+        "source_url": "https://www.nayaindia.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/nayaindia.png",
+        "source_priority": 7222349
+    },
+    {
+        "_id": "65fd4932af9193198178f947",
+        "source_id": "naidunia",
+        "source_url": "https://www.naidunia.com",
+        "source_icon": null,
+        "source_priority": 648711
+    },
+    {
+        "_id": "65fd4a4eaf9193198178f972",
+        "source_id": "timesofmalwa",
+        "source_url": "https://www.timesofmalwa.in",
+        "source_icon": null,
+        "source_priority": 18554653
+    },
+    {
+        "_id": "65fd4aa4af9193198178f97b",
+        "source_id": "livehindustan",
+        "source_url": "https://www.livehindustan.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/livehindustan.jpg",
+        "source_priority": 127332
+    },
+    {
+        "_id": "65fd57e9e91b65ee272890fa",
+        "source_id": "realtimes",
+        "source_url": "https://realtimes.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/realtimes.jpg",
+        "source_priority": 29314022
+    },
+    {
+        "_id": "65fd64d59006108b3fe86a1c",
+        "source_id": "panchjanya",
+        "source_url": "https://panchjanya.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/panchjanya.jpg",
+        "source_priority": 12863361
+    },
+    {
+        "_id": "65fd72f487649c2665b1c600",
+        "source_id": "ajmernama",
+        "source_url": "http://www.ajmernama.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/ajmernama.jpg",
+        "source_priority": 38918446
+    },
+    {
+        "_id": "65fd733887649c2665b1c61b",
+        "source_id": "pudhari",
+        "source_url": "https://pudhari.news",
+        "source_icon": "https://i.bytvi.com/domain_icons/pudhari.png",
+        "source_priority": 988323
+    },
+    {
+        "_id": "65fd738387649c2665b1c638",
+        "source_id": "nayalook",
+        "source_url": "https://www.nayalook.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/nayalook.png",
+        "source_priority": 40588820
+    },
+    {
+        "_id": "65fd81c01ac69d8129c88e49",
+        "source_id": "bhopalsamachar",
+        "source_url": "http://www.bhopalsamachar.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/bhopalsamachar.png",
+        "source_priority": 2476680
+    },
+    {
+        "_id": "65fd8eed33bc2ec1018d5690",
+        "source_id": "devbhoomimedia",
+        "source_url": "https://devbhoomimedia.com",
+        "source_icon": null,
+        "source_priority": 35672519
+    },
+    {
+        "_id": "65fd8eef33bc2ec1018d5692",
+        "source_id": "qaumitanzeem",
+        "source_url": "https://www.qaumitanzeem.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/qaumitanzeem.png",
+        "source_priority": 6612042
+    },
+    {
+        "_id": "65fdab764f5cf0bbeb156eab",
+        "source_id": "agranews",
+        "source_url": "https://www.agranews.com",
+        "source_icon": null,
+        "source_priority": 33387677
+    },
+    {
+        "_id": "65fdaba54f5cf0bbeb156ebd",
+        "source_id": "investing_hi",
+        "source_url": "https://hi.investing.com",
+        "source_icon": null,
+        "source_priority": 1143
+    },
+    {
+        "_id": "65fdabef4f5cf0bbeb156eda",
+        "source_id": "ideatvnews",
+        "source_url": "https://www.ideatvnews.com",
+        "source_icon": null,
+        "source_priority": 28137010
+    },
+    {
+        "_id": "65fdb94ac8adf45210b26d7a",
+        "source_id": "khabreapki",
+        "source_url": "https://khabreapki.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/khabreapki.jpg",
+        "source_priority": 17497857
+    },
+    {
+        "_id": "65fdd570b6d004cb25e825cd",
+        "source_id": "esakal",
+        "source_url": "https://www.esakal.com",
+        "source_icon": null,
+        "source_priority": 80464
+    },
+    {
+        "_id": "65fe29c8ca1194e011a53936",
+        "source_id": "agrasamachar",
+        "source_url": "http://www.agrasamachar.com",
+        "source_icon": null,
+        "source_priority": 21615826
+    },
+    {
+        "_id": "65fe37d0f1b252c350544ea2",
+        "source_id": "aajtak",
+        "source_url": "http://aajtak.in",
+        "source_icon": null,
+        "source_priority": 20158
+    },
+    {
+        "_id": "65fe3811f1b252c350544ebf",
+        "source_id": "atalhind",
+        "source_url": "https://www.atalhind.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/atalhind.jpg",
+        "source_priority": 23462835
+    },
+    {
+        "_id": "65fe61e18dfa2700a1dd7671",
+        "source_id": "dandakaranyasamachar",
+        "source_url": "http://www.dandakaranyasamachar.com",
+        "source_icon": null,
+        "source_priority": 21841228
+    },
+    {
+        "_id": "65fe8dc74bf0b45aa6423197",
+        "source_id": "ismatimes",
+        "source_url": "https://www.ismatimes.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/ismatimes.png",
+        "source_priority": 12726692
+    },
+    {
+        "_id": "65fea90c1b38a267d72389ae",
+        "source_id": "palpalindia",
+        "source_url": "https://www.palpalindia.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/palpalindia.png",
+        "source_priority": 13883857
+    },
+    {
+        "_id": "65feb68b5d0e618c0a6f23c1",
+        "source_id": "telecomlive",
+        "source_url": "https://telecomlive.com/web",
+        "source_icon": null,
+        "source_priority": 7264156
+    },
+    {
+        "_id": "65fec46a187ba1e54f54a041",
+        "source_id": "atulyaloktantranews",
+        "source_url": "https://atulyaloktantranews.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/atulyaloktantranews.jpg",
+        "source_priority": 22139707
+    },
+    {
+        "_id": "65ff2895f168e25817044c04",
+        "source_id": "prahaar",
+        "source_url": "https://prahaar.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/prahaar.png",
+        "source_priority": 7498500
+    },
+    {
+        "_id": "65ffa546ddb2dd4009489b6e",
+        "source_id": "thenewskhazana",
+        "source_url": "https://thenewskhazana.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/thenewskhazana.png",
+        "source_priority": 34674199
+    },
+    {
+        "_id": "660015d4a3a07f8ebb64c5a3",
+        "source_id": "tajakhabars",
+        "source_url": "http://www.tajakhabars.in",
+        "source_icon": null,
+        "source_priority": 40538628
+    },
+    {
+        "_id": "660023f0112c0f15d20772ac",
+        "source_id": "bharatkhabar",
+        "source_url": "http://www.bharatkhabar.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/bharatkhabar.png",
+        "source_priority": 14738685
+    },
+    {
+        "_id": "660104e9094fa34863f04726",
+        "source_id": "thepeninsulaqatar",
+        "source_url": "https://thepeninsulaqatar.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/thepeninsulaqatar.png",
+        "source_priority": 247122
+    },
+    {
+        "_id": "6602b8ddb7a0a4900348ad78",
+        "source_id": "businessinsider_in",
+        "source_url": "https://www.businessinsider.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/businessinsider_in.png",
+        "source_priority": 6525
+    },
+    {
+        "_id": "6602c6dbc361ba96b6c3b1e9",
+        "source_id": "rajdhanisamachar",
+        "source_url": "https://rajdhanisamachar.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/rajdhanisamachar.png",
+        "source_priority": 19252725
+    },
+    {
+        "_id": "6603e01f417c8e2922d4d658",
+        "source_id": "lokmanthan",
+        "source_url": "https://lokmanthan.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/lokmanthan.png",
+        "source_priority": 14050490
+    },
+    {
+        "_id": "6606bb5ac647ac9fbb087c6c",
+        "source_id": "marathi_news18",
+        "source_url": "https://news18marathi.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/marathi_news18.png",
+        "source_priority": 4979061
+    },
+    {
+        "_id": "6608d1cb9b5f59dba9e63128",
+        "source_id": "thevoiceofmp",
+        "source_url": "https://www.thevoiceofmp.com",
+        "source_icon": null,
+        "source_priority": 33598435
+    },
+    {
+        "_id": "660c0f651c4d266a4be42a38",
+        "source_id": "tehelka",
+        "source_url": "http://tehelka.com",
+        "source_icon": null,
+        "source_priority": 2022190
+    },
+    {
+        "_id": "660c55be763ee0d619928eb3",
+        "source_id": "engadget",
+        "source_url": "https://www.engadget.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/engadget.png",
+        "source_priority": 2082
+    },
+    {
+        "_id": "660cc64dd84757ddbc9308ff",
+        "source_id": "indianexpress",
+        "source_url": "https://indianexpress.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/indianexpress.png",
+        "source_priority": 1386
+    },
+    {
+        "_id": "660d28b0e15fbbb8080f8d35",
+        "source_id": "avadhnama",
+        "source_url": "https://avadhnama.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/avadhnama.jpg",
+        "source_priority": 20736955
+    },
+    {
+        "_id": "66105856b48eb9b1133f2b39",
+        "source_id": "navhindtimes",
+        "source_url": "https://www.navhindtimes.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/navhindtimes.png",
+        "source_priority": 709813
+    },
+    {
+        "_id": "6610bad023d2c87d5417c328",
+        "source_id": "hindioneindia",
+        "source_url": "https://hindi.oneindia.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/hindioneindia.png",
+        "source_priority": 12404
+    },
+    {
+        "_id": "6610c8e3e3beec500db285b4",
+        "source_id": "organiser",
+        "source_url": "https://organiser.org",
+        "source_icon": "https://i.bytvi.com/domain_icons/organiser.png",
+        "source_priority": 216805
+    },
+    {
+        "_id": "6611011ca6a9438a7874accc",
+        "source_id": "tribuneindia",
+        "source_url": "https://www.tribuneindia.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/tribuneindia.png",
+        "source_priority": 7916
+    },
+    {
+        "_id": "66118db414d7e00198d5ff51",
+        "source_id": "odia_news18",
+        "source_url": "https://odia.news18.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/odia_news18.jpg",
+        "source_priority": 5794
+    },
+    {
+        "_id": "66119bbd02c6f3bc2e4e64b0",
+        "source_id": "andhrajyothy",
+        "source_url": "http://www.andhrajyothy.com",
+        "source_icon": null,
+        "source_priority": 21417
+    },
+    {
+        "_id": "6612ed42f0a7857ac6c24c9c",
+        "source_id": "cheekhtiawazen",
+        "source_url": "https://cheekhtiawazen.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/cheekhtiawazen.png",
+        "source_priority": 1425655
+    },
+    {
+        "_id": "66143ec9b281c11be20ec05d",
+        "source_id": "thenewsglory",
+        "source_url": "https://thenewsglory.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/thenewsglory.jpg",
+        "source_priority": 321007
+    },
+    {
+        "_id": "66151fc5849864137e37e470",
+        "source_id": "yourstory",
+        "source_url": "https://yourstory.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/yourstory.png",
+        "source_priority": 15903
+    },
+    {
+        "_id": "661549fb24d4b6879cf01e27",
+        "source_id": "didnews",
+        "source_url": "https://www.didnews.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/didnews.png",
+        "source_priority": 1814567891
+    },
+    {
+        "_id": "6616471dde61981727d536a9",
+        "source_id": "gaadiwaadi",
+        "source_url": "https://gaadiwaadi.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/gaadiwaadi.png",
+        "source_priority": 534354
+    },
+    {
+        "_id": "661be1724b287de9823b99bb",
+        "source_id": "telugu_news18",
+        "source_url": "https://telugu.news18.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/telugu_news18.png",
+        "source_priority": 5991
+    },
+    {
+        "_id": "6621c22ab4d61b6b4db6d450",
+        "source_id": "batmiexpress",
+        "source_url": "https://www.batmiexpress.com",
+        "source_icon": null,
+        "source_priority": 39453429
+    },
+    {
+        "_id": "6622b12c62beae3a83fc05d3",
+        "source_id": "siasat",
+        "source_url": "https://www.siasat.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/siasat.png",
+        "source_priority": 30879
+    },
+    {
+        "_id": "662359f3ec9e2c5d43cc1404",
+        "source_id": "kannada_news18",
+        "source_url": "https://kannada.news18.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/kannada_news18.jpg",
+        "source_priority": 5991
+    },
+    {
+        "_id": "6628d83600599281190c4380",
+        "source_id": "worldpharmatoday",
+        "source_url": "https://www.worldpharmatoday.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/worldpharmatoday.jpg",
+        "source_priority": 2297804
+    },
+    {
+        "_id": "662a6ffad5d0a780f18c5567",
+        "source_id": "onmanorama",
+        "source_url": "https://www.onmanorama.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/onmanorama.png",
+        "source_priority": 16247
+    },
+    {
+        "_id": "66305eb8cd71e496671dcf5b",
+        "source_id": "haribhoomi",
+        "source_url": "https://www.haribhoomi.com",
+        "source_icon": null,
+        "source_priority": 4262064
+    },
+    {
+        "_id": "6630cf452fd9fd3db742794a",
+        "source_id": "beedreporter",
+        "source_url": "http://beedreporter.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/beedreporter.jpg",
+        "source_priority": 4591271
+    },
+    {
+        "_id": "6637125ae6266a11159b9e27",
+        "source_id": "marathi_indiatimes",
+        "source_url": "https://marathi.indiatimes.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/marathi_indiatimes.png",
+        "source_priority": 222
+    },
+    {
+        "_id": "663774cdf32a46ab1e1c075e",
+        "source_id": "suspensecrime",
+        "source_url": "https://suspensecrime.com",
+        "source_icon": null,
+        "source_priority": 12013189
+    },
+    {
+        "_id": "6638f07c75f796c03ab5aa49",
+        "source_id": "en_prnasisa",
+        "source_url": "https://en.prnasia.com",
+        "source_icon": null,
+        "source_priority": 1333464
+    },
+    {
+        "_id": "663944e53cc4be624eff5106",
+        "source_id": "prnewswire_apac",
+        "source_url": "https://www.prnewswire.com/apac",
+        "source_icon": null,
+        "source_priority": 1822
+    },
+    {
+        "_id": "663952f1976aedf0ebf2c8fd",
+        "source_id": "thenewsinternational",
+        "source_url": "https://www.thenewsinternational.com",
+        "source_icon": null,
+        "source_priority": 13051700
+    },
+    {
+        "_id": "663a09c692677696f1ea63d2",
+        "source_id": "trackmyhashtag",
+        "source_url": "https://www.trackmyhashtag.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/trackmyhashtag.png",
+        "source_priority": 749296
+    },
+    {
+        "_id": "663c747a19b0015ed12b8095",
+        "source_id": "newsaddaindia",
+        "source_url": "https://newsaddaindia.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/newsaddaindia.jpg",
+        "source_priority": 40538586
+    },
+    {
+        "_id": "663c749041a766152d45d700",
+        "source_id": "etemaaddaily",
+        "source_url": "https://www.en.etemaaddaily.com",
+        "source_icon": null,
+        "source_priority": 310050
+    },
+    {
+        "_id": "663c82865848568e0fa1d645",
+        "source_id": "bhaskarhindi",
+        "source_url": "https://www.bhaskarhindi.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/bhaskarhindi.png",
+        "source_priority": 596776
+    },
+    {
+        "_id": "663c90983024ec7a9db8393d",
+        "source_id": "khulasaa_hindi",
+        "source_url": "https://khulasaonline.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/khulasaa_hindi.png",
+        "source_priority": 9661192
+    },
+    {
+        "_id": "663cacc31da97b733d9153c1",
+        "source_id": "gizmochina",
+        "source_url": "https://www.gizmochina.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/gizmochina.png",
+        "source_priority": 22871
+    },
+    {
+        "_id": "663cacc41da97b733d9153c4",
+        "source_id": "google",
+        "source_url": "https://news.google.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+        "source_priority": 14
+    },
+    {
+        "_id": "663d0f28be97804eb484fd71",
+        "source_id": "deshbandhu",
+        "source_url": "https://www.deshbandhu.co.in",
+        "source_icon": null,
+        "source_priority": 13621201
+    },
+    {
+        "_id": "663d71a36f6fb9d20fd7875c",
+        "source_id": "tarunbharat",
+        "source_url": "https://www.tarunbharat.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/tarunbharat.png",
+        "source_priority": 38985
+    },
+    {
+        "_id": "663d71a490e23dd36e3a46b4",
+        "source_id": "chitralekha",
+        "source_url": "https://chitralekha.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/chitralekha.png",
+        "source_priority": 4528488
+    },
+    {
+        "_id": "663e2882e1e09163b31b9f09",
+        "source_id": "pcmag",
+        "source_url": "https://www.pcmag.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/pcmag.png",
+        "source_priority": 439
+    },
+    {
+        "_id": "663e8ad828a77f8785418848",
+        "source_id": "hindiwebnews24",
+        "source_url": "https://hindi.webnews24.in",
+        "source_icon": null,
+        "source_priority": 29851311
+    },
+    {
+        "_id": "663f4fbca3b89ccf760d924d",
+        "source_id": "jaianndata",
+        "source_url": "http://jaianndata.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/jaianndata.jpg",
+        "source_priority": 40538622
+    },
+    {
+        "_id": "66405b000a4faf9b599e4dc0",
+        "source_id": "merikheti",
+        "source_url": "https://www.merikheti.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/merikheti.jpg",
+        "source_priority": 11240959
+    },
+    {
+        "_id": "6640af4e6a4f235719fc2a9d",
+        "source_id": "asian_times",
+        "source_url": "https://asiantimes.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/asian_times.png",
+        "source_priority": 26650205
+    },
+    {
+        "_id": "6640e78ed3092e5a4118dab5",
+        "source_id": "india",
+        "source_url": "https://www.india.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/india.png",
+        "source_priority": 8067
+    },
+    {
+        "_id": "66434444e055d6b467ad6ba7",
+        "source_id": "kumudam",
+        "source_url": "https://www.kumudam.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/kumudam.png",
+        "source_priority": 2437616
+    },
+    {
+        "_id": "66436057c6087a0194850334",
+        "source_id": "yahoo",
+        "source_url": "https://news.yahoo.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/yahoo.png",
+        "source_priority": 17
+    },
+    {
+        "_id": "6643d0e670b1e1830777dc5c",
+        "source_id": "washingtontimes",
+        "source_url": "https://www.washingtontimes.com",
+        "source_icon": null,
+        "source_priority": 9784
+    },
+    {
+        "_id": "6644415e34d439886fd7c87e",
+        "source_id": "a5dariyanews",
+        "source_url": "http://www.5dariyanews.com",
+        "source_icon": null,
+        "source_priority": 1804067
+    },
+    {
+        "_id": "66461170561c5ac34cb6098d",
+        "source_id": "energybangla",
+        "source_url": "https://www.energybangla.com",
+        "source_icon": null,
+        "source_priority": 13483437
+    },
+    {
+        "_id": "664fe6a679ac5f098513f517",
+        "source_id": "jantaserishta",
+        "source_url": "https://jantaserishta.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
+        "source_priority": 6826860
+    },
+    {
+        "_id": "664ff4aa73991e8feb923bbd",
+        "source_id": "dainiktribuneonline",
+        "source_url": "https://www.dainiktribuneonline.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/dainiktribuneonline.jpg",
+        "source_priority": 2014324
+    },
+    {
+        "_id": "66522730babcd064add8e041",
+        "source_id": "gulftimes",
+        "source_url": "https://www.gulf-times.com",
+        "source_icon": null,
+        "source_priority": 433545
+    },
+    {
+        "_id": "66535c8f1ad6f9d55e728159",
+        "source_id": "liveaapnews",
+        "source_url": "http://www.liveaapnews.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/liveaapnews.png",
+        "source_priority": 35626541
+    },
+    {
+        "_id": "665467c6348e5a6f548ec66f",
+        "source_id": "whatculture",
+        "source_url": "https://whatculture.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/whatculture.png",
+        "source_priority": 14143
+    },
+    {
+        "_id": "665d7816c509024b44481281",
+        "source_id": "news-medical",
+        "source_url": "https://www.news-medical.net",
+        "source_icon": "https://i.bytvi.com/domain_icons/news-medical.png",
+        "source_priority": 1832
+    },
+    {
+        "_id": "665dbe62d69f341827faa38d",
+        "source_id": "thenewsminute",
+        "source_url": "https://www.thenewsminute.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/thenewsminute.png",
+        "source_priority": 51417
+    },
+    {
+        "_id": "665e7525f23d2d48e70fa074",
+        "source_id": "nytimes",
+        "source_url": "http://www.nytimes.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/nytimes.png",
+        "source_priority": 27
+    },
+    {
+        "_id": "665fb8afe04fbe3edd0f654b",
+        "source_id": "theken",
+        "source_url": "https://the-ken.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/theken.png",
+        "source_priority": 1335846
+    },
+    {
+        "_id": "66673f2d95592cd2e8895c90",
+        "source_id": "galaxyinformer",
+        "source_url": "https://galaxyinformer.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/galaxyinformer.jpg",
+        "source_priority": 40538640
+    },
+    {
+        "_id": "666bce63ab21b39ae8b04b1c",
+        "source_id": "hindithebetterindia",
+        "source_url": "https://hindi.thebetterindia.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/hindithebetterindia.jpg",
+        "source_priority": 117698
+    },
+    {
+        "_id": "666c22c375e5335d9be28f62",
+        "source_id": "channelnewsasia",
+        "source_url": "https://www.channelnewsasia.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
+        "source_priority": 37829
+    },
+    {
+        "_id": "666cbd6c6898ccb4eb133e6a",
+        "source_id": "vaartha",
+        "source_url": "https://www.vaartha.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/vaartha.jpg",
+        "source_priority": 534832
+    },
+    {
+        "_id": "666d82525962bc6a787bbf90",
+        "source_id": "gomantaktimes",
+        "source_url": "https://www.gomantaktimes.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/gomantaktimes.jpg",
+        "source_priority": 1201315
+    },
+    {
+        "_id": "6673630748e825e5d2f1b400",
+        "source_id": "saamana",
+        "source_url": "https://www.saamana.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/saamana.png",
+        "source_priority": 86222
+    },
+    {
+        "_id": "667b6818067b2baa9f0d7413",
+        "source_id": "oneindia",
+        "source_url": "https://www.oneindia.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/oneindia.png",
+        "source_priority": 12404
+    },
+    {
+        "_id": "668478655e07ef1c3f8a9a4c",
+        "source_id": "espn_in",
+        "source_url": "https://www.espn.in",
+        "source_icon": null,
+        "source_priority": 34461
+    },
+    {
+        "_id": "668494983e7f960c339704d7",
+        "source_id": "theprint",
+        "source_url": "https://theprint.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/theprint.png",
+        "source_priority": 14094
+    },
+    {
+        "_id": "668517be1891bb8924207205",
+        "source_id": "newsx",
+        "source_url": "https://www.newsx.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/newsx.jpg",
+        "source_priority": 189603
+    },
+    {
+        "_id": "668518a91891bb8924207251",
+        "source_id": "odishatv",
+        "source_url": "https://odishatv.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/odishatv.png",
+        "source_priority": 62016
+    },
+    {
+        "_id": "668523d7b0b5a510d87d414e",
+        "source_id": "ptcnews",
+        "source_url": "https://www.ptcnews.tv",
+        "source_icon": "https://i.bytvi.com/domain_icons/ptcnews.jpg",
+        "source_priority": 211063
+    },
+    {
+        "_id": "66853d48c399bde7637e1cbc",
+        "source_id": "newsable_asianetnews",
+        "source_url": "https://newsable.asianetnews.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/newsable_asianetnews.jpg",
+        "source_priority": 7749
+    },
+    {
+        "_id": "6685d7f846ab82770eb1d160",
+        "source_id": "indianews",
+        "source_url": "https://rajasthan.indianews.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/indianews.jpg",
+        "source_priority": 1433119
+    },
+    {
+        "_id": "6685f41973c7f2365d7d3bd0",
+        "source_id": "hindi_asianetnews",
+        "source_url": "https://hindi.asianetnews.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/hindi_asianetnews.png",
+        "source_priority": 7805
+    },
+    {
+        "_id": "66861e4a085d7514ea965e93",
+        "source_id": "jagran",
+        "source_url": "https://www.jagran.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/jagran.jpg",
+        "source_priority": 6734
+    },
+    {
+        "_id": "66862c5711ced2fcd50c5e05",
+        "source_id": "webdunia",
+        "source_url": "https://webdunia.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/webdunia.jpg",
+        "source_priority": 19669
+    },
+    {
+        "_id": "66862c6511ced2fcd50c5e21",
+        "source_id": "theprint_hi",
+        "source_url": "https://hindi.theprint.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/theprint_hi.jpg",
+        "source_priority": 14094
+    },
+    {
+        "_id": "66863a7f91fda3abd255116d",
+        "source_id": "catchnews",
+        "source_url": "https://www.catchnews.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/catchnews.png",
+        "source_priority": 407329
+    },
+    {
+        "_id": "66869ce773c6ddba9a15f302",
+        "source_id": "money9",
+        "source_url": "https://www.money9.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/money9.jpg",
+        "source_priority": 2448767
+    },
+    {
+        "_id": "6687a820dcf632901a79ca94",
+        "source_id": "screenbox",
+        "source_url": "https://screenbox.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/screenbox.jpg",
+        "source_priority": 8851424
+    },
+    {
+        "_id": "6687c42e391c1b276f3d379c",
+        "source_id": "theweek_in",
+        "source_url": "https://www.theweek.in",
+        "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+        "source_priority": 26911
+    },
+    {
+        "_id": "668a2ee71c03a7864f55990a",
+        "source_id": "newsnationtv",
+        "source_url": "https://newsnationtv.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/newsnationtv.jpg",
+        "source_priority": 238684
+    },
+    {
+        "_id": "669136f8de5b6dc105dc8ab1",
+        "source_id": "tamil_news18",
+        "source_url": "https://tamil.news18.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/tamil_news18.png",
+        "source_priority": 5991
+    },
+    {
+        "_id": "669c2558cfb392a8b3a1d5e9",
+        "source_id": "ntnews_in",
+        "source_url": "https://www.ntnews.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/ntnews_in.png",
+        "source_priority": 182041
+    },
+    {
+        "_id": "66a0b493f3cdbbdbae152d0e",
+        "source_id": "saharasamay",
+        "source_url": "http://www.saharasamay.com",
+        "source_icon": "https://i.bytvi.com/domain_icons/saharasamay.jpg",
+        "source_priority": 359495
+    }
+]

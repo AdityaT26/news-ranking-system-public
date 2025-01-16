@@ -1,0 +1,3708 @@
+[
+    {
+        "_id": "65eed6e83bcc20131ef68a8f",
+        "user_id": "y3rwuOrrrngMQ3iCax0xgP6Phff1",
+        "device_token": [
+            "f9x6QCnfQB-nXEQFpig9by:APA91bF-c6Mrlb2co9k9-DX9ZUtasAhVtj6aXFUcviNI2Fnj2A6IXft4H2dxyC5K_7XLueX47d1PjP9zf75OpmQiVFo2uuv451lQ2n1rXavgw4ClhS4WGzVu0Cs7xpTdC4D2sS56ogQ9"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-03-11T10:03:20.975000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "65f81dc7c45325c384c41545",
+        "user_id": "IDaLi2yja8NsyhgmlV54xlxR2cg1",
+        "device_token": [
+            "efy41_PuS02R_lQiPkWFd_:APA91bE75mgB8QoWFDu-bj0SP5QsfT_wcZeJXnQgRj_qmJIB21cbO3Ughuys_mUe1BrXRWSsvnaCSOjGBssyHYuJuIMBg4Gwz1pXv1aqn9rFzpIFrBBvr6X5uXcaDinuTrmkUqoo9AwW"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-03-18T10:56:07.682000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1
+    },
+    {
+        "_id": "65f82ab8b2de745a78ed441c",
+        "user_id": "iVZjQxSunFO0PvOUyJzLtoOXad43",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-03-18T11:51:20.384000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1
+    },
+    {
+        "_id": "65f87b8003bdd8d4c71324c2",
+        "user_id": "UsquEFRTuQZ60Vw69PsbdcER1aS2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-03-18T17:36:00.061000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 14,
+        "name": "simrat"
+    },
+    {
+        "_id": "65fd416197d9ab6ff92124fb",
+        "user_id": "lmzFVscKtMTzmID6xv6gT8H3wRm2",
+        "device_token": [
+            "dCZUtp5FcUxlgB7imnHmxe:APA91bFn6yAZDhaedRKl1V4P8krFyCUKM7hkJJV0DkngvuGV1uWAqOqpuY7BlA374MA-Z6EpgmnuO4ZI7xzvAEz926UFSRlhKZPP1b2l70okxnjLsbj4UbnZfPHTzThdm4_W_8GgQujJ"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-03-22T08:29:21.230000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1,
+        "name": "Harsh"
+    },
+    {
+        "_id": "65fd74964f8aa0ceafe3ae91",
+        "user_id": "iF0jCf6fM1fA5qyq5Tq0ChHGpmA2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-03-22T12:07:50.495000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "65ff0b43758293b4fee81eb0",
+        "user_id": "TMV4kncZfjZJNNog8hi2nY7rx1B3",
+        "device_token": [
+            "cVLIUh8hQuumSi82vbhedG:APA91bHLRBgIJCGYiq1rVf8DrbU03cDI2wGgYSqygcLr09DU-kudBsECHL9vF5Wa3p7Y-CvvfshwVRJ0hhY9UHPSqKovI6VKwsZfaHG2_0T1M_gAFPw8xdrvWEw_Joil14vbbKPwQyfo"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-03-23T17:02:59.244000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 2
+    },
+    {
+        "_id": "6601b0540bb407ef64b05bc1",
+        "user_id": "aUzJlGB8FScYhbjwowkRUBxwImA2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-03-25T17:11:48.109000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "660383b74fc1e4175eca91d3",
+        "user_id": "extk7LBsp4NbaO0DVo1rx0iluSy1",
+        "device_token": [
+            "es_UgruAbkgKohPJB1PoSR:APA91bHXtHdzbh1uZgPVILpfA7vrHsxK_szr3jBxrggRXaaxCQbNlGWDjVJDbteKvyQ9oG1hLtzhmv6I1oW-4Yxmxix8GFdycQbFMo1UOEQwAL7So8WolSBnSAv07boJ_I6p3Okka9B4"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-03-27T02:25:59.357000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66051933121335356b04f213",
+        "user_id": "GB7ODFnKbfUDKhPZVpMZcRYrUds1",
+        "device_token": [
+            "dHtZhjuuhETcknXG1IQTOA:APA91bESpU-Ceejku582JjzN16cXTNOIHUjmS1JcWjMG3l-0nuJQxGwS6BnzvqGOelCZhpKlIpHtq0YtmFR7IkRypC13dIFCdkLx_1dPUBZg7VAwzzjJB1L7P_S5ToXHAGSWkUcdep6D"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-03-28T07:16:03.766000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 2,
+        "name": "Dinesh JP Singh ",
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "660524faa4c24de74c5308e3",
+        "user_id": "ko7uh2PIWXeqigSl5dIyLRUZmef1",
+        "device_token": [
+            "eoLGFqguuk3xsYV_wL2OyG:APA91bEVkf5qXHDQ3LAvBRpHAFZUaNXt2Al1P3KrG7LB-KkkL7aDdcahuKguvuLPddwJk1DwR1Sox7J3_4qQDv6qRxaznvHbECew5xHfDCDZiGx1Mygn-JnKJyJofzerY7UjCOpUwlir"
+        ],
+        "status": "active",
+        "createdAt": "2024-03-28T08:06:18.824000",
+        "updatedAt": "2024-10-25T15:58:28.820000",
+        "__v": 4,
+        "dob": null,
+        "gender": null,
+        "device_id": "F42DD3FE-D764-4556-A75C-738CDD0EF2FE"
+    },
+    {
+        "_id": "66052b4262d61e526402b292",
+        "user_id": "lcJRQyOkd1SheqXpFBsGjsvyD9d2",
+        "device_token": [
+            "fGnHTi1JQguHJ-BCrn5hGA:APA91bHnCZRrwZFzgAOtmg7vuan2rGBwd_HC3PQxjXNPek29gEoxEpRN-lHsTE0Bh-dm4FMSrzi4glWtf6PV4qI4U_WWs3SQvEHmMq4gEjpfreInPKBpytk"
+        ],
+        "status": "active",
+        "createdAt": "2024-03-28T08:33:06.827000",
+        "updatedAt": "2024-12-18T16:18:58.994000",
+        "__v": 12,
+        "dob": "28/4/1996",
+        "gender": "female",
+        "device_id": "SP1A.210812.016"
+    },
+    {
+        "_id": "66066aeafc7b01456f891343",
+        "user_id": "9BTRrdSnArfy4hj6bktm9BYavvx2",
+        "device_token": [
+            "cMJoCkzcNkvuh4CiWFRNrg:APA91bHuW6FmPvl88aiBp_ctP9vdCpZ0u1IhDnc5dGBr6fBtBpyPzDffAcmLcyyUG8kxOQdoFjwaL1mtM-OiivlHLIRagqYkRBzoTvdV3KJokbfiRJdNgRT4m0ySj2GLzmZEyd9DbUFw"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-03-29T07:16:58.042000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 2,
+        "dob": "20/4/1986",
+        "gender": "female",
+        "name": "Priyanka Rathore"
+    },
+    {
+        "_id": "6606bf4064f5cbc55b65ef98",
+        "user_id": "wKflckdyahNQgP642XxEBTVGXJS2",
+        "device_token": [
+            "fcbJ9dkRTi21yKL4jymc2h:APA91bH9nBP_hJESp9hZE8-7IT_PkAQ_5dTY7YmeJWzq7CFGjKf0T8WZ2PYTxmoZowDbJy1PnIU9pF-a4keNf46N5lW4BtVTR2DLkr4r_aee3yVAKkTlRLUaZ25NvfD3SmbJV2vnqEAt"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-03-29T13:16:48.510000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "name": "Ashutosh "
+    },
+    {
+        "_id": "66072f7ef540f7385eff74aa",
+        "user_id": "osRdN43fwFbpfmIGAuoglPqgCoO2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-03-29T21:15:42.206000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66084a81616c1325bfa50293",
+        "user_id": "a6GPsRL63bTCaqzO0a4M72kLsdw2",
+        "device_token": [
+            "ey7RDupIxkqXo8ThwI5m0A:APA91bGUXXhYjuIlDwVPxmpuGQNl5lRjZ06B4ex6MLVBkJO4pDV5pkfaHxAFDyR_IFfKXTiDqmasjjaxM_eD_qjUE8GI4s6rfC7A3uLbf7BTQGe3jmsz3AzcnHmkOEocLF08mpybqP0H"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-03-30T17:23:13.802000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 2,
+        "name": "SubodhJPSingh",
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "6608eed1b33645844bdef5c5",
+        "user_id": "qgt58yNeWKMIFRYOXLr7Hq8s9Jf1",
+        "device_token": [
+            "d1bxl2hxTPKfvYA7QIbi2u:APA91bGVIN10X7PkLREUzk4Lze7ATC5JPG9_XN_vNIu3b5ck_g5StaQsX_E3lJQlPkp0mYV5HzdImnhtCXTDwxEy0TRWYwsa2B5sHlBuwTVRElo06hjGOxR2PQKsFiVCc8mWRhGY2jsL"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-03-31T05:04:17.135000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "name": "Suntosh devi"
+    },
+    {
+        "_id": "660a42b4c5181d458ff274e0",
+        "user_id": "OcAfY8SCNcOEbfELpYCuyrd3tZg1",
+        "device_token": [
+            "eq74INmtQCCfja1CJbb--u:APA91bEeOlQvo4NAe3K_cshDcpgmnJemX-wFVrJAVqutUaGNnO4BL3uHRGdxYPki_pf1miPPidyaBTXMSn172ESIKheLF6emoadYrgy0ErfRcNkYwDeHLT07rxHl9pAO8MgjLdgDvjwA"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-01T05:14:28.633000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "660ab15d0ed13015b22be9fa",
+        "user_id": "T9jPcYXq2lXoe4rG1yBjDuswknN2",
+        "device_token": [
+            "f4ROgCko2UmBqPTWZR5ch4:APA91bHpnWwrG4ef8pL_CVLIa9_-PsJiGB79adUNT8cLheuFTFza6O_VjodgBqn7Yf0hQjLnTlxqYRsvx1dMx0sKTWON2-EiOx1_2jynLtMT6DAwubi6Wi-imafoO6VX6EsYHbM04NUg"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-01T13:06:37.551000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 2
+    },
+    {
+        "_id": "660b114be5211ba10efddc6b",
+        "user_id": "vY4DIFEJHbSe3wEa0EMLoV5mtWm2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-01T19:55:55.964000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 2
+    },
+    {
+        "_id": "660b7edf443aa45e2af48236",
+        "user_id": "G8n41TAPa2WtYC4BfnOQiZb6Q403",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-02T03:43:27.076000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "name": "kris"
+    },
+    {
+        "_id": "661233c1a1a378e13a18651a",
+        "user_id": "MlBgAs9emcap1MgMS2TTNka3kK13",
+        "device_token": [
+            "c1pGjPAdQoWlNuFhYe0Qtw:APA91bFAowv_v99p8pO3AfxrLR1RVpUjTvARExpUklqt8eicuLyhWGHXyLoVeavl0q2UR8FcjXcMoGugeFlsfXm_6YoZ0tf4GOXC4n0I2Q73VXtphrwD4NDdpG9RuGbBWQKychQMPdSz"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-07T05:48:49.291000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "name": "Roy "
+    },
+    {
+        "_id": "6614de1e0a5119b632dff302",
+        "user_id": "0YCWuDX3Yle6IALd5vd7TZWiue23",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-09T06:20:14.045000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1,
+        "name": "Update Name"
+    },
+    {
+        "_id": "6617a5bbbede43a7d430dc31",
+        "user_id": "BqkaqNfQztYQjVaxp2Xo9tqeTfr1",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-11T08:56:27.084000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "6618c574668bf1aa3c1cc0eb",
+        "user_id": "C8l4KQSUKBVxQz9EvCNGtQmYb1I3",
+        "device_token": [
+            "erWmROa6TIWv9UJJ6-YRnm:APA91bGCbd9kC3j7Ar0EhlIyPSTvIkzzN5wW-Z58L6pbOfN57pukeVyLrXujboNkOR6VZBa5sey7z77QQHXbbNlJUQiALg2ZfgSVfenJz9nQRtMB2Z0IZSTo9Z_kXIySHp_A0L6fZrug"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-12T05:24:04.704000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "6619281d00ef42a306b9c9d4",
+        "user_id": "2SViQ3jvrUOHgmwyE7GyYskEcR02",
+        "device_token": [
+            "dFtCMG1jSwy8qb3R42ZzhF:APA91bFpteMIGFiq6mI_lSElTyrSwexYiLassmmcPfSQaLDMMi6HrjnVrTMzOXQuJsMXcxzBQlo-_PwiwTnnYfTVoZB9MCH8726zUrcCKvBGe-MBR-Mbl7Zo0fhlktyEi9l01SuaDDsp"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-12T12:25:01.775000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 7
+    },
+    {
+        "_id": "661a269c733bc66323b6d83e",
+        "user_id": "nGsOPP1YutOaRYjq9xQj0ZBWpRP2",
+        "device_token": [
+            "eJau-jZVT9GVNvsiVv6mQ6:APA91bHopuqnmywLhM5TbAh_hlo0bKO94Ggdtt0r_yCfLaDsFXvaRmp3Z_lZYYXMOWAH2u3InKu9_1299ou-C3PvdU-cdKQrucQTuFsC5wMHja9omDM7EOAn7mruuTj3VXBsxWNk1tuh"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-13T06:30:52.886000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "661a3d059f989e3a51c28bf4",
+        "user_id": "Oe7nC9YbolY57vPLU7lVSa3vyy92",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-13T08:06:29.583000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "661a4f773d4b8591063b8624",
+        "user_id": "QVdnv5BMnUecwFHY9SYXXOOLfLr1",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-13T09:25:11.868000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "661a811ebf13e02f52b48e0f",
+        "user_id": "3ciJwz3UwBcqBPTqGBgPkt9VSxl1",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-13T12:57:03.015000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "661a81ac9c1a84eefe26de98",
+        "user_id": "UlVbc8BNMPaYiDA8ZipRc6v4itz2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-13T12:59:24.397000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 3
+    },
+    {
+        "_id": "661a81d6bf13e02f52b48e2c",
+        "user_id": "XEYY4k0Ra5MrvE86lQZUlRGjQOp2",
+        "device_token": [
+            "en8V7gQOQeSVr-cQa73a_Z:APA91bG5602fgwKiOpr5pfQJeKVuF1eMg3PzJtApRQAswxZe7FsflU6UmKLPmlRKwQgJabCrJiRWtr7bZK0Rj-L-j29vw-eNELsjrv154Bu5wDT97wD0nYbBdmav2mECF7ZoT8f5CtEw"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-13T13:00:06.493000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "661ad5d7f8a5879113ea740d",
+        "user_id": "qTDMfqFwGVWzjLn6eNGyAsrwhh53",
+        "device_token": [
+            "elLkTA8BtUoJvf2Hzk_TbU:APA91bEJr806sjxZhfipYdTrbqgNQT75KVLbIMFEe_f4Yewu2W6qsfjwSdNfmiupK4q6KfayYz7m9FTRuTx4llKP_ofMhNlSRHeh5DDj7LJbFTtDovM4Z9TsM2H1ylo1WOnHCFBQw_4p"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-13T18:58:31.988000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 2
+    },
+    {
+        "_id": "661d254bd0325e4f1921df24",
+        "user_id": "WPIOUxrbkpaRv9nlQu8o5duDm643",
+        "device_token": [
+            "eMYJaT2WJklToQV3nIrVFX:APA91bEug5F7TpHQTglFemMnYq8EiZf1TSjoOzvfrCF5kTj23rWmtXqE2kSZZAYkPpqlOVCpohdygGb3yHCE_LeprS07jiHp96JMDWLqhGrr6w9rsy03X37EfW-XXXlfylgXmhGA8xRJ"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-15T13:02:03.044000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "661d684b2fedd3aa9b808a55",
+        "user_id": "WDLVmrXbfkbAU3gnG4h7u2RKLjs2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-15T17:47:55.940000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 10,
+        "name": "Happyns"
+    },
+    {
+        "_id": "661e5e65b3d7755bd85e6868",
+        "user_id": "pCZI4WfiMSSoba2u1QZozNWmBwu2",
+        "device_token": [
+            "BLACKLISTED"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-16T11:17:57.613000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "661eb7fbd73da155ec9ba086",
+        "user_id": "RQRfWgoG0mb2qXfkYJtAqRb3ESf2",
+        "device_token": [
+            "c6I8XqLHQ5uafo3pUSZvKl:APA91bHUIAr6tn9LkMxTfXcKZIfUMQwt0IT9MKJAE3ui6rAKxo7TKLsfvvclowsFllRwY2MtXqgRB4X_BlLI3_XWX179H9tRMDJ8e66EuxSC8Nik5F-7pUH0AGdsJbmxD_Rm9oWy4toK"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-16T17:40:11.211000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "name": "Update Name"
+    },
+    {
+        "_id": "661eceae7e92333ba489d8ab",
+        "user_id": "RMLNCSM5nCYXi9wE6fvSGioh3Ls1",
+        "device_token": [
+            "BLACKLISTED"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-16T19:17:02.496000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "661f939de61e14cc77b561af",
+        "user_id": "dsO3dFCqWKQlULI4CWPddwRsmLr1",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-17T09:17:17.262000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1
+    },
+    {
+        "_id": "6620a37adfdabf9eaa17141d",
+        "user_id": "D4f8zOv81lOQj7isyc9yQMsXHhk2",
+        "device_token": [
+            "c9qIz_k7E06RnErUvVih3u:APA91bHS2NAYjNiygtngKN4VFzlm1eVkoD3NqLNuh0fI4sJ1FXPnaSOR5LUXn37M_sq78gfAiWnGQZpO3u1F3yAaVoI08eO6B5sLPHa82nCrPE2SelMWjLNwf0HNNC_uIW1oZdFyRLjm"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-18T04:37:14.278000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66224a561b21cebf07b7a3c7",
+        "user_id": "Ky1vMimWOqhuFynRoManHXGTAlY2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-19T10:41:26.081000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 15,
+        "name": "Romil"
+    },
+    {
+        "_id": "6622774f6c42bde1984e02d2",
+        "user_id": "H8QZhGcX50dvTJFwuN5ZpGJkpEO2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-19T13:53:19.730000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "662790c6d5a3bfa12249b11a",
+        "user_id": "7hfXf5mPA7hfpm3KbbEEBeYEX462",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-23T10:43:18.780000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66279f8bd5a3bfa12249b1c6",
+        "user_id": "UlEmuUj9m2fsXmtyIeBK7asCCBM2",
+        "device_token": [
+            "d98KA4KcT-K7UQa--MvAKq:APA91bE6JBfdvhrOYgBNg0eBEgXAh3PjXGZHXYNh8TFqh6H8Q2VRKhy2JbBXlDol_3Sbg8LBWbB9fUqh78qp_ucBdmSSmCCJd-NTK3D2XLhR-Sf2iFon0jyWqZV7ovHU738-MuOAdQz5"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-23T11:46:19.711000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "6628a06dd5a3bfa12249b52b",
+        "user_id": "yMFnTJU09gXPmwuvflDctXr21VT2",
+        "device_token": [
+            "cbQh3MrJsEfJsYznIQYgAX:APA91bFRQ_jWzMfuPsmR3THeaieD-Xt9AcFHShAkFNu3-sSqKTlgLhbIKWcu5UNXicPAQXuU_4FoqCY4gssogCJLxikeQnRBdce-IqBoHOfkIKITf3MgF2Vh_Xg8DGXHzJft3xm2tnRJ"
+        ],
+        "status": "active",
+        "createdAt": "2024-04-24T06:02:21.067000",
+        "updatedAt": "2024-10-25T18:36:56.497000",
+        "__v": 7,
+        "name": "Hey Noti Test",
+        "device_id": "C069E426-F31F-4521-86A9-B1B5A1737D68",
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "6628e0abd5a3bfa12249b6e2",
+        "user_id": "XH6P3rKMRQSxpS3VSzYP5wvXxtN2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-24T10:36:27.222000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 3
+    },
+    {
+        "_id": "6629537bd5a3bfa12249b8e5",
+        "user_id": "5ng4B7N3e1T8gfHYmzQIB9xyOIN2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-24T18:46:19.450000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "662a2784d5a3bfa12249c181",
+        "user_id": "RjjRjz1snMXF8oryDNgO9HZjdU53",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-25T09:51:00.022000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 6
+    },
+    {
+        "_id": "662a3d72d5a3bfa12249c371",
+        "user_id": "d33Uu8CynBMysuc366Ycjuns33p2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-25T11:24:34.340000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "662a44a6d5a3bfa12249c3de",
+        "user_id": "THNJs5ohHSN3rE5tEVnQrRIauT53",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-25T11:55:18.424000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "662b46ded5a3bfa12249c56f",
+        "user_id": "ZeyUdEIOfchVSkOB91oKWtnDh4x1",
+        "device_token": [
+            "hvgcutcytcy"
+        ],
+        "status": "active",
+        "createdAt": "2024-04-26T06:17:02.833000",
+        "updatedAt": "2024-11-18T12:31:43.725000",
+        "__v": 1,
+        "device_id": "testagain"
+    },
+    {
+        "_id": "662b4c35d5a3bfa12249c5b7",
+        "user_id": "cyVxxXuyguZKfmce9G2lWiMHZ1g2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-26T06:39:49.100000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1
+    },
+    {
+        "_id": "662b5a17d5a3bfa12249c640",
+        "user_id": "erzMNC5dLIRG6rSpG3Sy7fOgcC12",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-04-26T07:39:03.625000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1
+    },
+    {
+        "_id": "6633a1ead5a3bfa12249cf9b",
+        "user_id": "xuWAcHZdZhPnZCUFiYmqN3RmjhH2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-02T14:23:38.714000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "6635fce4d5a3bfa12249d3d7",
+        "user_id": "i8nTcIHDP4WCuPge9uaHs6zohW03",
+        "device_token": [
+            "fVSHJ3WmRuSE4SxHwPqVdo:APA91bGTt9CPgFsi0Jp0nEHGBKukSUy2TTl-s_46AaPniT4jvVSp2vnwuINv2z95vRK0sqoZ0TgUVrKolwRP6VL0X3MDrCyk7KVB7t9VPqnOjXwYiIlYxQGw4ogHilQuPEWrv4Mfr7az"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-04T09:16:20.874000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 2,
+        "name": "Update Name"
+    },
+    {
+        "_id": "663606b2d5a3bfa12249d5db",
+        "user_id": "56C5WYZSsdgY5Oln9OYBtpXUOOE2",
+        "device_token": [
+            "dcRSuArvEkyTpPf3NSs-fD:APA91bE78LhzTPSrYN8Gs1CaDiFaXYa65eUDIUiNNoyrkq9Gx3iff9OWlqXgmjDfwYRPabNRBo8OBUH3mFe-gu-ZVdhjsCDs_7nbyNcMIYxkVxCVBPKSdMZrB-rhmf3-x2As1emipNY7"
+        ],
+        "status": "active",
+        "createdAt": "2024-05-04T09:58:10.016000",
+        "updatedAt": "2024-12-13T14:11:46.231000",
+        "__v": 2,
+        "name": "Devendra singh rathore",
+        "dob": null,
+        "gender": null,
+        "device_id": "0108C748-8F77-4B23-A7F8-AD5DB218C729"
+    },
+    {
+        "_id": "66361144d5a3bfa12249d630",
+        "user_id": "L9Z2BZ8En4fH9m4NpjlRJUa64iu1",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-04T10:43:16.863000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "663636c3d5a3bfa12249d728",
+        "user_id": "KDNe83VVpUSIsAj0dkQaLpBwicv2",
+        "device_token": [
+            "dT91qj2ZWE9aky3tyNDaGE:APA91bHJDMWdNifao8qngQb47r8meFIhHBeohhPeeHzA6JQvE8viTm5PEglKs0GLbj5AKtqYlBZSzGq4inq5VeUmq7qFQNLY080kJA2grbMjz0CiGA0pzsJhvsxIJaFAmKuXLn7ECB36"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-04T13:23:15.112000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 2,
+        "name": "GGI 2030",
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "66370b25d5a3bfa12249d7ca",
+        "user_id": "lzZJteCDhwgH8B6madhxgFSxrhN2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-05T04:29:25.264000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "6638bd87d5a3bfa12249d8d6",
+        "user_id": "vE5dqD6phrfXEgh0JiYXaxURzUH2",
+        "device_token": [
+            "f0NV58o8GkhEhmi2RjFeyf:APA91bE30UTBQK8WxS32G51Be8c0T3nigtAC7taNHiP2iefBTMpBndrS1LCeXcPYv1DUx5-DhzThXAlbMLkkU8rGw0kiNrhny_GPHAAVoO0RoU-87vjn7Wq2S87X-Kq4ckR7qvXs1MlA"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-06T11:22:47.903000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "6639dcecd5a3bfa12249da5e",
+        "user_id": "qf6nT4m7PHOyBJoTxS6pNjyf2A02",
+        "device_token": [
+            "d8adwi4GSoCI6dKnvwzY3Z:APA91bEsbmLQsos-yIqh0_qwUYaRWt57OKQLO6_F0KaEjUHRkrTy86Zhf7ZTCzYCY7ZCM2xZAYbVA6RyFCNFWozCFfgBDHuE-zFukTBcf_L9BE_Q-b2qeALUyi5GpwyAaUupsfweVd_v"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-07T07:49:00.175000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "663a1076d5a3bfa12249dbb7",
+        "user_id": "nG4dJw6nzubROolIb321FFo23rr2",
+        "device_token": [
+            "eGxTINTmIUtYsLyo4m1VOL:APA91bF4ST3_mqKPD9fnR0BHPwMM8H2O_uDML-8fetbXvYiaCxvEw6ZY_PC1mZ0kIxhRIEtRUFG8IeWGi30VkFIFutjjIFcnpymF2_kpK6jk3jkrd3AoWCketvNjrQT0ChP2FheMcG_G"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-07T11:28:54.150000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1,
+        "name": "mohit"
+    },
+    {
+        "_id": "663b3d71d5a3bfa12249dc43",
+        "user_id": "LOoRI4iNHgdRDI98dbG6TIxOCPE2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-08T08:53:05.709000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "663b5926d5a3bfa12249dcb6",
+        "user_id": "dEwhBhsF0cZEwG7HBeGO50ILOga2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-08T10:51:18.812000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "663e69d3d5a3bfa12249ec2e",
+        "user_id": "V24qc81d7LZQlY5BT1GwYLi9XWU2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-10T18:39:15.607000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "663f8498d5a3bfa12249ef94",
+        "user_id": "TL83ULpTKvOHKdyYZ8I79wOW2FC3",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-11T14:45:44.643000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "name": "Manish"
+    },
+    {
+        "_id": "66436bc7d5a3bfa1224a05aa",
+        "user_id": "HBLQUx6DD1hNJoa69ouuL75NtiS2",
+        "device_token": [
+            "eI7vChiYPkFNsQvYWYHtET:APA91bFWCqsIeHPGoDt43V2TZogfqnhuJSD-kFmwy5xlGsyMDBp5bu5jrNRGwRm1gJR1T3WyhiAHDmtageL8pWCBXV2HfeGB6QK_y7MgoKRUJ_rPJLVNHkc-z1vaCWKjjUOTUL1bigoB"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-14T13:48:55.628000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "664456b9d5a3bfa1224a075e",
+        "user_id": "lG7XSvurzocrX93KA7vsSye42pN2",
+        "device_token": [
+            "ezw_GPJPlEmMprfT5uo_lf:APA91bGMxZEjEDzYTdg4R3AIGIuoPWBQcFZ5mvVpsXwMiXBUMd-jbOFEgL_LWofqJtiP8Q4ea1WeBK9YIFNegID_LXslGgnCM7bibWlBzrwhKj-sYjFKgDw6lDbOTBUsgsnaz0jKHXrr"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-15T06:31:21.454000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "6645cc8fd5a3bfa1224a111c",
+        "user_id": "BH9uh0QwpxYueO9lCNIpBtgnnlI2",
+        "device_token": [
+            "dwJ7hbw_Smmlh74KqdA9YH:APA91bELzCLRfojS-OUslF3IBYPpnf-zWnIgo_N3T2c9HURaYeB18y6pn28aylzNXbejzAx9u_ktazHaoY_qH4RgVqDRpbLOAfgiH2y90TTKhoZ15yjhdoskY5kRpOpRkXYh0CqRDU5O"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-16T09:06:23.592000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66467e72d5a3bfa1224a147f",
+        "user_id": "QNDZwtmNhDeqWBhLowq7scKhsEo2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-16T21:45:22.486000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1,
+        "name": "Raj Maheshwari"
+    },
+    {
+        "_id": "66475214d5a3bfa1224a1842",
+        "user_id": "R0HHJ8y5GTOKR2xAnyyeLxk7qs42",
+        "device_token": [
+            "cgwoQlNgRxaOD_PM98BZ2s:APA91bH1LKgTAA9b8WD0fG2GxUebIcBo1_a36upSPauxgUQ1SG-tYbINRJbET07WvYC4VXujWa3qylyJRewCekL8TdKokfGiItHEDSU7xi1CuukHV-VCU88-bwnLk3Lgd8SrLBI6bmhZ"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-17T12:48:20.088000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "664b171fd5a3bfa1224a1d5d",
+        "user_id": "IYYBynSTzhPF5mYdjrwIsVLw8Gp2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-20T09:25:51.155000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 3,
+        "name": "ravi"
+    },
+    {
+        "_id": "664dea8bd5a3bfa1224a1f4f",
+        "user_id": "V90iNauho5hEFQl9pj6WmSthWVn2",
+        "device_token": [
+            "c-xi0j8NB0x6ox0MQob6QA:APA91bFv0SELEcvTD3s7lwm7JgzUUeMLNjvP83egW19fvgVUTZZ8E00XaMN3RIZ8h6zcTE9UasAYteoCpzw0lfcvx_Xq2-GDtVFaoNDH0KzQON4Z_cGeBkxiQlZnoxcRPsJLurzv5dcQ"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-22T12:52:27.436000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 2
+    },
+    {
+        "_id": "66536e0fd5a3bfa1224a2a72",
+        "user_id": "0o5eJ68T2tdUxXLiWi4eiTNrnCA3",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-26T17:14:55.075000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "6653dfe7d5a3bfa1224a2aa5",
+        "user_id": "jYCAKJvqJ8hFLwRKAUOAjs0X72n2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-27T01:20:39.219000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "name": "Taranpreet Singh"
+    },
+    {
+        "_id": "6654545bd5a3bfa1224a2b62",
+        "user_id": "jBJ3BVP8RJaqTZJqpZjZK9cBS982",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-27T09:37:31.370000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1
+    },
+    {
+        "_id": "6656a206d5a3bfa1224a2f2b",
+        "user_id": "bdzpSvkwC9Pwnwqcrks2NUFGxNp1",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-29T03:33:26.686000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "6656d01bd5a3bfa1224a3073",
+        "user_id": "wu2KxEYdG2ey204acfm60Zm6DW32",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-29T06:50:03.747000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 2
+    },
+    {
+        "_id": "6656edc6d5a3bfa1224a3741",
+        "user_id": "2cQApor8aBhQENdY3Wt1H7PCUg93",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-29T08:56:38.467000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "6656eeffd5a3bfa1224a37b3",
+        "user_id": "bAYgxD7KrWVYLduyILjuajtZZSW2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-29T09:01:51.776000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 10,
+        "name": "helloworld"
+    },
+    {
+        "_id": "66572ee9d5a3bfa1224a3c48",
+        "user_id": "hWJ5oQnslcWrrUDojDgnM0BjmvN2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-29T13:34:33.954000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1
+    },
+    {
+        "_id": "66582a8ed5a3bfa1224a3fa4",
+        "user_id": "zhqTxEOFMlagVgR2nxaPaw6IZpk1",
+        "device_token": [
+            "cwaR4uXoSa-ExpZxaOjZG9:APA91bG90xvY_toPZ5rUsjySnCAsnYua0lVM4bgjfSuyUKhK7m_7TeHXeFuzsX9FGKTB6mfRTucVWukX06Fx_C6xXIYicz02zi8KJWhqpWb8X_k0AcUHRAefxYZHqyXpLw5eX0_f-Ebh"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-05-30T07:28:14.152000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 6,
+        "dob": "6/3/1998",
+        "gender": "male"
+    },
+    {
+        "_id": "665b1ea8d5a3bfa1224a44e3",
+        "user_id": "SR0FyxMYFxfXwqQOMTIVLUYOe4C3",
+        "device_token": [
+            "elM_30vYKkUVp-WuaRnQP3:APA91bHijzjfqMVGrkPI-1BdwpXPAXH2S3Au5ocQxxCUNh5Q3LEhjaWdzHdhbqniIIEDrHJvTR2q1GUKNy92ZwvRx5OhZfV5rMML8R7tcLVI-ObY0kgtnlcSFivZ_i5fhOFsWcNY17pJ"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-06-01T13:14:16.637000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 3,
+        "name": "ABC",
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "665d45a8d5a3bfa1224a4598",
+        "user_id": "PHB1LfdJKlXONbwR4zvd11DXBie2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-06-03T04:25:12.675000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 14,
+        "name": "helloaman"
+    },
+    {
+        "_id": "6661962dd5a3bfa1224a4b0c",
+        "user_id": "7aM890u58QZ6pnv41XdVRytcWvX2",
+        "device_token": [
+            "cpg0RoVyStGGnmI6Z_e1qG:APA91bErUBlCgpnlhNUAjP6ohZ6UzHizCSJL0EcgSCZd7itKMj7Z1A5Stty97OpKkJj3MTsXYrFQvjdikOL9nYryiU39iH19y8AkZY10bQqn5lp-RxV5By54ztZAtDGR1aOZoEOBvpch"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-06-06T10:57:49.834000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1
+    },
+    {
+        "_id": "6669d6ced5a3bfa1224a55be",
+        "user_id": "8j8qB22uZxeoIuxBYREdqiysWcf2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-06-12T17:11:42.720000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 7
+    },
+    {
+        "_id": "667156b3709940c161badeb8",
+        "user_id": "bLT0UXXz1GUaTdw5ePbzQGWtDqD3",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-06-18T09:43:15.653000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 9,
+        "name": "Darshan Ub",
+        "dob": "31/8/2002",
+        "gender": "male"
+    },
+    {
+        "_id": "6671cb0cd5a3bfa1224a5fc1",
+        "user_id": "dXfpUmH9ZKPJz7XVmXJQGeAicgw1",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-06-18T17:59:40.273000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "6676e901013d2174ceb47b64",
+        "user_id": "HsBxDy20mzUzoHdxjcJOtFBfrWr2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-06-22T15:08:49.245000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "667a6f34013d2174ceb47ed9",
+        "user_id": "SwDNdTp1gmXTtyH73VGo1y8d0BG2",
+        "device_token": [
+            "dURo9ZDZTzuTGlKHXKKFoH:APA91bGdwZ2cMHpFnM06ujOI23y5MVfoLeQbvUfr44h8fGVRFFWya-UjOyPybNxbhlNRGateeomPejwtio3mJFIke0s0L0b-9Md9pVWVwQZNj60ZksHZ1dhO56tAbSFu_2-37GxKEZP6"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-06-25T07:18:12.241000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 10,
+        "dob": "1/6/2001",
+        "gender": "female",
+        "name": "pallavi UB"
+    },
+    {
+        "_id": "667a9006013d2174ceb48190",
+        "user_id": "3fdOjHb0mCfBVNToJocZplGRjvf2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-06-25T09:38:14.837000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 3
+    },
+    {
+        "_id": "667a9128013d2174ceb48211",
+        "user_id": "AbL1IsR6HXTV3pvxFzxLWDfMKNj1",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-06-25T09:43:04.690000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "667a9564013d2174ceb482d2",
+        "user_id": "icyEUh5W2VdmBikEt3lU3Sn9WTD2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-06-25T10:01:08.604000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "667a956f013d2174ceb482d8",
+        "user_id": "V4qVfR9OeIMvJQC1JrskImJmz0W2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-06-25T10:01:19.426000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "667a957f013d2174ceb482de",
+        "user_id": "K11tySmQxabI05Ggg2Vo4yGeuq83",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-06-25T10:01:35.663000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "667aaf36013d2174ceb4884b",
+        "user_id": "6qPNlVsqfOgemSXNFjBz6kcUcwQ2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-06-25T11:51:18.246000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 2,
+        "name": "Pradhyuman Singh Jaitawat"
+    },
+    {
+        "_id": "667bffcb57f036007bc2bf0f",
+        "user_id": "SctnZXtf7lZVGtFsZaLfObdSUfF3",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-06-26T11:47:23.354000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 5
+    },
+    {
+        "_id": "6682472c53b532708569b5a0",
+        "user_id": "97MJyODQKPh77yNMMKYA9dydrDf1",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-01T06:05:32.699000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "6682485753b532708569b5eb",
+        "user_id": "bYA8DAbL6KcoefzxYrW541VBm4I3",
+        "device_token": [
+            "ejou1jFISwq5nv3V_nlmLV:APA91bGrudauPKkQIfOXs2VL7xjVlqYv2wVh2nfJg1STdGsz7KTdmEFehK6VZs53ploxWowLK0wbzBdKOhPpbhzta2xLpCuQF8CvPKYyBfYQO1u0yTLYIkNuU9eQ9X2MzmH84YUoa6CK"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-01T06:10:31.493000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1,
+        "dob": "17/9/1998",
+        "gender": "male"
+    },
+    {
+        "_id": "6682a3b153b532708569b835",
+        "user_id": "7P4p1KjEwTclWIN2unXffuNoWOB3",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-01T12:40:17.676000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "6682a48c53b532708569b855",
+        "user_id": "PT3bihUzideX4K7CWuMzJQV4QAW2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-01T12:43:56.767000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "6683c0b053b532708569ba47",
+        "user_id": "A1aJcc7IP6clxhhrV269kj2NmTH3",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-02T08:56:16.988000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "6683c1fa53b532708569ba80",
+        "user_id": "GsNzwfBczIPBrLDSheWJwYCJlYJ2",
+        "device_token": [
+            "fk7oXZgDR5iDkw2UqFyoej:APA91bEqWNDY7HggJF0Ow3Pn_TyVusH7Lk_7-tAIvdj6LOGXySKHWwsw_oLsU7QXV-hNILAEJdOudlXq6aL2FoTBYFi2U8VD00reIO_lNieOyExlDKZ5eQj_SfLv5ziq4ZjZ-EpwYuv8"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-02T09:01:46.502000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 2
+    },
+    {
+        "_id": "66852f5353b532708569f88b",
+        "user_id": "WLlJXrU1g9MCj5SEb4c4qpfGUgI2",
+        "device_token": [
+            "eEP54bk5uUF6mKpGaTJF21:APA91bFpln08l8EHO7LAEDu1wch9VlUYB6DPvjwZhPI6MLMTgAMQgZwbVu8MWDSyFQheexQIAghpcGbdMKFza1in8bbQ9afFJyoRevr7Vjblp8RPHGpqc805KKg93fUOya3Qm5Bo8QkZ"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-03T11:00:35.570000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1,
+        "name": "Yug Bhardwaj"
+    },
+    {
+        "_id": "6685313853b532708569f8cf",
+        "user_id": "XCu6RgfIGCWKpUeCYEVhowATI862",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-03T11:08:40.210000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "name": "Luv Gupta"
+    },
+    {
+        "_id": "66857d0253b532708569fb4a",
+        "user_id": "mncrY8sDJ3URYzncICWT3Df31B72",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-03T16:32:02.068000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "668814e653b53270856a0798",
+        "user_id": "e7KyfdDOxEYw9VWpbprPm57k3Cb2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-05T15:44:38.095000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "6689389f53b53270856a109c",
+        "user_id": "Y6Brt359Hubx9Px27uNAiT7FhIz1",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-06T12:29:19.836000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66893a2e53b53270856a10d4",
+        "user_id": "YU3tBUcb8vQqcaHzzwdzLygPPjA3",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-06T12:35:58.143000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "668942c953b53270856a1150",
+        "user_id": "SfDuM6cYpkUMV5MZvMTHAY7Lm643",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-06T13:12:41.440000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "6689483053b53270856a134b",
+        "user_id": "8mgvxN39eoRx7G8B0AvBL6YudvB3",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-06T13:35:44.722000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66894ba553b53270856a139a",
+        "user_id": "rBZKJeMbaYfeXdBz1zbJ11ZAdJ52",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-06T13:50:29.064000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "668989eb53b53270856a16d9",
+        "user_id": "VAUkMjpA7LbS8UFEBN0XRSBb5EQ2",
+        "device_token": [
+            "dVPVJD3rTF2pmnk64j4xsX:APA91bE7nCdi2rYvUl-6Th_Dii0WoFdtSA4D8imZRz6eInPUZKMqBg5Xu_o2i0rY791p3MVexvzhLv3iMQ5vsoURSuj8J3fcIgYMGznvgTGJe7FtNFs5ihTR91eSdVO1D9c90kss5ejP"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-06T18:16:11.574000",
+        "updatedAt": "2024-12-14T22:06:35.522000",
+        "__v": 1,
+        "device_id": "UP1A.231005.007",
+        "dob": "1/7/1977",
+        "gender": "male"
+    },
+    {
+        "_id": "6689910253b53270856a1760",
+        "user_id": "0pvzGWBt4HScNfTfUTA9cOi2sYq1",
+        "device_token": [
+            "c-UoWBYgL0PFr3wohC8d7u:APA91bE40Y6SiG584BMmt_WWQVlkPYEr4aGjmb6SxjbgpkZ-VpnbbKB3tWlh6czuvuKc6lBRw5B1bc5DCi2X-zjCJPjGq68lZ_GivF01r_AqlCD9m1sLETycX_I8LWg9esyW8yewBGW0"
+        ],
+        "status": "active",
+        "createdAt": "2024-07-06T18:46:26.643000",
+        "updatedAt": "2024-11-06T19:26:16.628000",
+        "__v": 1,
+        "name": "Anish Mathia",
+        "dob": null,
+        "gender": null,
+        "device_id": "F07CDC3C-87E5-44CF-8696-47D5E00BFA01"
+    },
+    {
+        "_id": "668a1f1753b53270856a182a",
+        "user_id": "uHudaIc2gQNa1oAswNGQKBN8ogi2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-07T04:52:39.153000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "668bc1f453b53270856a1b2d",
+        "user_id": "eeQVetAKJIVrmpkbGVb9ykDADyi2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-08T10:39:48.197000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "668c63a953b53270856a1e58",
+        "user_id": "V68SKJ3RPub2Y2j5oxr39xk2Tt22",
+        "device_token": [
+            "ec8jd7tnR9euCJM-4dHFNq:APA91bEnLUqZXxhrqNkdW_G9ZjUJEepzOKtRHUSGntSZwC9uQOHesYeADjr2iCbUOXE_ofO2lP17HRzAerYfTeXMATPZMQxO2-KF5yB1zPl5dabUMNzaOXU"
+        ],
+        "status": "active",
+        "createdAt": "2024-07-08T22:09:45.496000",
+        "updatedAt": "2024-12-19T04:45:27.003000",
+        "__v": 3,
+        "device_id": "UP1A.231005.007",
+        "dob": "20/10/1989",
+        "gender": "male"
+    },
+    {
+        "_id": "668e740753b53270856a21ad",
+        "user_id": "IPVwXxtpwKOxOUPfmW4TMUasZ4n2",
+        "device_token": [
+            "f4n3mOmAK0IglzV9PBirp3:APA91bFOPsrgHOfyAylA6davC9KMLUlT6KBIrygxwKBza6rMdYkOBueaGeKT6KfdrC_zQCRsN3HTC1BT8aFDuFilol5vOIjm-uiZUtyolwmjUqUwpLTdh_gi5rDPJcbQUJhvSOPylIMj"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-10T11:44:07.851000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1,
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "668fb5a153b53270856a267e",
+        "user_id": "ShQwCMDLExhwIefNOS0O3zQjDD03",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-11T10:36:17.035000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "668ffa4153b53270856a2ffd",
+        "user_id": "MUDc3mDqfMaK4DW9NNy8EMsCH8x1",
+        "device_token": [
+            "fgJHxy1Uo0zYsbH2M3yC3w:APA91bG7uFWG9mSpL1liTOyO_0xAbZTkTzM6jeaJi1uk43hsOlMongZwZHaipQZiImUXXg8b2PrcliX2MTglx1n3o0OFzuXmVzN5jLvUrUikKscLPHgd0GKhA25PWlOppje2kh0ZYbla"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-11T15:29:05.267000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66950e760f5fb6c329b5bf86",
+        "user_id": "M8IuJE4OwUXTV9DoCWuSwoP8VdP2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-15T11:56:38.245000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "669641580f5fb6c329b5c4ea",
+        "user_id": "Vi7LG4S7yJdr0fCy83u1Khvd6H22",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-16T09:46:00.515000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66969da60f5fb6c329b5c6eb",
+        "user_id": "L0cu1ZWIqRMe9TFg9P9bCc3JNSl1",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-16T16:19:50.034000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "name": "Armeen "
+    },
+    {
+        "_id": "669c88d8b436da52055adc8e",
+        "user_id": "6rpJLAMyuaYIGxs4rt8ulUm3pqq2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-21T04:04:40.546000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "669d00beb436da52055ade1d",
+        "user_id": "YoexujVxSnReB6MOi8iI3Fr6sSq1",
+        "device_token": [
+            "e-5AlaChUUb9vHjjzd_eIC:APA91bF72fBMiM27L_dgOGaLXbkZ9nySmuSFa887X_yWMEYEzCvpVHssyn8tSkuAVFUcdLt4eTtKCP2YwPBWC9ka96ahamyjbXTl9zsxNuT1htCUmPAF3WreZVbETHK19Lhm-t37kH0b"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-21T12:36:14.889000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1,
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "669e4193b436da52055b02da",
+        "user_id": "vzxQeytxpOQkakDQvvHgcyjBX093",
+        "device_token": [
+            "fpR9oOuGRzqjz4DvPsluBc:APA91bFYvTgeg18ujUUW2sLu-S3zzdkpE29g0s7ULQxlxTWzRAR2OQRHv5aKYG2x-CDkvN11Bd35m32u1oHgScKjp-VLSOd2De5R6OAdkTgybUx0z6L9kifMxUgGzezRL_xF5ZdCLFth"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-22T11:25:07.066000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1
+    },
+    {
+        "_id": "669e46e7b436da52055b0970",
+        "user_id": "huQAi2VL5ZMzPKmDacnR8S96CF93",
+        "device_token": [
+            "fJox_dTzTEOmo1zYkMd5t8:APA91bGn6NdZ4xJDHTgOmOVEuwMF63IKSJWW3zujjGNLyYOaz3adRentxd9PKxD6HLVtEBcV7VQJ8RJXtO4rkHXwZF545NquoNZc5xia6m5LIo9KDyoAsylJQIeNjbdbq4tTc49_fkBg"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-22T11:47:51.645000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1,
+        "name": "shakti",
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "669e4bfdb436da52055b0df6",
+        "user_id": "yBSUwt5ecveYfiJRwR10LVin2572",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-22T12:09:33.625000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "name": "austin"
+    },
+    {
+        "_id": "669f50a9b436da52055ba04e",
+        "user_id": "UYDzAwaxzfUw7MJ3NMvfPzRVIqg1",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-23T06:41:45.507000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 9,
+        "name": "flynn"
+    },
+    {
+        "_id": "669fa188b436da52055bfc33",
+        "user_id": "G4SdYbOWHPYo6BJrAeRWLcGxRo83",
+        "device_token": [
+            "fEQ2buYVQUe_bGliWpYVaq:APA91bGCwamczR97_HMsC_580Q3Mhy_ipnTgEbvDG2w-FFv_SmakAiPAxytGnmQtt6Z4rerDUWcrYGtEzC0-mq1cJfQM3Kv9mqmohrBNJk75rHfYnMQvMLOsZasaG7UvKTL3WT1RU2oa"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-23T12:26:48.038000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "669fe7d1b436da52055c44d8",
+        "user_id": "Naa2yZTuAlfmy1kfZL6UhglHW752",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-23T17:26:41.296000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66a0944fb436da52055c6a85",
+        "user_id": "J3JW0ZMyFfgjz3HhZfyPBTXayOw1",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-24T05:42:39.170000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66a25b82f5f562f6a18b6419",
+        "user_id": "cnX3aCKL7pPMCtAf7ChXcFSaq0s1",
+        "device_token": [
+            "dyGphsV1tkKQo6uNy2bwtN:APA91bEqWKYdWFBvaHGH2azkAVsS0Fxn7MIyxb_6thVL6Tn6o6jKWWTr_KlJMo-TcdH4vdoY3jusLfekPdEh4cbRL-BIL6LplQEJ75sy3ybrRaPiIH1whnnj5DjIsN9wN8hoXa5JcuQi"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-25T14:04:50.136000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 2,
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "66a3e9df16a509139d8f7f51",
+        "user_id": "Fea7Spsp7yWSYYblUcBNCivHVC83",
+        "device_token": [
+            "epH4mqanDkq-p2k_SME_nA:APA91bEiHQQqh-KUGNaWxIDKqzu97fAkPm1uaMXzOeuWebsUyIdMO-Y_kQoreYZrl6rtEpwJXbiXEJdPivcUPHeOU250LkTuh8qt6eUdHuCjyl7EMvIyVNCnFzFDDpOJO08PJKpmbfti"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-26T18:24:31.705000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66a493d116a509139d8f9be7",
+        "user_id": "0giyiXxvG6T8hWX9IcZclPJ9C3k1",
+        "device_token": [
+            "d_w8CpHMTy2Y60U-m_-c-m:APA91bG7Okh4nUgKnGw7Ldy9EFWlJwp4ldUlLkWhWCE82zXQ18pQylF9X_TG4Rr2EbzRkSU3ihidv9tQc1S1sv_K3NYkA9bz_IWMb5eF1tLj2x8JoPLix8A"
+        ],
+        "status": "active",
+        "createdAt": "2024-07-27T06:29:37.199000",
+        "updatedAt": "2024-12-18T09:52:55.493000",
+        "__v": 8,
+        "dob": "13/12/1994",
+        "gender": "female",
+        "device_id": "RKQ1.201217.002"
+    },
+    {
+        "_id": "66a4fe755e0f040928ddb741",
+        "user_id": "fpKhrtPOHaPV2hxIwRqFnEH2v263",
+        "device_token": [
+            "fR8Gx4HRTRyW1NQpoxJTS7:APA91bEvPQo7E50TlT3cRTtzrWpyO4rYBNaaDGjXf7XMHTUE7PBIGE3N27SMr5Hdm7bvZS34su8cQkvhHJ6-r8bwLnMg59BddBsKDTcwZpKAN-d-XLE-5qI"
+        ],
+        "status": "active",
+        "createdAt": "2024-07-27T14:04:37.933000",
+        "updatedAt": "2024-11-13T12:31:23.796000",
+        "__v": 7,
+        "dob": "29/9/1990",
+        "gender": "male",
+        "name": "Bijoy Roy",
+        "device_id": "RP1A.200720.011"
+    },
+    {
+        "_id": "66a503f05e0f040928ddbac3",
+        "user_id": "ZiBsKOWK7zL5mQpD8Fi64z3mjHK2",
+        "device_token": [
+            "dOJMppDEQgGIgVzy0wYemS:APA91bGJbcAAFb3t6w0RilZyCIeA6Jh5psnx5T5sbn19ynSeL8XlOUArT2tXuKKsJGcIbaFDSKZOax6-LQ1gVb6m7OEcbwmfr8c2hFUxmejmToX2nIrgglXSh2ZubhmRzTHABbSDZ_Fx"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-27T14:28:00.737000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "name": "abhirai",
+        "dob": "10/7/1999",
+        "gender": "male"
+    },
+    {
+        "_id": "66a5f8fd5e0f040928de0d1e",
+        "user_id": "ptxgk0tvKyTXzATWX9jqRUYRWHi2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-28T07:53:33.520000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66a72b955e0f040928de599e",
+        "user_id": "IxfDB01hxlNav3sQGPdF0emhz7g2",
+        "device_token": [
+            "elBiO97BTD2riJIjBnl8gE:APA91bEdEKTjaQab_PBvX7gAC6ITvaeA34t3Nsz8fcuXXziMdYvck5lpxLegg_6p1zifkzIntXqQbQRdDBKMUbI_6yKKDLzeD9Oh6PoSlnAFKS1dNyvCgoy_y3MAEHgfXwkFx-P-bU8y"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-29T05:41:41.488000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 5,
+        "dob": "",
+        "gender": ""
+    },
+    {
+        "_id": "66a730415e0f040928de5fb2",
+        "user_id": "t61MHMgwgVP5xnU8nd9OdaER2qv2",
+        "device_token": [
+            "eolnQLzOTF-6MOeu7Lr2aF:APA91bFQ9qFS-RnueEOBDoi82HAk1dJrhHxoZ8pth-C_dONE1RIdFjGWSrEcL6cB3_jJsPqzrhv70uLYXJ69igKJSiHr6kvEnrhMpXZWgFZKwLc5vgngspEgmpQW0r7qV8h8oNB52BnN"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-29T06:01:37.487000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1,
+        "name": "Kevadiya Hemanshi",
+        "dob": "11/10/2001",
+        "gender": "female"
+    },
+    {
+        "_id": "66a730fa5e0f040928de60e4",
+        "user_id": "JdITeQ31ltP5S9GBx0gGolZqqeH2",
+        "device_token": [
+            "eovrV6dvgkMgviD_Uljzda:APA91bFMdShGdsN2ZQHy-i0JG1nv2onzXcHb-OtrHjHQPWXwJLFiQzwhMtW5Cr0lVuHxijoM8-W8Rmd9EKcLUMsoQdX8jYXPYN1y30T32pitmlkCDJ9HJtU"
+        ],
+        "status": "active",
+        "createdAt": "2024-07-29T06:04:42.331000",
+        "updatedAt": "2024-11-30T09:55:31.565000",
+        "__v": 2,
+        "name": "Robin Singh ",
+        "dob": null,
+        "gender": null,
+        "device_id": "EDBC069D-5969-442F-B9E6-0E68E3927EF8"
+    },
+    {
+        "_id": "66a759845e0f040928de9b1b",
+        "user_id": "dXKlAykFfiNGFeZMMGDAmA3TECt1",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-29T08:57:40.888000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1,
+        "dob": "1/2/1991",
+        "gender": ""
+    },
+    {
+        "_id": "66a7b9365e0f040928df5fc5",
+        "user_id": "UrROnjDzGddI9SP7aVvMalbN4Ld2",
+        "device_token": [
+            "d0uaZzvnlUzGrSQzk69p3_:APA91bHVsSZCTayebug_BTSqcVaxQkeH5Qja3_dtJ9SveUtmN5PZftYcU-1SRjpCo4troj_zBq6B-GY48YkJsDsZQMO8EGjWiW_0qRvdfj_Bbl4Co3d69_XVkcFSQup8Tta93NCL1F5b"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-29T15:45:58.502000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66a886355e0f040928df8b1f",
+        "user_id": "iTmAKL53UaOFsaZj5eyJJEzuxFB3",
+        "device_token": [
+            "fdSnqfMYTo6Tqf5Vos27AJ:APA91bHfAKJjyHm3-6jWZ2m_ZfGxCJsScMi8rvHcFxZvdYbcXsI4SClTaXdoBtZmui6Lq6q0hu0h4pf8xyvWoPxDlwAjGKm-05LLBRSMFK3ID9RnLDSK0Ac"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-30T06:20:37.117000",
+        "updatedAt": "2024-12-18T09:52:55.206000",
+        "__v": 1,
+        "device_id": "RKQ1.201217.002",
+        "dob": "13/12/1994",
+        "gender": "female"
+    },
+    {
+        "_id": "66a8dbe55e0f040928e009c8",
+        "user_id": "9tvKIIiWg2TCoALKyuapTEDhrT82",
+        "device_token": [
+            "dbsyI4FS_0e0hrWzeCeunW:APA91bFAyK75cfby7ELF7KdBADJI8eyD1teB9n-QS-9fEZpgyhD7loyvlnWmqg-gn3LcBG8LkE7M0EuXd0h-6QWEfFBK0WAaqKGNJrzWhwFJ4i-gv9f7g1uJ3ncRQM8Ngs5oISR2hf3J"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-30T12:26:13.373000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66a907fe5e0f040928e047e3",
+        "user_id": "MXmXUyiUQSf7NFUNPGcfrsYiW4m2",
+        "device_token": [
+            "cVvMjt5PSqi0vrwwBvdTdt:APA91bGF9WaVXQjvngi6utmXL5_wl1_nXnLYaRxh5sVZEsqsG0QS5sgk67kAbyXgaYX5lz0kkVe8HnrFv7uNmjjXyS5AGb1GH0m-t1qHoavPKzDGecToz-T8xh93gF9lHZro2xTmxwtq"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-30T15:34:22.289000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66a9ec5c534439b7b8c10030",
+        "user_id": "rHcM7kiqpOV66AzGnromnDiS02l2",
+        "device_token": [
+            "euCBWVxqIEbYlEfn89zNRk:APA91bFt1ZMJDhlE7DARZeGYwu28cvqkrLkOakv-dPGnnhQ_ON8IQsJyMcMwpebBSukWZyJ477qIq31wUCXd6q-Q4i_u1tzrFsXlb0VFtKP7_2DHGFely382biWSsghtP7os8pjlmXNO"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-31T07:48:44.528000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66a9f7c4607d2837d25dd0f8",
+        "user_id": "yuXmxKESB3f1kMCnSUkRd3BGb7D3",
+        "device_token": [
+            "de7TpTYPTGCVDcy_FxLLEE:APA91bGvwQ2kHf8kfzOj3OZieyiAKPoBiRzot_z5mTV578UdQb2tuPRSyHBsSDoPr5gY4xLgySKVTFBow2DXRkuq0Vya52ojqcvHpi1iI7IyO3d1m000efHOKblcg7XyEp6PESxbXjUT"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-31T08:37:24.342000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 79,
+        "name": "Aman",
+        "dob": "null/null/null",
+        "gender": ""
+    },
+    {
+        "_id": "66aa68b6534439b7b8c18c92",
+        "user_id": "QVZ9mZkMcvTkVBQcNzRtuXpoHZw1",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-07-31T16:39:18.240000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66ab0c58534439b7b8c19fa5",
+        "user_id": "sOwCmE3FiCe8htaQ4Vg09JtqBTC2",
+        "device_token": [
+            "fODMDsBNS_OcrlvzqkAh6B:APA91bGy8AkizIik2Kl-JZ8dgCf2Txg5rhjfr6mWLwU7nSksuBsMGqlozKNnh0hhD30-wzzKK1te7OXvJwuEzqxzXw0mduxyZY5-V6lPc0wxwFH-jhqPzaZU3JWz9JIwT4WZje8EhqJe"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-01T04:17:28.240000",
+        "updatedAt": "2024-12-14T22:06:35.522000",
+        "__v": 9,
+        "device_id": "UP1A.231005.007",
+        "dob": "3/6/1999",
+        "gender": "male"
+    },
+    {
+        "_id": "66abbfb4534439b7b8c25996",
+        "user_id": "MaRMcLvLQ5V8Ggiy1pDUSKKOemK2",
+        "device_token": [
+            "dfBqbrw6XE-Wj5P8MrZa6I:APA91bEfmkT3X3wZkKHQwLW8FJM7rFGhxpST3SV20VBSU_r2V4s-CKSdAht0xFoEF65gI3PUUdj93zJ7G-Z5zEZlObWW0IG6LqxNiP5_GvGGADHl-q3sxlpIVxDE2J0qt3c2FJupy3zd"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-01T17:02:44.488000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66acfe68534439b7b8c2f945",
+        "user_id": "yPWlEfoO12hRL2WkG9upZ2nn0Zs2",
+        "device_token": [
+            "dl47maqS-kIqiql71HqaI3:APA91bEwGeOp3I-DMQ24tWIpCTje5PfgJWQktVHDDd8pgta134yNhW1nywGW4Jg4MMamKGz1Ybq3pmkIJgId0kETkAc4kEFz4Tp3aMs_ud3p2bzl9AhTxhD2Cvgju1U5LKou1yoCITdS"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-02T15:42:32.288000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 2,
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "66acff35534439b7b8c2f9da",
+        "user_id": "FkXTDsVwlpTd2jwNgANCo02qHBH3",
+        "device_token": [
+            "ctnLCwPE_UyMuyuPWDNuJE:APA91bEXZia9TDESHswcBKVYBZK6-7wOE7fXnN_cAQXSCEzjnqsh-qigPk1YJ7F-jFXirrtLKg3l7ATcvoXgtXPnsZxAVoLsNeKkxRXivZ6uivzch40r_AD7TNXazU16ZcesuZxuiovR"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-02T15:45:57.295000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66addc34534439b7b8c32220",
+        "user_id": "8PVNLJ5E2FZq266YTB9xH4EVycg1",
+        "device_token": [
+            "eVZ6oMuUSUx5rfVTAeT22p:APA91bEEoI8pKGDAlE3ucrhCCF8RmYsQ-3Jvfbjhc4HGK6NZBMBZKO_QiSHcP_bVexIT52o-RrkjZk99PB243IdJrkdYox4PWQptM3NXNiz1esxlCFujSydty0cr238GDAc1bdjJQvq7"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-03T07:28:52.183000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66b0c8d1b175c2f7a1de524c",
+        "user_id": "FkWZGuWmRKMhGlrdpMKYIyWAPYp1",
+        "device_token": [
+            "cjGOx0DY6ENIoInSi5XIVL:APA91bFS4TG5Um0-ijjU_tKbM3WgsZYanbDKaGLA68-ygAg8nyOA5uJj3mpeTTLvLkfrKIMsGLKzMvjYIDlb9USauxQI9u9_75LIp191CndKTg6V_hKYeUQHhWPpsqdvBv8e7cK5pzU9"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-05T12:42:57.597000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66b362f9b175c2f7a1dfc541",
+        "user_id": "GR6SHfg3YsUm6oqPXdVtlrDEGD63",
+        "device_token": [
+            "fk7oXZgDR5iDkw2UqFyoej:APA91bEqWNDY7HggJF0Ow3Pn_TyVusH7Lk_7-tAIvdj6LOGXySKHWwsw_oLsU7QXV-hNILAEJdOudlXq6aL2FoTBYFi2U8VD00reIO_lNieOyExlDKZ5eQj_SfLv5ziq4ZjZ-EpwYuv8"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-07T12:05:13.569000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66b59a39b8f75919ad3cfc3e",
+        "user_id": "dBj98sSg0hUzndf8YvQAslsR3JM2",
+        "device_token": [
+            "fg0DqEQNPktipLvvHMuao9:APA91bEfKEJW9tI-Gtvq6lgOwmkm1a41htN60rBvh6yQDQ72PLUy6NHbVKfXVebzdSmlSX8HLMzKHujWEVPX2rm80QvpcQJlxemwfP8VRdHchfeGNmxr8G-n1l7t4ku-BIWUUDu4je2c"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-09T04:25:29.009000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66b6499cb8f75919ad3d7d4d",
+        "user_id": "vYrxU0RuBrUqdHqcQm37ZMjJBq93",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-09T16:53:48.379000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1
+    },
+    {
+        "_id": "66b77efdb8f75919ad3ddaac",
+        "user_id": "64ZzCvb5TxcED9R6K92DciTbFDu2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-10T14:53:49.856000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66b9bd1db8f75919ad3e3e09",
+        "user_id": "3re6MKByp5bY2mbOgbxAlml3dj32",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-12T07:43:25.202000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "15/2/1997",
+        "gender": "male"
+    },
+    {
+        "_id": "66bad65f4a1fcdd5b44cf279",
+        "user_id": "lg8EQMkGkPV9nIV9X7LihzI6fMJ2",
+        "device_token": [
+            "e4fxq7cEMkaqlTYiCXDh3q:APA91bGD8-rHZ4dbIFXEyYCBzskoqDdjg5LA5QFRI93-yxEEQeVqb1VNWXAnbn9gItmd4y3SX0gCrw5vo8kWowbCIt7uyickZHfzZuOARJgPVdVMhMWbUk6dhYZ-FhhosOlMvyb0P74E"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-13T03:43:27.184000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66bda8060fa36d20956f6dbf",
+        "user_id": "jjbDaSHkbxMzB9gk17oIM4Arncu2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-15T07:02:30.682000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "1/1/2000",
+        "gender": "male"
+    },
+    {
+        "_id": "66be2304af9def006304286d",
+        "user_id": "Wil3PL8qFBSq63jEvjYGdgrvo0t2",
+        "device_token": [
+            "dsELwnj1zEqUqlp6KmMBFP:APA91bFA8cjuPUYNX2Hvdms33Fc0dZ60WDOO5nqsLokpagJpapL1fWBCqX65c4ZGJ9MCZKS8I-F-vo9iCuK6mSUhDs-HjOLwYm4n2fCR6GpFLKrW0nEp8MpK8SklwIZsAUGm2T-MJmH3"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-15T15:47:16.426000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "66bf3ba8af9def00630495af",
+        "user_id": "iVEXclyFYOb8zhjUehrOJUQUZYy1",
+        "device_token": [
+            "cUEkxhVelEuZoLXFQlfERb:APA91bHNudQowSaOgvkaK7FRPBPjtZuIbeJTJZe8ZueB5UUfu5kHvr87Z88czfaUpdMC4vmOUBnL-yEM_PJ3XisHHuqRxM8BHFudgp7fpPO2shv_jDo4DDo"
+        ],
+        "status": "active",
+        "createdAt": "2024-08-16T11:44:40.632000",
+        "updatedAt": "2024-11-28T14:29:00.640000",
+        "__v": 1,
+        "dob": "29/10/1999",
+        "gender": "female",
+        "device_id": "CBCCD6DD-E782-4E64-B4F5-1EDA86FD396D"
+    },
+    {
+        "_id": "66c4500d77c172cc3d5f8692",
+        "user_id": "M0ET7DboschNipiLEK2GqXdu2mF2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-20T08:13:01.214000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "8/5/2001",
+        "gender": "male",
+        "name": "Aditya Singh "
+    },
+    {
+        "_id": "66c4f1a977c172cc3d601f8f",
+        "user_id": "aFj28bnkz1Vj0EPTpeaw1J9vfvj2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-20T19:42:33.314000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "30/12/2002",
+        "gender": "male",
+        "name": "Vinayak "
+    },
+    {
+        "_id": "66c60c7877c172cc3d60a63d",
+        "user_id": "CeAZQNfz2dRgZ6ggY2zpOs36LYF3",
+        "device_token": [
+            "f1u7ccfeSkA6i1_B4kqWwr:APA91bHIN6dNReLHhqsyjw3gVrVL73qU6hqjwgMjMkUAzACA5L3M1Xa5JSTX7vWVuIfAyplmti0Yq0M0_ivedldgJNVkAW7sQge--Zd4kUDIuZ1Z4nXH8eRv3_z45hojKL8mWPQS_1kJ"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-21T15:49:12.258000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "66c9ede53f0ea2f87a88fe7e",
+        "user_id": "muwe8eT07RNWtDDQBWqFDniaMRL2",
+        "device_token": [
+            "fX_fUpj0S9WZ_qJ7QxVqxE:APA91bG8iRfACtKWsdsZz6rGDASV1I6UccIj6NAIi2xm767xd3iNZlttG51uyhN3kW7LXjTXGF0dMCepJBrKWy1C9q7CnU5uH2cnH67_ePdTFh4rbXl0conoS8npgptej2OonIUbil3r"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-24T14:27:49.660000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "25/12/1995",
+        "gender": "male"
+    },
+    {
+        "_id": "66ca04ce3f0ea2f87a890f1a",
+        "user_id": "RjHOWrjbzvZLSq7Mlpfz0wQD5fT2",
+        "device_token": [
+            "euYr4lsfT4qs-F4kmBWuiY:APA91bEF3dtUMzgG2WSoo0r-dlcwbeifNkk-DbGBMnlHg1DKdRZEW2vFOw_Jcm30lCO9mZ1yFM-xNr9PHyx2E-Wv3UiveJrxVwUiGByQQJZV-ig4f6cK_3TWWFhySTbQCNF53K52zy_v"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-24T16:05:34.912000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "1/3/1974",
+        "gender": "female",
+        "name": "#Prachi "
+    },
+    {
+        "_id": "66ca2b7a3f0ea2f87a8912cc",
+        "user_id": "m3cZX6LVvWa3RNsJbNQQ9M14Xyo2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-24T18:50:34.002000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "66cc59f13f0ea2f87a89806f",
+        "user_id": "4ybPwSYHJdgEbm0ALZuJPa8S0G12",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-26T10:33:21.932000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "null/null/null",
+        "gender": "female"
+    },
+    {
+        "_id": "66cc7d1d3f0ea2f87a899a20",
+        "user_id": "Lhup14pGwIVc1JC1mGj4cNgqBmn1",
+        "device_token": [
+            "fpnKYjtRRs-VGuAxMRGbO_:APA91bHlLvTfQl_FMNN3WW8kfFP66Dl3DZCJDrZ0oj5gx5xJ2znYaf8k6HqYJSYiGsnBu6Yz1jOCskylBEAvQlSDImvdaLsGawb1nn78EsS1HWsfwL_j_kSFR3vOqiNtkiWY4OLrElPm"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-26T13:03:25.899000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "6/5/1999",
+        "gender": ""
+    },
+    {
+        "_id": "66cf10c23f0ea2f87a8adcc4",
+        "user_id": "XnV6tjkXHqMDVpaPPj3a713edY33",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-28T11:57:54.467000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "1/1/1991",
+        "gender": "male"
+    },
+    {
+        "_id": "66cf4b673f0ea2f87a8b0af4",
+        "user_id": "1IzfpnZHPtRzBtZd2fuUOHBKoEX2",
+        "device_token": [
+            "dl47maqS-kIqiql71HqaI3:APA91bEwGeOp3I-DMQ24tWIpCTje5PfgJWQktVHDDd8pgta134yNhW1nywGW4Jg4MMamKGz1Ybq3pmkIJgId0kETkAc4kEFz4Tp3aMs_ud3p2bzl9AhTxhD2Cvgju1U5LKou1yoCITdS"
+        ],
+        "status": "active",
+        "createdAt": "2024-08-28T16:08:07.267000",
+        "updatedAt": "2024-12-13T04:18:52.369000",
+        "__v": 0,
+        "dob": "12/1/1997",
+        "gender": "male",
+        "device_id": "E76360C4-6447-4CF5-9FAD-8C0AACD3FEB8"
+    },
+    {
+        "_id": "66cf4ca23f0ea2f87a8b10e6",
+        "user_id": "O7wBddQ8c6Ujuw4ltxYGkQKry1K3",
+        "device_token": [
+            "ef7FrgkPT1iM1XkzJzMT_W:APA91bFfcvrPal7SnUiJLIAXgnFuRhqn0cSLKk9jmaI0GnQ0AkIphagGbkmEAl8p4EPiknjZNgbDsQFVkNKDd0IUG81pBTp9G1w8JYY661_8qC9ipaUlGxo0kZ7oXczYYFjZCMCAe3xy"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-28T16:13:22.040000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "8/10/1990",
+        "gender": "male",
+        "name": "Sourav Panda"
+    },
+    {
+        "_id": "66cf4d9e3f0ea2f87a8b1480",
+        "user_id": "negJXyjsPSexG1MtS6OHBLBEVkS2",
+        "device_token": [
+            "dZvPKjM5Q5GNXpoTf6nbn9:APA91bEt0HN0rbRFLeRUq0MnYT30NADKf2_XCuLfOaNjnjaIHwWV2LuejT9L23qzOvi9Bhl3cZsY_aNAEQzbfxsc1r9RjWpTr7shAd4SyYV5TSxo0-A5EHrqcsE3r-qT5ZuZcc2Z6LaT"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-28T16:17:34.207000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "5/7/2004",
+        "gender": "male"
+    },
+    {
+        "_id": "66d0a0783f0ea2f87a8bd850",
+        "user_id": "ntUir9yYVvWnvCnkLjVReizgFCl2",
+        "device_token": [
+            "c93GStXvT1KRNI6cK0zJHo:APA91bHcubt2AQ2EApHjWaM-UWG7a1WvZ_fi93PtCut2plAsXGZCTKe8cjwbwE1vQOd86wT4sP8qNprlqAd5htumsMNmhOdeTk5SjB7isvaJUdQ3t7ZoW_2lnIRZ93OiRuRYI25fwl9I"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-29T16:23:20.676000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "4/10/1996",
+        "gender": "male"
+    },
+    {
+        "_id": "66d0b62d3f0ea2f87a8bdfa9",
+        "user_id": "ZZfmDGk5YWZ9S5vDrDp9ASdB5XC2",
+        "device_token": [
+            "dZB-SvnISn6YTpHuika8O_:APA91bG680BUAoo7aAN40TKUMAMSYmZ2T5B8S7tX8t0LFLuUGwsfsVNAmxEULcXlhhnfZyV4p7se1caE465XtIcmsLdtBokaHmVbtk28hD-lqi9xqYeKWEdJ1UIIoFDOIjK2-oK-KmSb"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-29T17:55:57.041000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "9/2/1998",
+        "gender": "male"
+    },
+    {
+        "_id": "66d0c99d3f0ea2f87a8be64f",
+        "user_id": "RoVz2IWY5bNE9SPEla8RY3xFCRD2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-29T19:18:53.476000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "11/4/1994",
+        "gender": "male",
+        "name": "Agnibesh Chakraborty"
+    },
+    {
+        "_id": "66d1efdc3f0ea2f87a8c860a",
+        "user_id": "LXSWocqjPIVsAC8zJFoQzAjdqEo2",
+        "device_token": [
+            "e8ws39cNSZOJdDVT_1P9rF:APA91bHdF6ewRjZhrD8JeLdW1LqsK4FbcBfmqyrvmPP57kLKkLJ5Fs11Zn-00wUjSbKnzj_nMFjmS0gWRPyuVD-zgu2P0Fqp7_BcTN43V-AN_dkyC2jMEK3ZOTdmT2RRyiUJnMpJm9UL"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-08-30T16:14:20.329000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "18/5/2005",
+        "gender": "female"
+    },
+    {
+        "_id": "66d4b1b8b594a871f7fd5b1f",
+        "user_id": "KDoevcjITnWw24k5HClzvCFOFVH2",
+        "device_token": [
+            "eeXkLIWnRwKKZqWbOOTUQ6:APA91bGnaAAHdvQbwYYsYdKv_1-8tX-IYJ8S5qpEFTe5E58WFTVqWmUFoUgSybjvdTnRB0f00ZFPx_gZjqhhKisMn4sY3I31v9cq85zOUlpvdRRogsogb8pdlCGTrfXd8uRYER44CZfq"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-01T18:26:00.891000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "19/6/1999",
+        "gender": "male"
+    },
+    {
+        "_id": "66d56dd8b594a871f7fd7870",
+        "user_id": "1wjsfWKOZFVG4yFLQFBLUICSPk22",
+        "device_token": [
+            "dsMUgWPrS4WWnYA1DYrW7X:APA91bE0Owb-R8nDwAvVFoMsbgjZJcuZ32xupopYJfI7iT6oyept9QO9BX5HiOzcMpvRlAwVA1oOpfwMIFrzl9b4BSE3Oq6yXOtl2OEDDyYYs2wTOcwCgIs"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-02T07:48:40.939000",
+        "updatedAt": "2024-12-10T06:44:59.380000",
+        "__v": 12,
+        "dob": "7/1/2001",
+        "gender": "female",
+        "device_id": "QP1A.190711.020"
+    },
+    {
+        "_id": "66d8517558114222e3d1dc36",
+        "user_id": "GJKmpBtb3zWbxGmFF7dgU7UXWIq2",
+        "device_token": [
+            "f03wVujwRhCB9Dxv720zoV:APA91bHyC5PgbKBaGR3Obr3b4PBPw8Sec1qRMUHZ2fxIkmCCnrFMFo8kWjrFUtaPADIEef326Lo0iWWa_CTC5FWCQXm_NOj1xxrF7q4jA_shhKU2g1G_XtZboMpjEQ7c2rDLfNVylDrn"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-04T12:24:21.062000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "3/5/1990",
+        "gender": "female"
+    },
+    {
+        "_id": "66da1bf2e52dac14d19a433a",
+        "user_id": "jRQv33RWvtO0WO2C1Dgtkq0Rcvd2",
+        "device_token": [
+            "coL8xpyxaEUCpfmNT8Mb_T:APA91bHDOiIvp79sKyo6XMA9agBBjKQWpjcGoRBRtW9MhrQk_kwaYVX4yOg80BJncATMa9A1zYPCqnA9WXa7sv8a74NfHcRP3KMUY3gMP031lxCzEXX9e-oRCh8ZW-MzFLAN_Bl7DuJa"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-05T21:00:34.115000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "null/null/null",
+        "gender": ""
+    },
+    {
+        "_id": "66da75d7e52dac14d19a49dd",
+        "user_id": "UVngQcKlWbZLkkjwojtIdNzSC833",
+        "device_token": [
+            "eoOJ1Rd610V2p_dAQwJxxs:APA91bF6OcGY5f2PWz2pKqVq1KF0RAwjIl6elzWVbQ7B2spoblNuarP6rZ7eiGZ5G2C8YefdNl-B9btsKs-MaKnEbtZ6_nWZdXUCz4BHBCpMg9-YIHrbvHikfYR7CbhxgycxUivJUXmT"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-06T03:24:07.922000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "66dafca2e52dac14d19a8244",
+        "user_id": "nS2Otzg4TzNw4f8pALvLvFHNQcL2",
+        "device_token": [
+            "d9pDCNRsQ_O-1sUWU7492g:APA91bHbBI2FWw_e6bPNG6kz8ndruUb2RCRap69jsHWbpAXyd7Ve793K9_ffib8IKrwJk8l64ky6Poes1XE-x5zwZKMldfxeoj61XFS-7pMgEOSH3EEi_s9XMB_iY8f4nwsA3IjyOWif"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-06T12:59:14.656000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "14/4/1997",
+        "gender": "male"
+    },
+    {
+        "_id": "66db5234e52dac14d19a93ab",
+        "user_id": "BnN1uEnYPsdQIJF8v5UVvvVRPXv2",
+        "device_token": [
+            "f_oRm1QUg0ormGroqvRUuZ:APA91bH1VBUuiByNG1fCGrUhk8VbopeVVy3lBkVbpvWRl3Anl-6mdFqPRZ443mp0tXdde2kBBLh9hx0Vf45-phTDOHVbrJUwJztHBQmeV1l06ray98O1C6F0MAQGMNUyDH0OsmL36Hlx"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-06T19:04:20.120000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "null/null/null",
+        "gender": "",
+        "name": "Aditya Thakur"
+    },
+    {
+        "_id": "66dbfa39e52dac14d19aadcb",
+        "user_id": "eHDS53mILzWZVOhOLs3cmcHCrT23",
+        "device_token": [
+            "fDV40arORO6-wefX3Q4rLy:APA91bHqNvCPNuEL1E4siYHKpA3oOnV41NledO4cxycE3gleE_r7mHPkBAxiw98xCAR1pDx95C_xz-g-DkgX47ztDckkDSihVvoMqo2Mmue5mRyPuA8s-3mtlgk7sG_IL_y_7xtD1oos"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-07T07:01:13.165000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "3/11/1984",
+        "gender": "male"
+    },
+    {
+        "_id": "66de8a4da0410dc5434d7ab7",
+        "user_id": "0ldd1n5luydyyQJRpWUznCXGMxw1",
+        "device_token": [
+            "cg_iXKi-d0EjqlBd6EaGyG:APA91bFTlhXUwkVC2Tu6OFSM__cg6rw_OfCoxrJYhAKFfkRTC_oZVVvNLNIlAAbg5x5qMHxjKtNvmuQQjjR0P7Djxc2GPbnCUID9Puv5O6qB39l-nur77c3PGYyU4u8KCqh8zVCKhEr2"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-09T05:40:29.914000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "null/null/null",
+        "gender": ""
+    },
+    {
+        "_id": "66de9387a0410dc5434d7fbb",
+        "user_id": "x6ZawVEo9NerH0oeglOSRD1xecE2",
+        "device_token": [
+            "eUJyzvTcQcu-9jxZ1yyV4v:APA91bFu_e0Hd82qPDoIBnIQnLQQToqBBhf7W4fOyhBxv2AQEoQciV1J6_iuX6BlWaTySZyUKh8-nN-XohXQ95KDdZZKGD_T1H-99TLo59D9s5y2EFk82UM4ktGq2yxctgqZwgVfhTn8"
+        ],
+        "status": "active",
+        "createdAt": "2024-09-09T06:19:51.005000",
+        "updatedAt": "2024-11-08T06:09:43.789000",
+        "__v": 1,
+        "dob": "13/9/2000",
+        "gender": "male",
+        "device_id": "U1TLS34.115-13-3"
+    },
+    {
+        "_id": "66deabcaa0410dc5434d8921",
+        "user_id": "SCPCXZjdMuhujH1zvsatjy7Vozd2",
+        "device_token": [
+            "dNxwPiJ0S7SNYYpG_8QgjV:APA91bH0ltW3FRhY37YZHVM4O7IitTJV1pTXj49DjbsHR7VilUAWK9I7rkCbTpMIKIYY6VtQadVi9222Bb2kwvp_DparTughfCZzvp5BjHpynoPyASvBAv3m76Cq3SyrvLejfaPxWEkH"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-09T08:03:22.569000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 3,
+        "dob": "31/10/1988",
+        "gender": "female"
+    },
+    {
+        "_id": "66deeb26a0410dc5434db23c",
+        "user_id": "Vj2i3phi2agpA3tTPRNHSUrHcC93",
+        "device_token": [
+            "fGLmRF6LRdOjlPoEDcV8Fg:APA91bGD2ldJN7vASq67Pto0evrnHNEIDhJRK3S5MWXjWj_Zpq_wMNzxIdhsDOtXOEmcbCYzocfi_GJo_pdqEOTKMt-ZS2fXxvxD9wvhYRsaV3x59DI0Er-ol_16vxoWHJjLmfKo5dD3"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-09T12:33:42.768000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "10/2/2004",
+        "gender": "female"
+    },
+    {
+        "_id": "66deeca9a0410dc5434db361",
+        "user_id": "9BfCTBq1eaMHSaBvFtNP0HIPKn62",
+        "device_token": [
+            "dOSTIij5Rp6Kp2wWkLNPtT:APA91bH790mODqOQGAuzmd0LTsbRtDyvCtsK7k4xaEoU8J_TuG2huRoM15Z_EHt-sdwCFuAFa1QxzpXJpBxhabkg38_W7tWhg3O4EWne6BN6EIkil5vwfVD4EYrWn292Vt4OHTalJbpr"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-09T12:40:09.727000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "21/4/1996",
+        "gender": "male"
+    },
+    {
+        "_id": "66defa1365119c5dfd3eeddd",
+        "user_id": "mBt7Upf0WXeTpciegPRraotzHf53",
+        "device_token": [
+            "c1Ot8wJJJkn7sjpe7PWxg9:APA91bHAgtmuvuihks0t9r1ZOD-UcC21XPB82Cj4xxlIW43vzBlj1G9-L92--ocoPV3h3eHSh5xi2p7raasMP11bbG6N8T84FgJ7f-27BtZ0JfEhpKCVKjrNLmoGNWlIEAPnDOWhNZ90"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-09T13:37:23.540000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1,
+        "dob": "25/12/1999",
+        "gender": "male"
+    },
+    {
+        "_id": "66e002f2a0410dc5434e00d4",
+        "user_id": "BxQSgpoVMNQwjAV4IhQ8bW0lt372",
+        "device_token": [
+            "egEYuVxVTVaoO5uL584QfX:APA91bENmpKmGiUZw76Pqt7AXbLp2_kI5cDs1SYUdUzOAufLTdbXrVWBx-KBSqT7q8XIPzdhJrUAhaFvMOuHg6wAY4NQ-QhI-omdMPVbXIDbwjTgHYUz7hs"
+        ],
+        "status": "active",
+        "createdAt": "2024-09-10T08:27:30.970000",
+        "updatedAt": "2024-10-29T16:15:16.328000",
+        "__v": 1,
+        "dob": "18/1/1995",
+        "gender": "male",
+        "device_id": "UP1A.230620.001"
+    },
+    {
+        "_id": "66e1409ff3e6b3ec4f1c8c94",
+        "user_id": "WXAfr2BUvjcZ5OXvJAIiAqLKFCp2",
+        "device_token": [
+            "cTLEkGj9RZOlqTbbYxVV_X:APA91bELA7K53QHdWsHzCdgYEXd8il7FXxOToZvPZlrtoLuMjkYy-2Ei0hGkCvWcggzlnOuBJna5BOt5juy9B_mvso7WwTF7eRVOPb-5Fn1eJo8NJbH4qF8lnHBJ0juhvaG4VXKPnK64"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-11T07:02:55.432000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "22/11/2004",
+        "gender": "female"
+    },
+    {
+        "_id": "66e2043cf3e6b3ec4f1cffde",
+        "user_id": "CzTveivJhXMUHFbNJTC81e2rwW52",
+        "device_token": [
+            "dFls3uavTwuqF2Ce01fyZU:APA91bGUM7oadrO90wdO9tqzachRUNoIktELqi_AbgX6OSyb7mkTovblz6GwD74AZyrnyZHL5ldpYiA2Bwh_GGDg0XypEVjMYa52m6VSQgME0ZKNkLv6jmEel3W5q19xWgn1SnUN6oBF"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-11T20:57:32.647000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "2/12/2000",
+        "gender": "male"
+    },
+    {
+        "_id": "66e26a88f3e6b3ec4f1d18c2",
+        "user_id": "bKdZfLJQ2iaDf6867gahQTwDH4t2",
+        "device_token": [
+            "c08YkMw3SF654R9bXGRYIf:APA91bG07bIZ1ArBXi7KBnDxgxARDdENcOsTR_DQ045I9-Bg3DxbyxzXH6LYnsseKQ81W74wHAANuIzA5vRalbZKtacIirGg6wvf05uOG0rN6tcPehKwnSSc3b1CwzXAIkSooQQonHUv"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-12T04:14:00.138000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "24/1/2000",
+        "gender": "male"
+    },
+    {
+        "_id": "66e2d489f3e6b3ec4f1d8bd1",
+        "user_id": "ZU5Lpb0pgIORtDwEoKbmIZhnSH72",
+        "device_token": [
+            "cpoh9fvoQfuDLRjmGj4TLc:APA91bGYYehYvSbA77UM2eahpALbmdy-yQnjAhIiOLXwrSnMesQhjppDSjK-YrqUsZou-I-YxW2Qlxig-UutHnxmJJChsxHJ3WnTY1An6s4qE2uMHEt1zTxGrwG-zD4BC6sN7J4TUsN9"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-12T11:46:17.331000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1,
+        "dob": "8/10/1999",
+        "gender": "male"
+    },
+    {
+        "_id": "66e2e89965119c5dfd3ef361",
+        "user_id": "gM8Q1HEa82TcJtRq5uZdbDLtvzy1",
+        "device_token": [
+            "fxKH9Ge9r06Xs43_E0AFhe:APA91bHPFmKYMkVaEhYplhvWj0uSWcNj8gc-qsKSsos7gvo1l9l8cop_LqGXDqxbmeRAQJryYa0cBn4SZGTsTfG-rBoEt5FyCxtHeYGJv6Ljc8DXMhoSNkI"
+        ],
+        "status": "active",
+        "createdAt": "2024-09-12T13:11:53.423000",
+        "updatedAt": "2024-11-27T22:27:05.269000",
+        "__v": 4,
+        "dob": null,
+        "gender": null,
+        "device_id": "7A18BA3F-13C9-4F38-A365-3F08F51D2639",
+        "name": "MavaniApple"
+    },
+    {
+        "_id": "66e425a2b242ddd75cf080a8",
+        "user_id": "EmXJuw0sKMNS1hX0JT5Faqyhm9w2",
+        "device_token": [
+            "cRnAkSQuL0_Rp143JoxtvB:APA91bFW3jjp8vAQmj-_UI0gG33pBUJn8FHFEy0mazVPuar99-HLXGe0aftVhL0It-eaSqDsQl1shAjDxCJWH58Yu5IYf9jw0NUTqg80gomLK0ReVNH18PaglmDVPQ4GOryADiNGSpAg"
+        ],
+        "status": "active",
+        "createdAt": "2024-09-13T11:44:34.725000",
+        "updatedAt": "2024-11-09T07:20:12.637000",
+        "__v": 0,
+        "dob": null,
+        "gender": null,
+        "device_id": "BDFDA996-EF3A-4678-A01D-571880837980"
+    },
+    {
+        "_id": "66e44b51b242ddd75cf08152",
+        "user_id": "cjqz5IWIvST1Y5cYWTrMMhgabgo1",
+        "device_token": [
+            "e_HErvTfFUeRqlnYa4Io_3:APA91bGJtKXB91iISqMJcujX9GyV2406ikrvBvLuoXziCk6Pkh0RwHxhQzVRiXAJKZRpOXYAPcQbU_mYKt5z5FonYzMMSQWTOI324zrPTh-X1MqglTeHShSB2TEbJCFk9mZB0TLu2AUA"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-13T14:25:21.082000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "66e455b7a46feb82b91fe2a0",
+        "user_id": "5kfuN8YIPMa6gs7M1g4l9E3rJOq1",
+        "device_token": [
+            "eoKP7FUHTrOoYfuOwOVGQ-:APA91bFZqv08xereoTGefKWP7QfTiSem-1ej-hCwr1oza6f8QlvZhZLQw1VBv8w2Nj4H5zEQzsogNvUciG-lNVyXYKdqqMY7JAPKsFD-C4IJUZ88qpRKJqOL1WzSqY6MKfqhSWmFwZlR"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-13T15:09:43.936000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "21/5/1986",
+        "gender": "male"
+    },
+    {
+        "_id": "66e4799ea46feb82b91fe38c",
+        "user_id": "IvOvR2rwuKhER7kcqEk3qoqcJZe2",
+        "device_token": [
+            "creBLa7JT8iMPy2R2Yh_di:APA91bERt0AZjn4SYRSn5Oi1BHWOJ064rs-hIqYf58cQC6NcJ8qNXhMDTPeMCG06-vUAhSvGOzZua3gTGWAaIrrUaK51tc4HiF-GGtM8Eqp7cKfpPAfWF2U6dJ4oRD4iLAhVgZCsHC4y"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-13T17:42:54.290000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "20/7/2002",
+        "gender": "female"
+    },
+    {
+        "_id": "66e50757b242ddd75cf083e9",
+        "user_id": "8xVdPUbJ7Ybd3LTN9bWte9XhotG3",
+        "device_token": [
+            "dNQt69XyRZ65zr9qMsNxrM:APA91bEnhaDjPdeN6bzQKCnxZeX3qQRxXxfvTbo-YYbVftFhYRqIi_LWCTUW2_IRykrFL9bfhMwN1YfOgDz_uqBfYpuPdgK960BB5JxU17VCA5JgrBksJA0oFgd9uTcz3iuVfrOFRWBa"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-14T03:47:35.145000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "15/1/2005",
+        "gender": "male",
+        "name": "lucky Singh"
+    },
+    {
+        "_id": "66e5542bff89f06dfa722d0a",
+        "user_id": "zSKuVo5pSjdTYv27otwoUr8Xjsk2",
+        "device_token": [
+            "fxK-VkvaHkYEobXKeSmg3u:APA91bEDjgKGZrJLYSqs64irc2TuBNpq26M3qyxwzC9wilgyg0lEhqLRnb4rTxkM4xk-FDMTWqf_4ZNFB2qt691hXpWlcgRwZfzaItZVTwIiBRnmefOlaAXIowIwOn4rZBlS7eUlUDmr"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-14T09:15:23.942000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "66e73b4db242ddd75cf09612",
+        "user_id": "fJMT3G7R8qN34gRvp0iJFFGuevV2",
+        "device_token": [
+            "fx3BzuZnTOiGfokTRKYY1W:APA91bFD2WOe45-F7TNoKZbN6J-TPOu2DUbeix_J1HPyZV3r36n4vH4QiS8hjxdZgUEiBZue_ozWu_05EHTwfZ-k423Ea8s7Ec1e0evq8i1Az2M50_o8P291SGzepgoKZ0R4-dHB8yuS"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-15T19:53:49.198000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "23/5/2002",
+        "gender": "male"
+    },
+    {
+        "_id": "66e85182ff89f06dfa72441a",
+        "user_id": "cWv2AGU4Q5WAEPL2Kn6yplh16gg1",
+        "device_token": [
+            "d27j--98cEd-scH8vVDbo_:APA91bE7Tatb0Va2lEt4S8N2vaAE-RZ_LgZGTCQf-GvHUH35LF1Zk2CuvJYnLcoqhu2h3D4swGTUm9tKpSUUQha6cIVYIpRq_fJEa06GBgz0fgQI0je1vL17aEjmgBBl7CFx6n7NLTy2"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-16T15:40:50.983000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "17/1/2002",
+        "gender": "male"
+    },
+    {
+        "_id": "66e87204a46feb82b92000e7",
+        "user_id": "SbOoDvz0V6gXc4QqFSrVDlbvutc2",
+        "device_token": [
+            "eMHuayRnRxCeegiQ8_EEK_:APA91bGfNMdJb_7bxtI3KCyH1gLQnO01Hl26a7LKhru1jcE1YD2kyEIOS04JGAoEFQ2It6wKB1K085eCm7p7g8sI0MhXNd6kH4ZqO5nPstVYl2WngyifEkKNySzEBlaH2_rOhmQkppjo"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-16T17:59:32.444000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "10/2/1993",
+        "gender": "male"
+    },
+    {
+        "_id": "66e94920a46feb82b9200735",
+        "user_id": "nV7uLmKYs2gR77HnPNZO1RTMqIH2",
+        "device_token": [
+            "eDhNRktYT07Bt2bxtkMWd9:APA91bFquU-4gMpPGIq0rGeQMD0VqOtdUtMQJi1Tvf4VP-JVTzs7Tgw3EEhIJV_--tMavs8pVoemKItxUl8BYSHueN47_Z3nFIWkrgJKpFNASu8b4Vwt18N1Oh2MUC38G1lF8tGa7JcP"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-17T09:17:20.861000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 3,
+        "dob": null,
+        "gender": null,
+        "name": "Akhil Rana"
+    },
+    {
+        "_id": "66e95799ff89f06dfa724bfe",
+        "user_id": "pL69UyQo9MVpERhPq76Y5UJFvU62",
+        "device_token": [
+            "ci1rzY_DTXqpZb11QTOUad:APA91bGFxdXLWkzsH97-BY2CsrRjg6o0DOIeq7fR9S7wedGox36JMvjcncgwhbAD3IJPjvtDcHD6DbeLKHhOjSIYQb9ct9X_WJy0xvouu0cO1T3YUe_TUBw"
+        ],
+        "status": "active",
+        "createdAt": "2024-09-17T10:19:05.767000",
+        "updatedAt": "2024-12-13T06:55:08.970000",
+        "__v": 26,
+        "dob": "null/null/null",
+        "gender": "",
+        "device_id": "RKQ1.211119.001",
+        "name": "Aarushi"
+    },
+    {
+        "_id": "66ea7ccfb242ddd75cf0af1d",
+        "user_id": "iLowE7KUPEdqGaf3sIDda5o1rDl1",
+        "device_token": [
+            "eUJyzvTcQcu-9jxZ1yyV4v:APA91bFu_e0Hd82qPDoIBnIQnLQQToqBBhf7W4fOyhBxv2AQEoQciV1J6_iuX6BlWaTySZyUKh8-nN-XohXQ95KDdZZKGD_T1H-99TLo59D9s5y2EFk82UM4ktGq2yxctgqZwgVfhTn8"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-18T07:10:07.652000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "13/9/2000",
+        "gender": "male"
+    },
+    {
+        "_id": "66eac30fb242ddd75cf0b2f7",
+        "user_id": "esmijpgaM7ZCPN7CkRmHTr85SO42",
+        "device_token": [
+            "eMGDvbn8rE4DnkpPp2AfLD:APA91bHzRO8Llpiepzk60y13VRD0gL_n_3uMjOsLMMLiBvflWuOUM3YuPzJUOtjKGggNgYeAKQKzqW7OUav05ymwE9z15pa4DpwiUagTwKAGYXy1EZrkoTyB2pUYRnVRiEcc5540AuMG"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-18T12:09:51.835000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "null/null/null",
+        "gender": ""
+    },
+    {
+        "_id": "66ec28ebb242ddd75cf0c0c9",
+        "user_id": "czkwYJm5NKh2gykcczI4c9Q5fGa2",
+        "device_token": [
+            "emf4iwM7ckwovYOmbJ9f55:APA91bHUGPPkYjEfRwKIidyZFTncymYdEVSgZFFA0Z0ZQOCrc4YpfaLJGfJ13A_pLTYrsB-BY9rTYEB_1ktOsUjr-BpJwAji49TQSuCY-hwDYVVn4ApDJMv7na8yc_l0yYjaDRz9_z9M"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-19T13:36:43.682000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "1/7/1974",
+        "gender": "male"
+    },
+    {
+        "_id": "66eea6e4b242ddd75cf0d21c",
+        "user_id": "1s18nR9UAvc63ExTZybPoYusZa73",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-21T10:58:44.897000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1,
+        "dob": "12/3/2002",
+        "gender": "male",
+        "name": "Sone Lal Patel 0007"
+    },
+    {
+        "_id": "66eeae56a46feb82b920375c",
+        "user_id": "GLEsvkggJwPlqLFQXHRUbimeYI93",
+        "device_token": [
+            "cUp95qUqSAqSxD4AmgrP1A:APA91bGLHeJ-gtdlxFXEEkq5cBOiPKRr6MmyA16eygBmgCPMVUq1pFpElFKadDhIodnIMV_UhXo0JV_QpD6mcjexoEpqBakPzjKlPv79U3Os2nSyK8do52JcQtn46u5sCI3FqlspdmbG"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-21T11:30:30.290000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1,
+        "dob": "12/7/1999",
+        "gender": "male",
+        "name": "Sujeet Kumar Patel"
+    },
+    {
+        "_id": "66f10e08b242ddd75cf0e113",
+        "user_id": "vgZPqL7KXjgOwadescNRZUVFTjM2",
+        "device_token": [
+            "de7kvPt9hU49ko2st1xbnO:APA91bF1lI0BIU-wKowcL_TgiiGy80BnsWqqALAwxJOk_xR3ptvB9mdBPvZv9UjgRjXivEM2_v-61kAgrGSPEnLgxJofQZcYD644f0AhTNPluTt_I0dPR8Ttp-rQF3cSRo5P_EscbEAf"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-23T06:43:20.035000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "null/null/null",
+        "gender": ""
+    },
+    {
+        "_id": "66f16b57a46feb82b9204c53",
+        "user_id": "AXk3XCeCXAWTrTUeHSOkW7keYJi2",
+        "device_token": [
+            "fYZyi3Rv1kNcuGqHM3ikm2:APA91bHbYumNoBbJphIottFdF9ZC1hLfa290LL_Zzukn2C5g-oDwOisE4X9dg1clto3GA2fMJc-vGJMNqFCRDIWViTrL0j5q9Bs7W0h2Q0253mOwkXH8Ce2Wh0xcTB0JdY2XphHr4tpP"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-23T13:21:27.330000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "66f16b71b242ddd75cf0e8a0",
+        "user_id": "YeJWJc8obFef6IsvpWj20bx0ymj2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-23T13:21:53.503000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "null/null/null",
+        "gender": ""
+    },
+    {
+        "_id": "66f24969a46feb82b92050db",
+        "user_id": "sRYAMcVrE0gchhctLgtvZC6bAZy1",
+        "device_token": [
+            "dQhp5VnAbkEJn0hVl0omcj:APA91bElcWaYyZVVruXhCuRr7yctwVA3Cwhly474Vu3KXwIlHdaGxWuXzUnkquEUALpsaWjHDsaLsXi_DXr8NHC4-WX0MQXG1WYEhtzvbakhJmmC5dBz7VE"
+        ],
+        "status": "active",
+        "createdAt": "2024-09-24T05:08:57.405000",
+        "updatedAt": "2024-12-18T11:40:58.063000",
+        "__v": 7,
+        "dob": "31/8/2002",
+        "gender": "male",
+        "device_id": "FDE33D51-4AB3-4D6A-899F-44354AE5BF80",
+        "name": "Romil M"
+    },
+    {
+        "_id": "66f25f10b242ddd75cf0ee42",
+        "user_id": "nmOWfxNsUvarsIn0i5I7AnruGlW2",
+        "device_token": [
+            "eOujdKycQjeu8Fw0ARv2xV:APA91bE-eblhFs5_57PdCPmPr3Z8BYmc1gQ4toYYUhZOkfqA6nRN1CsS3ysBqJ99o_5E09npbTg5x_f0rZdeYuSApEaghtxqemExKmv0oBgeO_WY--tzW33VApOPCepM5v1AIBIHH3OR"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-24T06:41:20.315000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "31/8/2002",
+        "gender": "male"
+    },
+    {
+        "_id": "66f33041f3e6b3ec4f250f0a",
+        "user_id": "6tYB3Cub9mXM5z1RIcHaSYK2o2G3",
+        "device_token": [
+            "cYlQ7GBLQEWO-y_yemh_74:APA91bEICcDeYxYy16F4zDE_YW-Mz8mpx0ttAjx_OvJA67LdT7nOjSCpcJJb8DejuFAgy2bzlezLlSqLu5HeUHK4p6TqL41WJeFyiFRH7dYuL03WA9-qCGOAcJzY7JoHhU0xybcDSour"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-24T21:33:53.615000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "29/12/1995",
+        "gender": "female"
+    },
+    {
+        "_id": "66f58b3cff89f06dfa72b5ab",
+        "user_id": "RCEgZSi23saddcFuBbsHXerqsp72",
+        "device_token": [
+            "fNS36JhITaybCag1USxM4S:APA91bGM8eMHJez-_gUPgetk3xzCtgwfQ5V33BYMpCORgMuOOe_4CAI6_3eB2MMMEPVWM1V8R3ceTLaPnvZJAZRjiAOKZBsiSueGr_3D5UDQvyzG2nfLo4hF5c-V-p0VPxCrsmezjHRH"
+        ],
+        "status": "active",
+        "createdAt": "2024-09-26T16:26:36.718000",
+        "updatedAt": "2024-10-26T16:09:44.263000",
+        "__v": 0,
+        "dob": "22/3/1999",
+        "gender": "female",
+        "device_id": "RP1A.200720.011"
+    },
+    {
+        "_id": "66f69515b242ddd75cf11c37",
+        "user_id": "TUbGbTKC4wephtHtKOCjGMPnZXA2",
+        "device_token": [
+            "f1aCRPxhv0SnhWMKk4sHNw:APA91bGMMIfkCbdAYBjbPb6d8WnCnhnwQEPVhmgduynXZJg_N86A0ql2jlAXK-6FBnYkVJ47H3wSZJqO0y4vzzvuSHrrpxdQQZ4cSKdYwuD8b7v12Fozp7trQmQS8IudYCRBZ7z_qip5"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-27T11:20:53.465000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "66f813d3b242ddd75cf12d9c",
+        "user_id": "FjiHZS0WeyccfLy4yobTTfGTlmP2",
+        "device_token": [
+            "f9o6OWFbHkMFlmumux3n9A:APA91bEpGXiT0bO9GK8YzaRdzfexFoB4tJOgb1W--4YItH5ADYmz25TYwE3MO_SvpnjsopxtUwfn4_SK_cNyT4LNoWrT1tKyUjcWPEKRUZaNDMOqvgdyes-NEQA3R0CLuhkld9CIf-r8"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-28T14:33:55.417000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "66f8ebd3b242ddd75cf1321a",
+        "user_id": "MK2989kWWnfrlkL8Dk2pO3Xldq43",
+        "device_token": [
+            "fJY1Z7KYSx2nw3qnAOuSUx:APA91bHDtgReIfV5KSQU7o32qvF1oogZf5pkyyjsXl1DgLvWQzp0o7Keo9pIND-XrEvrRDbbicX3wxbQLNnEQajfvFGWibnJbLSoPCbc7P_S9ES3iYSCNVP1h4iL-kVjKL_BHwPJehAU"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-09-29T05:55:31.299000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "23/7/1991",
+        "gender": "male"
+    },
+    {
+        "_id": "66fc6c87a46feb82b920b384",
+        "user_id": "Yfi9pHWsRhWyyhCzxbegzmaovCJ2",
+        "device_token": [
+            "dk_fddToRZ2rRd1pUcWXhl:APA91bFkqYwntPIMNQ9iHvuWD6b069eKaXZGw_IbyRGqlr6eB7Y_Eq-tRznShbBkGV7OTvrv3biaX6fFQfOdENiG373Kw9k5EpXXkwl733a8wFvtnjd3ptrn10f6487D-tfCXqP5gfsL"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-01T21:41:27.340000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "12/3/1998",
+        "gender": "female"
+    },
+    {
+        "_id": "66fd9202f3e6b3ec4f2b18ec",
+        "user_id": "WQEhxlYz2zWcBn9uDPV5s2aM5pz2",
+        "device_token": [
+            "edtcveOGRLqfqhEbZP00I4:APA91bHyRIcLkoDAxODKYMtjpCiTLEMno-Mdn_WyUVCfhU8k2chYZpVF4YpOaMAtvPUZCoUc0R_o2g7ZA04NaTnXw9TRQ1uPppAgBUxmv7PQRlAJjxTGOCg"
+        ],
+        "status": "active",
+        "createdAt": "2024-10-02T18:33:38.212000",
+        "updatedAt": "2024-12-13T10:10:59.846000",
+        "__v": 4,
+        "dob": "29/11/1995",
+        "gender": "female",
+        "device_id": "TP1A.220905.001"
+    },
+    {
+        "_id": "66fe3ba6a46feb82b920c07e",
+        "user_id": "X4W6BtgIR6dWj0CqQqnuje392Q33",
+        "device_token": [
+            "de7kvPt9hU49ko2st1xbnO:APA91bF1lI0BIU-wKowcL_TgiiGy80BnsWqqALAwxJOk_xR3ptvB9mdBPvZv9UjgRjXivEM2_v-61kAgrGSPEnLgxJofQZcYD644f0AhTNPluTt_I0dPR8Ttp-rQF3cSRo5P_EscbEAf"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-03T06:37:27",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "null/null/null",
+        "gender": ""
+    },
+    {
+        "_id": "66ff7ed0ff89f06dfa730e3d",
+        "user_id": "q60eIE1H6AX33lzRVPSjnsSlWN62",
+        "device_token": [
+            "eMGDvbn8rE4DnkpPp2AfLD:APA91bHzRO8Llpiepzk60y13VRD0gL_n_3uMjOsLMMLiBvflWuOUM3YuPzJUOtjKGggNgYeAKQKzqW7OUav05ymwE9z15pa4DpwiUagTwKAGYXy1EZrkoTyB2pUYRnVRiEcc5540AuMG"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-04T05:36:16.207000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "10/2/2001",
+        "gender": "male"
+    },
+    {
+        "_id": "66ffb8eea46feb82b920cc5c",
+        "user_id": "PuFUjPT6DoaJKS1ed2ViFu3iOu42",
+        "device_token": [
+            "f0EW6xlcRs29FXJIEG-Od_:APA91bHuA_bZWM_m2Geg8uD87hfb3wAgw9R1pqcttGK3z7vQiTLbEJ7p_VGlyVBn1MbkPFieeMO71Y1lFegsQzx0RceRW5BWipYkLmr--rxKMYv4eWbLcVJrttK-mNyq6_1jZjTNR5BE"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-04T09:44:14.927000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "29/7/1989",
+        "gender": "male"
+    },
+    {
+        "_id": "66ffc15cb242ddd75cf16b3a",
+        "user_id": "ik7JwgHuyFSkUmBi5tfg6a9K1Ri2",
+        "device_token": [
+            "ef7ySsrLRIabfYFp9MnGrD:APA91bF2KfORvyz29ZNXFcHSOqR4ulWYLomsJR2FMu433v7XmOUCt_V167MJl_Zv4-7SaVj0L-Ea7p6MCdBNQUUT2mivLRuLzWqiyP8MmrOt1I-IM5XsK-NcsnLwmYadX2-hYmQM1Ljd"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-04T10:20:12.575000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 3,
+        "dob": "null/null/null",
+        "gender": "",
+        "name": "finaltest"
+    },
+    {
+        "_id": "6700f9b6b242ddd75cf173b6",
+        "user_id": "7RD013MbPVXlNDj20GsABFkkrGv1",
+        "device_token": [
+            "dmxkZQ0ihEUtlQni60gtDq:APA91bFQao_oor5uxSNuUR6HiD050ZICGqdny7pokd_l-dVW_I7VtpzqI8Ognn2OUBDMN5XBVzjj7S1hgSUP_3y9ZVftAhzTXA6j6EFJIWm8iIMOlUjqbAYth6KgjwAQXlPxuOB8un1X"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-05T08:32:54.580000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "3/7/2000",
+        "gender": "female"
+    },
+    {
+        "_id": "67016752f3e6b3ec4f2d7f7b",
+        "user_id": "9qvnXNYi8SaKEcLE6RWefMpU7sr1",
+        "device_token": [
+            "daWGjzIlOERXmkTYq7-HM0:APA91bHs42Wwj7aTl7ppLGkwddA0Efp7Yf6xdEXEvtlX8-0wRQKoQbVwEA0UoWN-T5FnPPxJujsjNVe_wRhspx43ruKH7YuG6_7kw7PqLiU_mO_CYewvbpnSml1GTSLG_ZCnsjte1r0i"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-05T16:20:34.042000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0
+    },
+    {
+        "_id": "67029d70b242ddd75cf17f37",
+        "user_id": "fLKAkTGDZCO9e0x8bowoWlSCnuO2",
+        "device_token": [
+            "fnE3shB7QMSWa6P9dX_UOh:APA91bGwcgGLyzgI3uNbZcgBCKW9l2mCTVrTu1Cpbo3YvJln8cHpcOg5tqttYKzn81qMKzoRnBfN_b44VLSdqIYBCk5cO6wS8CTf2574rAdr0bBlstM7wEsccEZiP7Y4rtRJEeloG_6L"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-06T14:23:44.880000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "12/9/1979",
+        "gender": "male"
+    },
+    {
+        "_id": "6704e417a46feb82b920f4c4",
+        "user_id": "N4VXeushLaN6elGc4jpioi7gIIy2",
+        "device_token": [
+            "dVi20F51RVK4KdOeErgkHK:APA91bGUkENvacd-i12eHR1d_vKX8se_RDdPdfBGxZTA5G0mh11LX9zmAono6_ux5wKda9Vy2yozaReGGSy4MOyzJ4VUoOjOaqV96MpWtcHV3GBIXaN8jfVMfy-oYW_ES3PnavLve7E5"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-08T07:49:43.333000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "15/11/1998",
+        "gender": "male"
+    },
+    {
+        "_id": "67050b7dff89f06dfa7339bf",
+        "user_id": "TtHuTw5etFWRF8wv85GzfuhJdEU2",
+        "device_token": [
+            "flgA8E1HsUpXj_ado_zPmg:APA91bGt5pVdVfehH9RzvO63A17dH2GNjjmFMPNBGdn4k94bJZsVmHavQmKh_JlXiztmoaSzIgwnyEUcH__g-GFGg5ZrzFEXc-_T24bHGqKnh_m0nrFPrFOsesQ8uNmmz2_0egCwqc3F"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-08T10:37:49.918000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "67066afea46feb82b921012d",
+        "user_id": "2NxMg2FNcEREQjp9B3wi8fT9xZP2",
+        "device_token": [
+            "dQVuvp5aSmSgJRqGQfi0Mq:APA91bF7eltUOeXOWLx7fh1SAB2A_d1TERACFTXsN9Qzty_SqGv8MBCmIatZKk7NtK9X7-3H4I4ANTDChG8DYfqeDnjXeJF7mxKrXKMT6M08SbhK0wVR9pn9jqPDzT7m4YF2jcK09h_A"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-09T11:37:34.808000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "20/1/2000",
+        "gender": "female"
+    },
+    {
+        "_id": "67082e19b242ddd75cf1af2e",
+        "user_id": "Tz3xMd3femVuJkmLG5WS842eihc2",
+        "device_token": [
+            "eY9uKsTPTMag1Ej6lQjFMR:APA91bHX4-god1Uw4-NsqZhorIAgEDMBiQP2NSi6u_o-eDt2DePhOvmaFagCuhqXqRokw_PIpKvOGwRcGwgysuN5nJbibGqCfh6YgWYR5LU2V-QdOCx7cbpcr-0RWJN0jFI09_cQpDx3"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-10T19:42:17.809000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "23/10/1998",
+        "gender": "male"
+    },
+    {
+        "_id": "6708d72fff89f06dfa735622",
+        "user_id": "SbM44hYjKYRbAjfqI4eDe0mtZk63",
+        "device_token": [
+            "ckWF9hKBSqebtWN8TEPu6T:APA91bG2d_Bw__SzxgvKDcYyYqbZZGhgqbYXwsf8bBbQq9UWWAlw5hxyEw2WZNRkTwtU7yOvx3OTOA5uOIVIO6igcCB0YaKMjtu7TBgRsqA9hpSli8t7iC2aaMQhoejLlML68UHE0jmF"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-11T07:43:43.468000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "22/10/2005",
+        "gender": "male"
+    },
+    {
+        "_id": "670b968aa46feb82b921294a",
+        "user_id": "nijDVi9kXfVmNQQbUum2JxHx9Er2",
+        "device_token": [
+            "epstd3xvT2myMMjWj1XKjF:APA91bE4r-YRE8x8DocPJvIwLYf_D-N3p8jwGG4SZw7oWjcnwOF8HzVh-mdGy3yk_SBVjD_Afq1xCHt3HQ9bL8EW62ZQ-9xSX7zJ7lZTLfIvH-eeEnwlo5IOaf9Oa91wKG-kX_I7iXwR"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-13T09:44:42.941000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "22/10/1998",
+        "gender": "female"
+    },
+    {
+        "_id": "670bdc33a46feb82b9212d3d",
+        "user_id": "7QNqghJulDdaFkmq1eKgqrTQ5Ev2",
+        "device_token": [
+            "f08I3F4arEgjkfOdN8A9dk:APA91bGwsrvuErSc-huBOzofRJ-WCbGCAQspdHG9JUJEU6ncF-yA9gC0fzidGhzj7ofGTwHhHHF0Oi9NP-R9ZPzI25aXtuh1WWhevSGKtkInPyE-dpGyix8z0hjoB08rRS3kKmbyHTgN"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-13T14:41:55.937000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "670ceceff805abbc2b5f2c2c",
+        "user_id": "R3A4uOGpd6PviMYVaELkD8iNKwx2",
+        "device_token": [
+            "fmji8nT6QpCxehD9t1HaNV:APA91bHO4BV4gKYHqlbyCcMB-j0-jbGPjuBZl4zzi3nkaC9dBlV_Q2vYlRrj_LZaQ3agl4o3dmj_3d4gAmgj3RjdXebqYCo5O0WnXkd8KmFlUGevmbG6JzcMf1BHV66ZohHyxTZPmOrs"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-14T10:05:35.744000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "",
+        "gender": ""
+    },
+    {
+        "_id": "670d3e68b242ddd75cf1db72",
+        "user_id": "PZagCtsrNMfogci5VbbtXFXOEcp1",
+        "device_token": [
+            "cVDvk_g5SGasUfX8q9f51p:APA91bGdtup24ecaD0_kx_FlwaRrLgP2IctzBf9nnGTDPzG2il9nBxr0VUaFu8_dcLI_2wsSBPWPyFfUmto4gtD3yLVEaBMaTK458CR97D8tHtk-z44c7fiZLpjFvuwBsMf_dYnSBde_"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-14T15:53:12.034000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "1/1/1974",
+        "gender": "female"
+    },
+    {
+        "_id": "670de980f805abbc2b5fb7cd",
+        "user_id": "isbZqFISs1PVDeYhbCQbKo1tW9A3",
+        "device_token": [
+            "elBiO97BTD2riJIjBnl8gE:APA91bEdEKTjaQab_PBvX7gAC6ITvaeA34t3Nsz8fcuXXziMdYvck5lpxLegg_6p1zifkzIntXqQbQRdDBKMUbI_6yKKDLzeD9Oh6PoSlnAFKS1dNyvCgoy_y3MAEHgfXwkFx-P-bU8y"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-15T04:03:12.951000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "",
+        "gender": ""
+    },
+    {
+        "_id": "670dea0cf805abbc2b5fb842",
+        "user_id": "xT0dLu7Rk8NV8EDtJgtzzYeDlTt1",
+        "device_token": [
+            "elBiO97BTD2riJIjBnl8gE:APA91bEdEKTjaQab_PBvX7gAC6ITvaeA34t3Nsz8fcuXXziMdYvck5lpxLegg_6p1zifkzIntXqQbQRdDBKMUbI_6yKKDLzeD9Oh6PoSlnAFKS1dNyvCgoy_y3MAEHgfXwkFx-P-bU8y"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-15T04:05:32.955000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "",
+        "gender": ""
+    },
+    {
+        "_id": "670e2004b242ddd75cf1e34e",
+        "user_id": "Ak9dJyvEE5SWhPZLMxtQRhMaAva2",
+        "device_token": [
+            "cpNG6XdGTruaQN4mtM8-is:APA91bHIqkYL1quzP8yzcjY3s0KLA_J9qgdUYec7t4scTCMwET2LndA6QAFVDD8xLsamyZuJdvDpNQHQGx25m_yzhd9T3CKkhXej7qwvf3BHkqE7OwzO64t0YxN1Yqh-MTQV8boSiCk2"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-15T07:55:48.156000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "18/2/1996",
+        "gender": "female"
+    },
+    {
+        "_id": "670ea7aca46feb82b9214d20",
+        "user_id": "ElkaY6R9uwhDYtM44tFLlseHLlD2",
+        "device_token": [
+            "fGLmRF6LRdOjlPoEDcV8Fg:APA91bGD2ldJN7vASq67Pto0evrnHNEIDhJRK3S5MWXjWj_Zpq_wMNzxIdhsDOtXOEmcbCYzocfi_GJo_pdqEOTKMt-ZS2fXxvxD9wvhYRsaV3x59DI0Er-ol_16vxoWHJjLmfKo5dD3"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-15T17:34:36.090000",
+        "updatedAt": "2024-12-18T16:18:58.688000",
+        "__v": 0,
+        "dob": "null/null/null",
+        "gender": "",
+        "device_id": "SP1A.210812.016"
+    },
+    {
+        "_id": "6710dba034c5575a3e7b7e40",
+        "user_id": "jCXDXeM2vzXihkLlj1lsCCEUqj43",
+        "device_token": [
+            "dO9RWcOoQrWMTeru65hp6v:APA91bFlHRI5ot-oxOOYoLXRdF6sZoQ5Y1Jqiokrn-up7lAe1qgqM6UuIBzds5N5Y5EpS1SOjNvjLo4KpJJNh26aNc7wJyhA0upM_435OMaPJQz_azFfsWUxsRjXJ_s_5Hqb59u_ynvY"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-17T09:40:48.137000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "25/7/2001",
+        "gender": "female"
+    },
+    {
+        "_id": "6714ff79f2f4427a389e2bcb",
+        "user_id": "Qv5TpfDGdcX0CxN8TyAPdmu5wG62",
+        "device_token": [
+            "etayuVEuB0U1jsffMTdSuY:APA91bHGHYaev_QLKXXYB_XME1va4rIanRcswUexGLg83PISKct3MnZyIO9C8PTKvEWFVUQs0fel2gSqy8eHKDLUryVjZ-0WKS4EzrcsHW7ntCzCSWQVXAE-A9JHDlYbeWWXGVa0ZzAe"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-20T13:02:49.590000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "7/2/1997",
+        "gender": "female"
+    },
+    {
+        "_id": "67165bbac806f26fece55a7b",
+        "user_id": "9hlV8D3IkIYNFlbzsCcfAw2iXxT2",
+        "device_token": [
+            "cHYxadEfTySaMVk9TZuYc1:APA91bEmh8MTVHxjwGfF-5ZNy3rDVudNIABMnIOekgb97Bqk3Ab0vjZRkg8y9b7woCGlJQdunvVDC2mubOCEsDTW_DcNlcB8VrYFn8xxRSJ0JXkiF76g43tCrn1ywdKeB8GqNDiHieHL"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-21T13:48:42.423000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "null/null/null",
+        "gender": ""
+    },
+    {
+        "_id": "6718b007f2f4427a389ef4f3",
+        "user_id": "eeesWPMblaO78EKj2wejxAQNZA72",
+        "device_token": [
+            "eMGDvbn8rE4DnkpPp2AfLD:APA91bHzRO8Llpiepzk60y13VRD0gL_n_3uMjOsLMMLiBvflWuOUM3YuPzJUOtjKGggNgYeAKQKzqW7OUav05ymwE9z15pa4DpwiUagTwKAGYXy1EZrkoTyB2pUYRnVRiEcc5540AuMG"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-23T08:12:55.920000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "6718b780f2f4427a389ef82a",
+        "user_id": "0gaTCf7DqJWHD6Y5avaaCHIKqtC3",
+        "device_token": [
+            "c08YkMw3SF654R9bXGRYIf:APA91bE_qQPDE4mkEe1mmQEDDWOL1DUmoYPtdU_Hx3afsUvzX0cwFjrfNl9cUY59Hs99CUkzvMWeXKlDQCaoJcBPtJA3HKg4KN7hLPCvQWO7aOU3cbuGvS-y-MKzT0wHdIVV7mmPkVYM"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-23T08:44:48.320000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 0,
+        "dob": "24/1/2004",
+        "gender": "male"
+    },
+    {
+        "_id": "6718f942a5e9b1d795b0c589",
+        "user_id": "89wTl24YIOUgOXUqWWw236kqPA93",
+        "device_token": [
+            "d36Ng2xf5kbFjikvCZWsDD:APA91bF2Zfv_w_Me47HCs1E_CdAFbkv2yXjXBFciEBc76wLJ1L7OV4yn7TQZEQAnEmzJ50VQ_VIclI4j1-ahotqGpUvXAFweD4N8CgEAfqW0sjKtmQtD7kk"
+        ],
+        "status": "active",
+        "createdAt": "2024-10-23T13:25:22.184000",
+        "updatedAt": "2024-11-23T14:27:07.245000",
+        "__v": 1,
+        "dob": "null/null/null",
+        "gender": "",
+        "device_id": "715B841A-38F2-4C77-92BA-DCC8BC2DC04A"
+    },
+    {
+        "_id": "671901bca5e9b1d795b0c809",
+        "user_id": "aadIHlgBaheZQVK9LPCjlPweSyC2",
+        "device_token": [
+            "df_LQWLlR-6CYGTEOd1kdQ:APA91bGaU8vRNimg_ivA7pl2kbyKuz0AoeXNU5XsxS-2HgIUiP4TRuCDmM3_knu-2d7jpXW71JLyD5Hcwo1F4YITynlVx3Rh0LaQ0nszYjC9gLLZXG-EKok"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-23T14:01:32.553000",
+        "updatedAt": "2024-11-26T08:20:27.203000",
+        "__v": 1,
+        "dob": "null/null/null",
+        "gender": ""
+    },
+    {
+        "_id": "671b79a44bfd501156023b1d",
+        "user_id": "Qd623FTK83eMbkrWv5xH8ITMEqh2",
+        "device_token": [
+            "fIZ0MCL2QPyDaARrUwSfJw:APA91bFGXwDL6ubkilB3OFOuq9Rpkg6ge8b10QWV3HE5oYHQLrApUMhtl56nF6tBN4rBKDI8itZyHqQ8wnjshMisGSfUj5mwxt22tzJy73lKM2vSrhyiHV0ltV_W2tNgWzlhnSKJjoLo"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-10-25T10:57:40.169000",
+        "updatedAt": "2024-12-18T09:52:55.206000",
+        "__v": 0,
+        "device_id": "RKQ1.201217.002",
+        "dob": "23/7/1961",
+        "gender": "male"
+    },
+    {
+        "_id": "67271da184f23634e67d80d2",
+        "user_id": "IBXK30You9ehEdsDxvmweyUhqii1",
+        "device_token": [
+            "fhJgKM1NS-eG8dD-uqg-S0:APA91bGKsBgMvwaV_ydqLk0PoufdVevjZWFTqqTPikQEegPpACaViiaq79nIUTk5jUjslIfrTqrPEoZTgwljKLjFqC4rBHG5tnbJWv4xSM1toUid3EmZx-4"
+        ],
+        "status": "active",
+        "createdAt": "2024-11-03T06:52:17.916000",
+        "updatedAt": "2024-11-03T06:52:18.070000",
+        "__v": 0,
+        "device_id": "SKQ1.211006.001",
+        "dob": "2/2/1962",
+        "gender": "female"
+    },
+    {
+        "_id": "672b617ba7c8e2bd3c2ce192",
+        "user_id": "CaBbmu5yppV3KO70hOLrpUKQoiR2",
+        "device_token": [
+            "fuCnJ5HTSZqCgXx8V2DV2M:APA91bGyitUTm2e8bfDfpzqyzKJOBwX_DRqq2tSbYkRum1D9D5hL6vZKtdtDBguht4a7_a-yjfHqorUuO9HVCLdKZYfyMWHSi1AmSSi2xy5x1za7CuaPAiA"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-11-06T12:30:51.891000",
+        "updatedAt": "2024-12-10T06:44:59.380000",
+        "__v": 7,
+        "device_id": "QP1A.190711.020",
+        "dob": "23/6/1991",
+        "gender": "male",
+        "name": "Tapish khari singh"
+    },
+    {
+        "_id": "672b618984f23634e67ded53",
+        "user_id": "6w59FV9E2zW5LLgGgr0ghLdonVN2",
+        "device_token": [
+            "frZCtFqfV0kwlIIsMGpK05:APA91bE3IKYHAb8D3b04kIllP_FaZRaosUfH7GCjXx_GutgTUONNqp7uAM2OiX4t1Ah_fmSRpOPGS8QvRkodyNNakA7eVfguPFv2SzXLpmnjUBVClauY2Ws"
+        ],
+        "status": "active",
+        "createdAt": "2024-11-06T12:31:05.392000",
+        "updatedAt": "2024-11-06T12:31:05.528000",
+        "__v": 0,
+        "device_id": "3447D28E-6A6F-4949-8B3C-C925F7E63422",
+        "dob": "29/7/1993",
+        "gender": "male"
+    },
+    {
+        "_id": "672e0104133888b521255cc4",
+        "user_id": "kFozgTc7fxVkLR2HK6HEWc6AAcJ2",
+        "device_token": [
+            "encfKYn6BUoxjLOY1jGUHp:APA91bETv3IQJPvfN7it-VZvPcX3nb2h_8qdfVcqrKNHzTnR6VUghcrlnvPrrTiH14ICklfOXKDJBcFJKJIBUn_HpG6x79X3LCgM61vvy-8OzySBoZBp3l8gCcGDg1D3FwsTCLs66bwG"
+        ],
+        "status": "active",
+        "createdAt": "2024-11-08T12:16:04.775000",
+        "updatedAt": "2024-11-28T02:09:14.815000",
+        "__v": 1,
+        "device_id": "51FA4A3C-55EC-49CE-A0E4-9B3097F084E2",
+        "dob": null,
+        "gender": null,
+        "name": "Ashwani JP Singh"
+    },
+    {
+        "_id": "672f108ba7c8e2bd3c2d07f5",
+        "user_id": "ZsHYP8z4tiV81aFb2FvNp76rBO62",
+        "device_token": [
+            "c0AIx5HqTxqF8_533wroPt:APA91bFls4lVhmFljpbk59azBVTyK6FL-FkFB8maMX5PXNOC4n8oXLp24Os-PUHCsLacc0t4ISuVNbF5IKkXBrPtDZHB6lEUXy4PG513BJMZ5euGGgSiMIY"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-11-09T07:34:35.107000",
+        "updatedAt": "2024-12-14T22:06:35.522000",
+        "__v": 0,
+        "device_id": "UP1A.231005.007",
+        "dob": "27/11/1985",
+        "gender": "male"
+    },
+    {
+        "_id": "67324d6ca7c8e2bd3c2d1d93",
+        "user_id": "Szt7y5WslHdyCmXKoZ2GHw4GxMs1",
+        "device_token": [
+            "ewcOfH04Ru6pEhyVGOtEir:APA91bE2O-qjn2tePv1SLFO8C65C1_mNKb84pcYRL_red7cEgOIvxo_P3dBF1e7lX3K7xH_1vy8D3HpoH0fOKJgkxlITsZp-5yCH5YoAMs63384j8UAJtEQ"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-11-11T18:31:08.947000",
+        "updatedAt": "2024-11-29T07:30:13.989000",
+        "__v": 1,
+        "device_id": "SKQ1.211113.001",
+        "dob": "26/6/1987",
+        "gender": "male"
+    },
+    {
+        "_id": "6738cd92bb2bd7c3dc136d53",
+        "user_id": "Qh1Cc5YaCphUjqryOF1gWZC4vAH3",
+        "device_token": [
+            "eUyckOsbzUYBkMjU5U_-jB:APA91bFsITkiRGRPHW4KsllNmslOefAiBlDxkfUrfdhJCQ6WvoqWCP9B3W4LwCyyNTtMMZzdNye-1WE0ljkpmlSj_TYLz8ie_lew-H0LoFPCqOz34Ipessw"
+        ],
+        "status": "active",
+        "createdAt": "2024-11-16T16:51:30.173000",
+        "updatedAt": "2024-11-16T16:51:30.320000",
+        "__v": 0,
+        "device_id": "286D2AF7-CF1B-4175-94C7-505B359F95CE",
+        "dob": "null/null/null",
+        "gender": ""
+    },
+    {
+        "_id": "673b068bbb2bd7c3dc1380d3",
+        "user_id": "Kw0lIu7bZhMXdI0oQycPlYFPJIB3",
+        "device_token": [
+            "ewcOfH04Ru6pEhyVGOtEir:APA91bGsWdEdNyolIHYZvuQZrTTKoSAYf5AgHmrrQVRdw-FP4BqJwL8lvyhEcPOTcz2CbebD8caw3BmWPyr75d6SKDCzAW5IiW-W-wyJmFtyXfFXznLC_TA"
+        ],
+        "status": "active",
+        "createdAt": "2024-11-18T09:19:07.760000",
+        "updatedAt": "2024-12-16T08:04:20.139000",
+        "__v": 6,
+        "device_id": "SKQ1.211113.001",
+        "dob": "10/7/1999",
+        "gender": "male",
+        "name": "Suraj Prakash"
+    },
+    {
+        "_id": "673b3f5249ea282731373176",
+        "user_id": "OzFcmk8NU5UKfF0NftTiHgcJAG62",
+        "device_token": [
+            "fye2r-KjRheMXwRfezvk5M:APA91bGNjMqym4VUaZJnOGwgt4lcOKW30puQOgYapdiN9Wyn-Z_aNmm9o9w0Epz0IfZoRu5fWpHzXLmkCpKfK93bmrmWKJz9ywVVs0x3FQLYwUzq1PJghZU"
+        ],
+        "status": "active",
+        "createdAt": "2024-11-18T13:21:22.406000",
+        "updatedAt": "2024-11-18T13:21:50.108000",
+        "__v": 0,
+        "device_id": "AP3A.241105.007",
+        "dob": "4/3/2002",
+        "gender": "male",
+        "name": "Sawan Bhardwaj"
+    },
+    {
+        "_id": "673edca21c3909b42f0e52bd",
+        "user_id": "ID6AAPIXlvMIAqhtV01IDH7Vc7F3",
+        "device_token": [
+            "dF_uuELFBEeYrkkVKEnW9x:APA91bGCrf7qQzXJQon8bkw9Jv2Hjp1F2bWdWKVmlhVUL6eYOQ-sufd_L_V-qpk2GxXozXKj0p1jYFc3NXdPmhr8c8Z6nModbUmDPxFz7Qqz-r9yiywOKjY"
+        ],
+        "status": "active",
+        "createdAt": "2024-11-21T07:09:22.598000",
+        "updatedAt": "2024-12-12T10:39:31.632000",
+        "__v": 5,
+        "device_id": "A26B2613-051B-47D7-A1DD-6B96E61A5E81",
+        "dob": "null/null/null",
+        "gender": "",
+        "name": "Abcd"
+    },
+    {
+        "_id": "67457d62ecdb1b7c724c12d9",
+        "user_id": "z3OUivcaWwVD4F1dJJXkqiMuhxF2",
+        "device_token": [
+            "eHIQY3csRYyrZ3_SvUFP19:APA91bGrVkOVA5BPmqhMwLyGB_FKkZufMAuS-mDmiJv_AeuIqCTVjDICswK0EPS_m4z9bMmNlhaf4OVtoJuvviJc4TATFRI8f6vQ6K2U3NXN2_ArkM6Bnko"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-11-26T07:48:50.909000",
+        "updatedAt": "2024-12-10T06:44:59.380000",
+        "__v": 7,
+        "device_id": "QP1A.190711.020",
+        "dob": "null/null/null",
+        "gender": "",
+        "name": "Tapish Khari"
+    },
+    {
+        "_id": "6746ff2af58462f3276e9ca3",
+        "user_id": "1CKxkAsh7ESHpBhOSCY6NNPtmOl1",
+        "device_token": [
+            "fVyQTiwdK0O3lkxqdUhP_Y:APA91bH9WUQS7vXWlisbO2TAY-z5lbUgQymTHa6EMa9EHgxgd5ceDGOjzm2qEpfypnNjojXjC6hfA00vC7SHUMqwj6PeadKcjYiVYGVXvspoHnGlcjWHQLs"
+        ],
+        "status": "active",
+        "createdAt": "2024-11-27T11:14:50.698000",
+        "updatedAt": "2024-12-18T12:09:06.250000",
+        "__v": 0,
+        "device_id": "0A110444-9F27-4893-A1E4-1E208AB27C4E",
+        "dob": "3/9/1994",
+        "gender": "female",
+        "name": "GAGA"
+    },
+    {
+        "_id": "674700928f86b6061b64740e",
+        "user_id": "otKSsbjH78PteHtpQV0EJXVJMA72",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-11-27T11:20:50.642000",
+        "updatedAt": "2024-12-17T15:45:59.448000",
+        "__v": 1,
+        "device_id": "EF494FEA-73AA-4B5F-A6E1-632AEA40F4DC",
+        "dob": "null/null/null",
+        "gender": "",
+        "name": "Gagandeep Kaur"
+    },
+    {
+        "_id": "674826398f86b6061b648eca",
+        "user_id": "l5LXRqsF3CYiXpSc8TStSvyXgcH2",
+        "device_token": [
+            ""
+        ],
+        "status": "in-active",
+        "createdAt": "2024-11-28T08:13:45.291000",
+        "updatedAt": "2024-12-12T08:49:31.963000",
+        "__v": 4,
+        "device_id": "TP1A.220624.014",
+        "dob": "null/null/null",
+        "gender": "",
+        "name": "NAZEEF"
+    },
+    {
+        "_id": "674827f75285df2f04381210",
+        "user_id": "hFEmZJpxwyc4nVQ1XH9dsKMwoY33",
+        "device_token": [
+            "f9Pitl9uQDGw9rwetiWGlb:APA91bGjkQqElPRWCYC1Q_H3dqLYy2K31LziL-MIUxQTlUziyk6vSEkQ73a7zOLhz9dvSVmxSwm_4KBkJ2Izfj5q8HwdBXslblWNDuHLQg3qZxRy6iQMQMA"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-11-28T08:21:11.776000",
+        "updatedAt": "2024-12-12T08:49:31.963000",
+        "__v": 2,
+        "device_id": "TP1A.220624.014",
+        "dob": "16/3/2004",
+        "gender": "unspecified",
+        "name": "Black Pearl"
+    },
+    {
+        "_id": "67486f0b5285df2f04381e4b",
+        "user_id": "GVeaKJLwFhfPb4TM83GHerL3TJs1",
+        "device_token": [
+            "cKIU2HV3Sq2RjKyJxCS-DI:APA91bG7xKbD2z7kXo9ftlBXeEkUBGnQCLtIfazBDzQZCMaXVpAMxHtAomicg9VhUBnoZj7GLE_2GD_vuFdakjTzHVMq7AWTKlRiADbY1gab04NA8IjJnAY"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-11-28T13:24:27.551000",
+        "updatedAt": "2024-12-12T08:49:31.963000",
+        "__v": 1,
+        "device_id": "TP1A.220624.014",
+        "dob": "23/12/2003",
+        "gender": "male",
+        "name": "Nazeef ahmad"
+    },
+    {
+        "_id": "67489fb68f86b6061b64a6ae",
+        "user_id": "tSkCenmHpuQhsP3CabSe7HAbmz73",
+        "device_token": [
+            "cbm2D6vD8kBUkxHomxXwVl:APA91bEVw1o6kkPnD-Q10KT8qtcOtqT4zPekOVJg1FFOq76lJiIm5IYx7WXKJpDMnrZPU8r5Uy6vIc5vV65PI3d6_SzcTFbG3BZjJhbyqphgzDbQtF5oCXU"
+        ],
+        "status": "active",
+        "createdAt": "2024-11-28T16:52:06.251000",
+        "updatedAt": "2024-12-09T11:59:28.429000",
+        "__v": 0,
+        "device_id": "DDB164ED-6F66-400A-AE82-938F6696FE79",
+        "dob": null,
+        "gender": null,
+        "name": "Robin singh"
+    },
+    {
+        "_id": "67494cee8f86b6061b64aea3",
+        "user_id": "AEqXPxEwn2XYzaPcNFjGmFIUQnw2",
+        "device_token": [
+            "c89j7p0fSBidptztRed_lx:APA91bHAZfMO0SIdWUZ_2EmO4z7eDgjfHeFGvTOb-YqubDmgiAJvztVva6G-07Ird4qMxSKyi5s6LWwLpi9FsBJ9JqWlNpKqt_uJGi8hOKesXlkyJfI5FYc"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-11-29T05:11:10.690000",
+        "updatedAt": "2024-12-19T08:09:49.856000",
+        "__v": 3,
+        "device_id": "UKQ1.230924.001",
+        "dob": "8/5/2001",
+        "gender": "male"
+    },
+    {
+        "_id": "6749566f5285df2f04382ca1",
+        "user_id": "gbK5J3MrNqOTqbNnymwc4B7kpAk1",
+        "device_token": [
+            "fWHFCgv4TaqyaNPM9qgc40:APA91bHGNDUHNujAVMc1L03XVLVra7eDF544Ha2YhwNJVbnCLFhHoXLgmsXfmnqKPoRH6PDE9yLWIkpUlxdP8jWRYF63wJ8-pBoVJOsvBaqDJMManrbz8hw"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-11-29T05:51:43.540000",
+        "updatedAt": "2024-12-19T08:09:49.856000",
+        "__v": 36,
+        "device_id": "UKQ1.230924.001",
+        "dob": "null/null/null",
+        "gender": "",
+        "name": "aman"
+    },
+    {
+        "_id": "67495e1c5285df2f04382d11",
+        "user_id": "Pjl4LuRTfwTk8Hqm5tKLJg1eiHA3",
+        "device_token": [
+            "fWuwyHglRL2nFPhAnHl2WL:APA91bGz7mdFWlZFClbwthqOhhXk5lfTeiVybCkKGK6f3znuVk_oDq_m0SoOiR1mmHUPcFhK5QRw0okZN4zZr9Mm_DGWsCtbzEpUFYtEEM_JshqI_Hms1MA"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-11-29T06:24:28.356000",
+        "updatedAt": "2024-12-12T08:49:31.963000",
+        "__v": 1,
+        "device_id": "TP1A.220624.014",
+        "dob": "23/7/2004",
+        "gender": "male",
+        "name": "ABCDE"
+    },
+    {
+        "_id": "674c6ce124fa08db85abb54a",
+        "user_id": "5aF1kZF8RwcmL2qpQhz6QoAw4fE2",
+        "device_token": [
+            "ciNVk6FsEUx-vI76yzHzBe:APA91bG5fb7ACV97fQr5CLx-b0gHIwL3tOvJBiQloyw-XWp1xIT3Mk3AbRpmfmNNH7OrG64haMsj1mE7Y_QoqabdJX38lAqmd8cjZjr4rt861LySkyYd7cY"
+        ],
+        "status": "active",
+        "createdAt": "2024-12-01T14:04:17.263000",
+        "updatedAt": "2024-12-01T14:04:17.396000",
+        "__v": 0,
+        "device_id": "82E460F2-97BC-4881-9CF0-D7394E113708",
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "674efde12adb01e01e2846c2",
+        "user_id": "R8u4wd7KhoYCeN3HS34k3y8MIS33",
+        "device_token": [
+            "clA_skoEQEjqh7Bw52okhM:APA91bHkNouHWsvWkBd-6UXK9-_2SItYss6-vkbg7r6EU3hxa8P-H7UsnuP9VC6xUrmsF2fUerXb61sD3Qk-IWQuy_Nhgv_PSPU19LnW2LWjvQ5yOdb-Uck"
+        ],
+        "status": "active",
+        "createdAt": "2024-12-03T12:47:29.881000",
+        "updatedAt": "2024-12-03T12:47:30.020000",
+        "__v": 0,
+        "device_id": "1D3377B7-F3BE-4F86-9BD9-36B3F439167C",
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "674faa4524fa08db85abde28",
+        "user_id": "me927SKHsQQo4Qfj9MFzxtuDoJ63",
+        "device_token": [
+            "cfNJAAs_R065l7-TEiq0LP:APA91bFxKhmiAvirraCtvQy0LZdQjrI6sIiMpCgtfL_cOY3DN50GH-ZfFZ4WG7HTgTEwwKl_EagGCWFKgjzz91f2B99FNEp4iKnLr6VFf3KFrBWklJ_BX0k"
+        ],
+        "status": "active",
+        "createdAt": "2024-12-04T01:03:01.444000",
+        "updatedAt": "2024-12-04T01:03:01.581000",
+        "__v": 0,
+        "device_id": "143F4471-B7C7-4B63-8F0C-2AC9E72D6F23",
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "674ff3672adb01e01e284c8e",
+        "user_id": "actuwok0CDQXMkoWJ5zgd5WU9GJ3",
+        "device_token": [
+            "dOV5aZQeyk-gqUSTRvmidq:APA91bE3p_HB3Sy7paZcPI56xrE9Cl_GFb4h0RG1S5soucg2G7Twm3hjbom1uoA7sNDD26yYCP5CYZ1yVWZKliYECb5YeW0IKK-b8YNWRmVFpWPnTo9eL_Q"
+        ],
+        "status": "active",
+        "createdAt": "2024-12-04T06:15:03.777000",
+        "updatedAt": "2024-12-04T06:15:59.061000",
+        "__v": 0,
+        "device_id": "97794D54-BE60-42C8-977F-19D4006BB813",
+        "dob": null,
+        "gender": null,
+        "name": "Robin Singh"
+    },
+    {
+        "_id": "675038545e9ecfd78a43dd56",
+        "user_id": "8sAri3N6fOeHMQI0t0ozJZ818Ay2",
+        "device_token": [
+            "dKoay9Vm4kYpie6v7T0pJC:APA91bELvPt_Pjch4Y6BAtlSed60Zlp09tzixbhZR_N5a7HU9Z4b8PQ9kkyYQ6le3MEFDQ4Zl8VotS9tC3JwErGVRlG15v2gYODom-IJ_wN3cjIEldW6xmA"
+        ],
+        "status": "active",
+        "createdAt": "2024-12-04T11:09:08.266000",
+        "updatedAt": "2024-12-04T11:09:08.402000",
+        "__v": 0,
+        "device_id": "E98D362E-74A6-4A69-9DB9-173598530E14",
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "6750b2a75e9ecfd78a43ec8f",
+        "user_id": "8RubEwltisa7kXfDb5wC08ig5vE2",
+        "device_token": [
+            "eDxOszZOqkPJmJx_Ieixj7:APA91bGYwDv0UP5HbPQ_UYOjeWioZzw0LvwQeHmq_uZ4bu7DO6ONwl9O9O2p87qf6-gtH3mTuH7dY5GtfD70fO0SG9nbfLfayIhh6FpJ7sOLrHSojhqLpMA"
+        ],
+        "status": "active",
+        "createdAt": "2024-12-04T19:51:03.412000",
+        "updatedAt": "2024-12-04T19:51:03.560000",
+        "__v": 0,
+        "device_id": "17E51791-D062-457D-A39C-5FEF0C9B7AD1",
+        "dob": "1/1/1982",
+        "gender": "male"
+    },
+    {
+        "_id": "67518c7624fa08db85ac0b58",
+        "user_id": "7DtHorgtk7YVFvbBJ40y4tzqz6i2",
+        "device_token": [
+            "f9PnNianFU2Io7NqRs04kh:APA91bHVpIQB2UAucYOQrB-rBcUD2PRUGknqL8q4GGnRJvL29zLVmWeAJUYw95KL5kOaSgpcNnEqRIMaF3np24NtB0XL6N6qjRtUxCnUotxrJ5DYGxNGWdI"
+        ],
+        "status": "active",
+        "createdAt": "2024-12-05T11:20:22.922000",
+        "updatedAt": "2024-12-06T09:29:38.087000",
+        "__v": 2,
+        "device_id": "8D0671A8-5E1D-41CC-8286-DE04C78CFFA3",
+        "dob": "null/null/null",
+        "gender": "",
+        "name": "Robin Singh"
+    },
+    {
+        "_id": "6751b3ea2adb01e01e287ced",
+        "user_id": "L5EIJEquBkaSqn2nIAMHiuSjTBu1",
+        "device_token": [
+            "czVBuojZWEv9vj4YOscmu6:APA91bFtlhBvMbLW21K4lAM_eojXiRInKg67cLBKyD49OAO_a45kq03MQyfX2FI718MFbKd_pSKztm1zLmEfMamxYq_8Nvxiu1zdQkkIn7ufHhOH7vRdmDE"
+        ],
+        "status": "active",
+        "createdAt": "2024-12-05T14:08:42.407000",
+        "updatedAt": "2024-12-05T14:08:55.467000",
+        "__v": 0,
+        "device_id": "BDDE8000-CF50-496E-913F-C877278B2D1E",
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "6756be9924fa08db85ac4c04",
+        "user_id": "96e6sQS3gxOIyIWKuzoLMR25cMt1",
+        "device_token": [
+            "eGjd9n6gcEXZr01EvZ9xks:APA91bHbtooEDI2wsvIZgR-mdev65NTzvev5WBgW9d1QOJhmRFuaPmU6IhqUecpsPjhxeWu0G6_vU7sIik-QEjZYKAbvjnNSnUB9TVWkZORWRuv9vngHLmw"
+        ],
+        "status": "active",
+        "createdAt": "2024-12-09T09:55:37.185000",
+        "updatedAt": "2024-12-09T09:55:37.328000",
+        "__v": 0,
+        "device_id": "B2A1A9FF-3EE0-4F3F-AB59-02DD7CA40001",
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "6756d35c5e9ecfd78a444171",
+        "user_id": "x7j12gtCbyRN8rzM0Fb5DDzQl7H3",
+        "device_token": [
+            "ctHOVnK99EC-l-jo9bP_VZ:APA91bEV-HlmBsAwaMOiZNJLEszE15tZKdN8KgELuNLQQCkrtCUl8B8rkBWf4G3FhcQ_vun3RAVFs8Aelcvj5z3Fol7nLxFKFqqm2aZ-YjZ9C621dlZnBu8"
+        ],
+        "status": "active",
+        "createdAt": "2024-12-09T11:24:12.924000",
+        "updatedAt": "2024-12-09T11:24:26.335000",
+        "__v": 0,
+        "device_id": "3B84304F-8084-49D6-A0C0-7DBE81B61C30",
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "6756d46c5e9ecfd78a4441a4",
+        "user_id": "AuUP7w88dhQD48yp3ki70cwzLBi2",
+        "device_token": [
+            "ebPlU1mARpWJV54pFZeRHx:APA91bGha2Qq9AzPg4fwkDTp5xRcG-WLro9ymjoPv3CxdPVWxtqXuqAvT5-_jrlgbzIIdzI8A8AnAdXJLJ-9xtakMk87r9Y9x2H98n70HiiTbr8CrTug-RI"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-12-09T11:28:44.579000",
+        "updatedAt": "2024-12-14T22:06:35.522000",
+        "__v": 1,
+        "device_id": "UP1A.231005.007",
+        "dob": "null/null/null",
+        "gender": ""
+    },
+    {
+        "_id": "6756d5fa24fa08db85ac51d1",
+        "user_id": "hwhyUJOXhYNTkQm0u2eb4jtzLtH2",
+        "device_token": [
+            ""
+        ],
+        "status": "active",
+        "createdAt": "2024-12-09T11:35:22.625000",
+        "updatedAt": "2024-12-09T11:35:22.771000",
+        "__v": 0,
+        "device_id": "3B4629B8-6D11-4226-A65B-48094691754D",
+        "dob": null,
+        "gender": null
+    },
+    {
+        "_id": "6757e36b2adb01e01e28c18b",
+        "user_id": "FB3HzjyyV6bKcxpraj3Uk2Gp7Ez2",
+        "device_token": [
+            "cMkekZXORcSq080OKy7PVL:APA91bF126FQnY6027kfNUTz5ckr2uztWdo22lfH4Akp9rI3fMqMYdPoKyfJQocuhGGhFmB2x260LbOzWYHiH4BAz4JLEaoihiXc0K7UAmdXFeNmKygEvm0"
+        ],
+        "status": "active",
+        "createdAt": "2024-12-10T06:44:59.529000",
+        "updatedAt": "2024-12-18T10:48:09.299000",
+        "__v": 4,
+        "device_id": "QP1A.190711.020",
+        "dob": "6/8/2001",
+        "gender": "female"
+    },
+    {
+        "_id": "67580e9c5e9ecfd78a444d5d",
+        "user_id": "TOd1KNEu2EPnNFz53MkVQf5QLiE2",
+        "device_token": [
+            "fmmJY01sZ0jvi6_lWgt2jh:APA91bG7wIaHXOFZikjzu4due7fFcfeWDmOEVB0-A3l14iyALkv9wOCiJHK7VYukwAGfMD-tk6EHdt-BCzxlfYyMI-dH2hu296Pad3SkaQxIbVLsyKmRD5E"
+        ],
+        "status": "active",
+        "createdAt": "2024-12-10T09:49:16.775000",
+        "updatedAt": "2024-12-10T09:49:16.918000",
+        "__v": 0,
+        "device_id": "63D3AFFA-BFA4-4D2D-8218-E7FC8B549338",
+        "dob": "16/11/1999",
+        "gender": "male"
+    },
+    {
+        "_id": "6759863f2adb01e01e28e5b7",
+        "user_id": "pTSa6NjCMlWm7ufHF3QVvXTMXT02",
+        "device_token": [
+            "da1AEP-aQQurBZT5o2um7h:APA91bG2KG0H5TleaJ6aYG_t0kp_fnhm5CF-cV4EHLmEcy0NUC5ZCH-JnhBQn6um7YzIWAcM5u5CmhfuK6e2azXBXNdVxBUFS04UrLYoeUo2IBw4MJOvQOQ"
+        ],
+        "status": "in-active",
+        "createdAt": "2024-12-11T12:31:59.814000",
+        "updatedAt": "2024-12-19T08:09:49.856000",
+        "__v": 9,
+        "device_id": "UKQ1.230924.001",
+        "dob": "8/5/1999",
+        "gender": "male"
+    },
+    {
+        "_id": "675d220663c87ebf11494939",
+        "user_id": "u0mqvJAqiQQS5q60DZPBHC9z5jr1",
+        "device_token": [
+            "eDMNmTMQLUtMiVeQDwpE95:APA91bGvnLpNW0fVrn6vcEC1NrIE_yrHGkCpb2eax5StbYNG9J7f3JrZBWWRB1IiU2zWNJnpVLyb8bLlBTPqVCfm4zmo-td0_GI4nJP9MC9Pl8er1M7KcDY"
+        ],
+        "status": "active",
+        "createdAt": "2024-12-14T06:13:26.316000",
+        "updatedAt": "2024-12-14T06:13:26.453000",
+        "__v": 0,
+        "device_id": "68C52FAF-B4BA-4BA5-8E5D-168DE8A81B5A",
+        "dob": "6/8/1989",
+        "gender": "male"
+    },
+    {
+        "_id": "675ff76fbf908dab1b0b2a0c",
+        "user_id": "uMPAJSzUp3aoEYRZjVpjDXbnsV63",
+        "device_token": [
+            "emrnLG_NQLq27rqHbcJpPp:APA91bEmKAF3JQ2BcXjAStUF-Zrxn2WgNuJdC-iSOlNmrMcHtblmbSiUNziqmgN73S1T1YPaeMKyVDH1jab9kxYC2wuYhk2gbf4YgbTbt6tZ3DmuDjBtKxg"
+        ],
+        "status": "active",
+        "createdAt": "2024-12-16T09:48:31.949000",
+        "updatedAt": "2024-12-19T08:09:50.150000",
+        "__v": 5,
+        "device_id": "UKQ1.230924.001",
+        "dob": "23/12/2003",
+        "gender": "male"
+    },
+    {
+        "_id": "676162b714bea497388a2f25",
+        "user_id": "0UyIyVMkDvVmzTpeuNpnIgEPgw93",
+        "device_token": [
+            "fa_JhFUX8UjtoL02YFcF7v:APA91bEndFyL_Ndr7uGwMtzB8hQGwCl1yhwwXFNyiKAGdSK53CeqpZOoBea1M0HhT0uhmCuGm2b8CSSAQpZ49_35bvDl6ga_iyGUlebKdfxrdmQAIHj2-ds"
+        ],
+        "status": "active",
+        "createdAt": "2024-12-17T11:38:31.229000",
+        "updatedAt": "2024-12-17T11:38:31.368000",
+        "__v": 0,
+        "device_id": "D4CC479F-6199-494A-B29F-0A2FBD852BD7",
+        "dob": "7/5/1991",
+        "gender": "male"
+    },
+    {
+        "_id": "6762338af805abbc2b623174",
+        "user_id": "Tq0fnwlKxoSlhZs2sAOw45WmmkH2",
+        "device_token": [
+            "cGlHsg4tE0ueoCCdwIx2AS:APA91bFXaIfWX90NkfXNkJl26grvhAK-T15DbXuF9FCaf56bjE5x3Ae2Z6BvLz8aQp_9Sxis2vhD9BP2vWVSy968Faivz-euF66te972XlieOfs4YOj6Oac"
+        ],
+        "status": "active",
+        "createdAt": "2024-12-18T02:29:30.793000",
+        "updatedAt": "2024-12-18T02:29:30.793000",
+        "__v": 0
+    }
+]
